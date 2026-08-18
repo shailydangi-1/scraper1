@@ -1,0 +1,1987 @@
+# YC Radar — 18 Aug 2026
+
+## 1591 new companies
+- **[Asha Health](https://www.ycombinator.com/companies/asha-health)** (Fall 2024) — We help medical practices become AI-native
+- **[Apolink](https://www.ycombinator.com/companies/apolink)** (Fall 2024) — 24/7 satellite connectivity in low Earth orbit
+- **[HumanLayer](https://www.ycombinator.com/companies/humanlayer)** (Fall 2024) — Ship 2-3x faster without AI slopping up your codebase
+- **[Loombotic](https://www.ycombinator.com/companies/loombotic)** (Fall 2024) — Wire Harnesses in as little as 7 days
+- **[Roundabout Technologies](https://www.ycombinator.com/companies/roundabout-technologies)** (Fall 2024) — Software for AI-powered traffic lights
+- **[Synth](https://www.ycombinator.com/companies/synth-3)** (Fall 2024) — Prompt and Context Optimization for Coding Agents
+- **[Careforce](https://www.ycombinator.com/companies/careforce)** (Fall 2024) — AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.
+- **[Canvas](https://www.ycombinator.com/companies/canvas)** (Fall 2024) — Continual learning for agents
+- **[Ember](https://www.ycombinator.com/companies/ember)** (Fall 2024) — AI RCM. Increase net revenue by 16%. 
+- **[Relvy AI](https://www.ycombinator.com/companies/relvy-ai)** (Fall 2024) — AI powered debugging notebooks for incident response
+- **[Freestyle](https://www.ycombinator.com/companies/freestyle-ai)** (Fall 2024) — The AI Assistant for Gmail
+- **[Laminar](https://www.ycombinator.com/companies/laminar-com)** (Fall 2024) — Enterprise systems delivery without the turbulence.
+- **[Ryvn](https://www.ycombinator.com/companies/ryvn)** (Fall 2024) — Easy and secure customer cloud deployments
+- **[Melder](https://www.ycombinator.com/companies/melder)** (Fall 2024) — AI formulas and document support for Microsoft Excel
+- **[Vaya](https://www.ycombinator.com/companies/vaya)** (Fall 2024) — Discover your next vacation for less.
+- **[x1](https://www.ycombinator.com/companies/x1)** (Fall 2024) — AI app builder for creating and launching iPhone apps
+- **[Forerunner AI](https://www.ycombinator.com/companies/forerunner-ai)** (Fall 2024) — AI that gets aircraft flying faster
+- **[FutureClinic](https://www.ycombinator.com/companies/futureclinic)** (Fall 2024) — Personal doctors through chat
+- **[Struct](https://www.ycombinator.com/companies/struct-ai)** (Fall 2024) — Agents that keep prod running
+- **[Surge](https://www.ycombinator.com/companies/surge)** (Fall 2024) — Stripe for telephony
+- **[Sunset](https://www.ycombinator.com/companies/sunset)** (Fall 2024) — Find and move money after a death
+- **[ArchiLabs](https://www.ycombinator.com/companies/archilabs)** (Fall 2024) — AI CAD for AEC
+- **[Revi](https://www.ycombinator.com/companies/revi)** (Fall 2024) — AI-enabled M&A deal origination
+- **[Metreecs](https://www.ycombinator.com/companies/metreecs)** (Fall 2024) — AI-powered demand forecasting for retail
+- **[Diffusion Studio](https://www.ycombinator.com/companies/diffusion-studio)** (Fall 2024) — Turn your agent into a professional video editor
+- **[Kilvin](https://www.ycombinator.com/companies/kilvin)** (Fall 2024) — Custom software for non-technical teams.
+- **[Alex](https://www.ycombinator.com/companies/alex)** (Fall 2024) — The Cursor for Xcode
+- **[Innate](https://www.ycombinator.com/companies/innate)** (Fall 2024) — Personal AI Robots
+- **[Capy](https://www.ycombinator.com/companies/capy)** (Fall 2024) — The IDE for the parallel age
+- **[Consus](https://www.ycombinator.com/companies/consus)** (Fall 2024) — The fastest and cheapest way to use AI with ITAR or CUI data. 
+- **[CollectWise](https://www.ycombinator.com/companies/collectwise)** (Fall 2024) — Automating consumer debt collection with AI
+- **[Origami](https://www.ycombinator.com/companies/origami-2)** (Fall 2024) — Get your perfect customers with one prompt
+- **[Fresco](https://www.ycombinator.com/companies/fresco)** (Fall 2024) — AI copilot for construction estimators
+- **[PermitPortal](https://www.ycombinator.com/companies/permitportal)** (Fall 2024) — AI Operating System for Pre-construction
+- **[Gecko Security](https://www.ycombinator.com/companies/gecko-security)** (Fall 2024) — The AI Security Engineer to Find and Fix Vulnerabilities 
+- **[Curo](https://www.ycombinator.com/companies/curo)** (Fall 2024) — Electric fleets park and charge anywhere with Curo
+- **[Dexter](https://www.ycombinator.com/companies/dexter)** (Fall 2024) — Spend Intelligence for Complex Enterprises
+- **[Moonshine](https://www.ycombinator.com/companies/moonshine)** (Fall 2024) — Extending AI to interact with the real world
+- **[Abundant](https://www.ycombinator.com/companies/abundant)** (Fall 2024) — Agent simulation and RL for researchers
+- **[AutoComputer](https://www.ycombinator.com/companies/autocomputer)** (Fall 2024) — Desktop RPA with AI computer use
+- **[Crustdata](https://www.ycombinator.com/companies/crustdata)** (Fall 2024) — Real-time B2B data via simple APIs
+- **[Tiny](https://www.ycombinator.com/companies/tiny)** (Fall 2024) — A new kind of ERP system for factories
+- **[vly.ai](https://www.ycombinator.com/companies/vly-ai-2)** (Fall 2024) — The Lovable & Replit killers
+- **[Pearson Labs](https://www.ycombinator.com/companies/pearson-labs)** (Fall 2024) — AI agents to automate corporate transactions
+- **[Stewdio](https://www.ycombinator.com/companies/stewdio)** (Fall 2024) — All-in-one AI creative platform
+- **[Beglaubigt.de](https://www.ycombinator.com/companies/beglaubigtde)** (Fall 2024) — The legal back-office for European founders - the incorporation API…
+- **[Unusual](https://www.ycombinator.com/companies/unusual)** (Fall 2024) — Market to AI agents
+- **[Charm](https://www.ycombinator.com/companies/withcharm)** (Fall 2024) — Charm is the universal payments app — send money to anyone.
+- **[HYBRD](https://www.ycombinator.com/companies/hybrd)** (Fall 2024) — coaching agents for athletes
+- **[Freebuff](https://www.ycombinator.com/companies/freebuff)** (Fall 2024) — The free coding agent
+- **[Karmen](https://www.ycombinator.com/companies/karmen)** (Fall 2024) — Your AI scheduling assistant for construction
+- **[Lingo.dev](https://www.ycombinator.com/companies/lingodotdev)** (Fall 2024) — The Localization Engineering Platform
+- **[Sphinx](https://www.ycombinator.com/companies/sphinx)** (Fall 2024) — AI Compliance Analysts for Banks & Fintechs
+- **[Luthor](https://www.ycombinator.com/companies/luthor)** (Fall 2024) — Real-time governance for enterprise communications
+- **[Keye](https://www.ycombinator.com/companies/keye)** (Fall 2024) — The Smartest Private Equity Investor
+- **[RiskCube](https://www.ycombinator.com/companies/riskcube)** (Fall 2024) — Independent insurance brokerage for startups.
+- **[CTGT](https://www.ycombinator.com/companies/ctgt)** (Fall 2024) — The deterministic layer for frontier intelligence
+- **[General Learning](https://www.ycombinator.com/companies/general-learning)** (Fall 2024) — AI tutors for students.
+- **[ISSEN](https://www.ycombinator.com/companies/issen)** (Fall 2024) — AI realtime voice companion for language learning
+- **[attimet](https://www.ycombinator.com/companies/attimet)** (Fall 2024) — we predict stuff
+- **[Smooth](https://www.ycombinator.com/companies/smooth)** (Fall 2024) — Fast, simple, reliable AI browser agent
+- **[Reticular](https://www.ycombinator.com/companies/reticular)** (Fall 2024) — Scaling Genomic AI for Embryo Selection
+- **[Matcha](https://www.ycombinator.com/companies/astrix-health)** (Fall 2024) — The best way to hire clinical talent.
+- **[Endstack](https://www.ycombinator.com/companies/endstack)** (Fall 2024) — The complete, collaborative workspace for humans and agents
+- **[Cekura](https://www.ycombinator.com/companies/cekura-ai)** (Fall 2024) — Voice AI and Chat AI agents: Testing and Observability
+- **[Archil](https://www.ycombinator.com/companies/archil)** (Fall 2024) — The high-performance file system that connects AI to data
+- **[Sandra AI](https://www.ycombinator.com/companies/sandra-ai)** (Fall 2024) — Building AI employees for car dealers
+- **[Vespper](https://www.ycombinator.com/companies/vespper)** (Fall 2024) — The best DOCX MCP for agents to edit microsoft word documents
+- **[Vortexify](https://www.ycombinator.com/companies/vortexify)** (Fall 2024) — Build full-stack applications for business operations with AI
+- **[Revyl](https://www.ycombinator.com/companies/revyl)** (Fall 2024) — The mobile development platform
+- **[Raycaster](https://www.ycombinator.com/companies/raycaster)** (Fall 2024) — AI for life sciences documents
+- **[Lightscreen AI](https://www.ycombinator.com/companies/lightscreen-ai)** (Fall 2024) — Voice + video AI interviewer
+- **[Afternoon.co](https://www.ycombinator.com/companies/afternoon-co)** (Fall 2024) — Bookkeeping, compliance and tax for founders
+- **[Rulebase](https://www.ycombinator.com/companies/rulebase)** (Fall 2024) — AI customer operations for regulated industries.
+- **[HealthSpark](https://www.ycombinator.com/companies/healthspark)** (Fall 2024) — Empowering Physical Therapists to Go Independent
+- **[Openbenchmarks](https://www.ycombinator.com/companies/openbenchmarks)** (Fall 2024) — Openbenchmarks helps Agents pick the right vendors via Benchmarking
+- **[Darkgrade](https://www.ycombinator.com/companies/darkgrade)** (Fall 2024) — Let your camera understand the world
+- **[Getcho](https://www.ycombinator.com/companies/getcho)** (Fall 2024) — The reliability platform for last-mile delivery
+- **[Candle](https://www.ycombinator.com/companies/candle)** (Fall 2024) — Candle helps friends and couples grow closer daily in just 5 minutes.
+- **[Moonset Health](https://www.ycombinator.com/companies/moonset-health)** (Fall 2024) — AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…
+- **[Durate](https://www.ycombinator.com/companies/durate)** (Fall 2024) — Automated physician scheduling
+- **[Crouton](https://www.ycombinator.com/companies/crouton)** (Fall 2024) — The living map of your organization
+- **[Streamable](https://www.ycombinator.com/companies/streamable)** (Fall 2024) — Powering the biggest IRL streamers today.
+- **[Symphony](https://www.ycombinator.com/companies/symphony)** (Fall 2024) — Voice AI sims for next-gen employee training
+- **[telli](https://www.ycombinator.com/companies/telli)** (Fall 2024) — AI phone agents that convert
+- **[Avora](https://www.ycombinator.com/companies/avora)** (Fall 2024) — Agents for dental operations
+- **[Galini](https://www.ycombinator.com/companies/galini)** (Fall 2024) — Compliance guardrails-as-a-service for AI applications
+- **[Riveter](https://www.ycombinator.com/companies/riveter)** (Fall 2024) — Turn the web into structured data
+- **[Clarus](https://www.ycombinator.com/companies/clarus)** (Fall 2024) — LP clarity across private markets
+- **[Variant](https://www.ycombinator.com/companies/variant)** (Fall 2024) — Creative intelligence
+- **[Gander](https://www.ycombinator.com/companies/gander)** (Fall 2024) — Automation System for Global Aviation
+- **[supercontrast](https://www.ycombinator.com/companies/supercontrast)** (Fall 2024) — AI Co-Pilot for Design
+- **[Gait](https://www.ycombinator.com/companies/gait)** (Fall 2024) — Building Dev Infra for AI Software Engineers
+- **[Zeroframe](https://www.ycombinator.com/companies/zeroframe)** (Fall 2024) — Pushing the boundaries of AI
+- **[Coasts](https://www.ycombinator.com/companies/coasts)** (Fall 2025) — Localhost service isolation and orchestration for git worktrees
+- **[Zephyr Fusion](https://www.ycombinator.com/companies/zephyr-fusion)** (Fall 2025) — Powering tomorrow's industrial revolution in space
+- **[Mayflower](https://www.ycombinator.com/companies/mayflower)** (Fall 2025) — AI plug-in that automates HR immigration screening and compliance
+- **[item](https://www.ycombinator.com/companies/item)** (Fall 2025) — The AI-Native CRM that works for you
+- **[Rivet](https://www.ycombinator.com/companies/rivet-design)** (Fall 2025) — Visual editor to design in production code
+- **[Openroll](https://www.ycombinator.com/companies/openroll)** (Fall 2025) — The AI workforce for People and Finance teams
+- **[Amika](https://www.ycombinator.com/companies/amika)** (Fall 2025) — Infra to build your own software factory
+- **[Specific Labs](https://www.ycombinator.com/companies/specific-labs)** (Fall 2025) — Audio and Enterprise Human Data for AI
+- **[Moss](https://www.ycombinator.com/companies/moss)** (Fall 2025) — Real-time semantic search for Conversational AI
+- **[Zarna](https://www.ycombinator.com/companies/zarna)** (Fall 2025) — AI Associates for Private Capital 
+- **[MarkIt](https://www.ycombinator.com/companies/markit)** (Fall 2025) — AI Agents for Trade Compliance - Saving Companies from Tariffs
+- **[Clicks Health](https://www.ycombinator.com/companies/clicks-health)** (Fall 2025) — AI agents for your healthcare back-office operations.
+- **[Fastshot](https://www.ycombinator.com/companies/fastshot)** (Fall 2025) — Lovable for mobile apps
+- **[Antigen](https://www.ycombinator.com/companies/antigen)** (Fall 2025) — Continuous offensive security for the enterprise.
+- **[LunaBill](https://www.ycombinator.com/companies/lunabill)** (Fall 2025) — AI Voice callers for healthcare billing teams
+- **[Axial](https://www.ycombinator.com/companies/axial)** (Fall 2025) — Accelerated Physics Kernels for Computational Engineering
+- **[Velvet](https://www.ycombinator.com/companies/velvet)** (Fall 2025) — Infra and data for interactive AI.
+- **[DiligenceSquared](https://www.ycombinator.com/companies/diligencesquared-inc)** (Fall 2025) — AI-powered market due diligence for investment decisions
+- **[Amera](https://www.ycombinator.com/companies/amera)** (Fall 2025) — Automating claims processing workflows for health insurance payers.
+- **[Forge Robotics](https://www.ycombinator.com/companies/forge-robotics)** (Fall 2025) — A robotics intelligence system for metal fabrication
+- **[Bluma](https://www.ycombinator.com/companies/bluma)** (Fall 2025) — Canva for short-form video ads
+- **[Lightberry](https://www.ycombinator.com/companies/lightberry)** (Fall 2025) — Robots with soul
+- **[The Hog](https://www.ycombinator.com/companies/the-hog)** (Fall 2025) — Real-time web intelligence API for AI agents and GTM teams
+- **[Layers](https://www.ycombinator.com/companies/layers)** (Fall 2025) — A 30 min appointment to measure everything in your body
+- **[Boom AI](https://www.ycombinator.com/companies/boom-ai)** (Fall 2025) — AI agents that recover lost revenue through real conversations.
+- **[Freeport Markets](https://www.ycombinator.com/companies/freeport-markets)** (Fall 2025) — Trade Anything
+- **[Miniswap](https://www.ycombinator.com/companies/miniswap)** (Fall 2025) — The Marketplace for Complex Hobbies
+- **[Rovi Health](https://www.ycombinator.com/companies/rovi-health)** (Fall 2025) — AI healthcare concierge for employees
+- **[MadeThis](https://www.ycombinator.com/companies/madethis)** (Fall 2025) — The autonomous business platform
+- **[Jarmin](https://www.ycombinator.com/companies/jarmin)** (Fall 2025) — AI Employees for human-level roles
+- **[Exonic](https://www.ycombinator.com/companies/exonic)** (Fall 2025) — Unsupervised Biological AI
+- **[Lemma](https://www.ycombinator.com/companies/uselemma)** (Fall 2025) — Production Monitoring for AI agents
+- **[Perseus](https://www.ycombinator.com/companies/perseus)** (Fall 2025) — Applied Lab focused on Search in Latent Spaces.
+- **[Karumi](https://www.ycombinator.com/companies/karumi)** (Fall 2025) — The Waymo of Personalized demos
+- **[Icarus](https://www.ycombinator.com/companies/icarus)** (Fall 2025) — Stratospheric birds for defense
+- **[Sava](https://www.ycombinator.com/companies/savahq)** (Fall 2025) — Building the future of trusts
+- **[Denki](https://www.ycombinator.com/companies/denki)** (Fall 2025) — The full-stack AI financial audit firm
+- **[Metorial](https://www.ycombinator.com/companies/metorial)** (Fall 2025) — Agentic infrastructure to power AI-native companies.
+- **[Kalpa Labs](https://www.ycombinator.com/companies/kalpa-labs)** (Fall 2025) — Scaling Generalist Speech models
+- **[Absurd](https://www.ycombinator.com/companies/absurd)** (Fall 2025) — The Creative OS for AI video
+- **[Clad Labs](https://www.ycombinator.com/companies/clad-labs)** (Fall 2025) — the brainrot ide
+- **[Automax.ai](https://www.ycombinator.com/companies/automax-ai)** (Fall 2025) — AI native real-estate appraisal firm
+- **[Specific](https://www.ycombinator.com/companies/specific)** (Fall 2025) — AWS for coding agents
+- **[Relaw](https://www.ycombinator.com/companies/relaw)** (Fall 2025) — AI Legal OS
+- **[Narrative](https://www.ycombinator.com/companies/usenarrative)** (Fall 2025) — Video Intelligence for Sports
+- **[Crunched](https://www.ycombinator.com/companies/crunched)** (Fall 2025) — Excel AI analyst for Power Users
+- **[Lua Global Inc](https://www.ycombinator.com/companies/lua-global-inc)** (Fall 2025) — The mid-market agent platform
+- **[Philon](https://www.ycombinator.com/companies/philon)** (Fall 2025) — General Purpose Robots
+- **[Sourcebot](https://www.ycombinator.com/companies/sourcebot)** (Fall 2025) — Helping humans and AI agents understand massive codebases
+- **[Zalos](https://www.ycombinator.com/companies/zalos)** (Fall 2025) — Computer Agents for Finance tasks like reconciliation, in your system!
+- **[Aside](https://www.ycombinator.com/companies/aside)** (Fall 2025) — The browser built to do real work for you
+- **[Scott AI](https://www.ycombinator.com/companies/scott-ai)** (Fall 2025) — The planning layer for teams that build with coding agents
+- **[Everest](https://www.ycombinator.com/companies/everest)** (Fall 2025) — —
+- **[Expected Parrot](https://www.ycombinator.com/companies/expected-parrot)** (Fall 2025) — Simulate your customers with AI agents
+- **[Imagine AI](https://www.ycombinator.com/companies/imagine-ai)** (Fall 2025) — We reverse engineer B2B growth, starting with LinkedIn.
+- **[Anto Biosciences](https://www.ycombinator.com/companies/anto-biosciences)** (Fall 2025) — A Foundation Model for Microbial Communities.
+- **[Patent Watch](https://www.ycombinator.com/companies/patent-watch)** (Fall 2025) — AI for detecting patent infringements
+- **[s2.dev](https://www.ycombinator.com/companies/s2-dev)** (Fall 2025) — API for unlimited, durable, real-time streams
+- **[Tornyol](https://www.ycombinator.com/companies/tornyol)** (Fall 2025) — We build micro-drones that kill mosquitoes. 
+- **[Nucleo](https://www.ycombinator.com/companies/nucleo)** (Fall 2025) — The first Agentic platform for Oncology
+- **[Leadbay](https://www.ycombinator.com/companies/leadbay)** (Fall 2025) — Qualified leads for agentic workflows.
+- **[Pixley AI](https://www.ycombinator.com/companies/pixley-ai)** (Fall 2025) — The first platform where families can create AI cartoons in minutes
+- **[Cortex AI](https://www.ycombinator.com/companies/cortex-ai)** (Fall 2025) — Large-scale real-world robot & human data for embodied AI
+- **[Sol](https://www.ycombinator.com/companies/solbrowser)** (Fall 2025) — Code and browse in the same place
+- **[Thesis](https://www.ycombinator.com/companies/thesis)** (Fall 2025) — Autonomous AI research
+- **[Play Health](https://www.ycombinator.com/companies/play-health)** (Fall 2025) — Perimenopause Care Platform
+- **[Casey](https://www.ycombinator.com/companies/casey)** (Fall 2025) — Casey is an AI-native commercial insurance brokerage
+- **[Selfin](https://www.ycombinator.com/companies/selfin)** (Fall 2025) — Building the first AI Bank
+- **[Compyle](https://www.ycombinator.com/companies/compyle)** (Fall 2025) — The coding agent that actually collaborates with you
+- **[Lexi](https://www.ycombinator.com/companies/lexi)** (Fall 2025) — AI Operating System for Legal Teams
+- **[Codyco](https://www.ycombinator.com/companies/codyco)** (Fall 2025) — The AI Reservation Team for Hotel Groups
+- **[ComplyDo](https://www.ycombinator.com/companies/complydo)** (Fall 2025) — Global Compliance for Enterprises
+- **[Bravi](https://www.ycombinator.com/companies/bravi)** (Fall 2025) — The AI operating system powering home services businesses
+- **[Redapto](https://www.ycombinator.com/companies/redapto)** (Fall 2025) — Enterprise AI Transformation Platform
+- **[Helonic](https://www.ycombinator.com/companies/helonic)** (Fall 2025) — Automatic Construction Drawing Clash Detection 
+- **[Aleph Lab](https://www.ycombinator.com/companies/aleph-lab)** (Fall 2025) — AI language buddy in the games kids love
+- **[Logical](https://www.ycombinator.com/companies/logical)** (Fall 2025) — A proactive desktop copilot. Clippy, but actually good.
+- **[Kestrel AI](https://www.ycombinator.com/companies/kestrel-ai)** (Fall 2025) — AI Agents for Platform Engineering
+- **[LogosGuard](https://www.ycombinator.com/companies/logosguard)** (Fall 2025) — The sensitive data redaction layer for AI
+- **[Sciloop](https://www.ycombinator.com/companies/sciloop)** (Fall 2025) — Expert STEM reasoning data for frontier AI labs.
+- **[Multifactor](https://www.ycombinator.com/companies/multifactor)** (Fall 2025) — Zero-trust authentication, authorization, and auditing for AI agents
+- **[Allus AI](https://www.ycombinator.com/companies/allus-ai)** (Fall 2025) — Transforming manufacturing with our next-gen Vision Foundation Model
+- **[Unsiloed AI](https://www.ycombinator.com/companies/unsiloed-ai)** (Fall 2025) — API for parsing multimodal unstructured data
+- **[SF Tensor](https://www.ycombinator.com/companies/sf-tensor)** (Fall 2025) — Infrastructure for AI labs to focus on research.
+- **[AnswerThis](https://www.ycombinator.com/companies/answerthis)** (Fall 2025) — End-to-end workspace to accelerate scientific discovery
+- **[Terrain](https://www.ycombinator.com/companies/terrain)** (Fall 2025) — AI native GTM platform for the physical economy
+- **[Lakonia](https://www.ycombinator.com/companies/lakonia)** (Fall 2025) — Delivering AI-powered situational awareness in tactical environments.
+- **[SellRaze](https://www.ycombinator.com/companies/sellraze)** (Fall 2025) — The fastest way to sell online.
+- **[Clerked](https://www.ycombinator.com/companies/clerked)** (Fall 2025) — AI clerks that automate your payables
+- **[Semble AI](https://www.ycombinator.com/companies/semble-ai)** (Fall 2025) — Operating system for your construction business.
+- **[Flick](https://www.ycombinator.com/companies/flick)** (Fall 2025) — We Handle AI. You Direct Films.
+- **[hillclimb](https://www.ycombinator.com/companies/hillclimb)** (Fall 2025) — Training Data for Recursive Self-Improvement
+- **[AtlasGrid](https://www.ycombinator.com/companies/atlasgrid)** (Fall 2025) — Accelerate Product Iteration
+- **[Wardstone](https://www.ycombinator.com/companies/wardstone)** (Fall 2025) — The Modular Interceptor Platform
+- **[Nessie](https://www.ycombinator.com/companies/nessie)** (Fall 2025) — A shared context layer for you, your team, and your agents.
+- **[Hypercubic](https://www.ycombinator.com/companies/hypercubic)** (Fall 2025) — Agentic AI for Mainframe Operations and Modernization
+- **[Cranston AI](https://www.ycombinator.com/companies/cranston-ai)** (Fall 2025) — AI Tax prep and accounting software for CPA firms
+- **[Trelium](https://www.ycombinator.com/companies/trelium)** (Fall 2025) — The Agent to Build Your Agents
+- **[Veria Labs](https://www.ycombinator.com/companies/veria-labs)** (Fall 2025) — Continuous AI pentesting that finds and fixes vulnerabilities
+- **[Minro](https://www.ycombinator.com/companies/minro)** (Fall 2025) — Identify churn risk and stay close to users at scale
+- **[Tell if AI](https://www.ycombinator.com/companies/tell-if-ai)** (Fall 2025) — AI agents on real phones, growing brands across every platform.
+- **[Bron](https://www.ycombinator.com/companies/bron)** (Fall 2025) — TikTok for Sports Trading
+- **[Koyal](https://www.ycombinator.com/companies/koyal)** (Fall 2025) — Agentic AI Filmmaking Platform
+- **[Kaigo Health](https://www.ycombinator.com/companies/kaigo-health)** (Fall 2025) — AI outpatient care workforce
+- **[Norra](https://www.ycombinator.com/companies/norra)** (Fall 2025) — Automating equipment operations for nursing facilities
+- **[Soren](https://www.ycombinator.com/companies/soren)** (Fall 2025) — The AI workforce for business operations.
+- **[Lunavo](https://www.ycombinator.com/companies/lunavo)** (Fall 2025) — Lunavo is the AI assistant for carriers.
+- **[dari.dev](https://www.ycombinator.com/companies/daridev)** (Fall 2025) — The Routing Layer for AI Agents
+- **[The Context Company](https://www.ycombinator.com/companies/the-context-company)** (Fall 2025) — Monitor AI agents and understand user behavior
+- **[Sorce](https://www.ycombinator.com/companies/sorce)** (Fall 2025) — Tinder for jobs
+- **[Caddy](https://www.ycombinator.com/companies/caddy)** (Fall 2025) — Your Personal AI for everyday work. Lives in your texts.
+- **[Locus](https://www.ycombinator.com/companies/locus)** (Fall 2025) — Payment infrastructure for AI agents
+- **[Deeptrace](https://www.ycombinator.com/companies/deeptrace)** (Fall 2025) — AI agents for on-call
+- **[Aspect](https://www.ycombinator.com/companies/aspect-inc)** (Fall 2025) — Intelligent media storage for creative teams.
+- **[Scoop](https://www.ycombinator.com/companies/scoop)** (Fall 2025) — Automating regulatory submissions for life sciences
+- **[Hyperspell](https://www.ycombinator.com/companies/hyperspell)** (Fall 2025) — Your Company Brain
+- **[Bolna AI](https://www.ycombinator.com/companies/bolna-ai)** (Fall 2025) — Voice AI to enable India's next billion
+- **[Nexus](https://www.ycombinator.com/companies/gpt)** (Fall 2025) — We help non-technical teams build AI agents without engineers
+- **[Zavo](https://www.ycombinator.com/companies/zavo)** (Fall 2025) — AI Operating System for Restaurants 
+- **[MOVEdot](https://www.ycombinator.com/companies/movedot)** (Fall 2025) — AI Agents for Hardware Engineering
+- **[Parrot](https://www.ycombinator.com/companies/parrot)** (Fall 2025) — TikTok for language learning
+- **[Brickwise](https://www.ycombinator.com/companies/brickwise)** (Fall 2025) — AI property manager for landlords and estate agents
+- **[Parse](https://www.ycombinator.com/companies/parse-bot)** (Fall 2025) — Build an API to interact with any website.
+- **[Structured AI](https://www.ycombinator.com/companies/structured-ai)** (Fall 2025) — The AI drawing review platform for architects and engineers.
+- **[Uplane](https://www.ycombinator.com/companies/uplane)** (Fall 2025) — Replace marketing agencies with AI
+- **[AirCaps](https://www.ycombinator.com/companies/aircaps)** (Fall 2025) — The AI copilot for in-person conversations.
+- **[Brickanta](https://www.ycombinator.com/companies/brickanta)** (Fall 2025) — Agentic AI for Society Builders
+- **[Semiotic](https://www.ycombinator.com/companies/semiotic)** (Fall 2025) — Studio-Grade Design at Scale
+- **[Lapis](https://www.ycombinator.com/companies/lapis)** (Fall 2025) — AI that creates and runs ads, end-end
+- **[Efference](https://www.ycombinator.com/companies/efference)** (Fall 2025) — —
+- **[Digipals](https://www.ycombinator.com/companies/digipals)** (Fall 2025) — The future of Social in the age of AI
+- **[Mixy](https://www.ycombinator.com/companies/mixy)** (Fall 2025) — Make mashups without knowing how to DJ
+- **[Fernstone](https://www.ycombinator.com/companies/fernstone)** (Fall 2025) — AI-native insurance brokerage. 
+- **[Nori](https://www.ycombinator.com/companies/nori)** (Fall 2025) — AI health coach in your pocket
+- **[Null Labs](https://www.ycombinator.com/companies/null-labs)** (Fall 2025) — End-to-end Simulation for Defense Autonomy
+- **[Parametric](https://www.ycombinator.com/companies/parametric)** (Fall 2025) — Physical businesses that run themselves
+- **[Prox](https://www.ycombinator.com/companies/prox)** (Fall 2025) — AI technical support for complex physical products
+- **[Autonomous Technologies Group](https://www.ycombinator.com/companies/autonomous-technologies-group)** (Fall 2025) — Superintelligent financial advisor
+- **[Fifth Door](https://www.ycombinator.com/companies/fifth-door)** (Fall 2025) — Create and play games with AI
+- **[Piggy Robotics](https://www.ycombinator.com/companies/piggy-robotics)** (Fall 2025) — Humanoid robots that do your chores for the price of an iPhone!
+- **[Goldbridge](https://www.ycombinator.com/companies/goldbridge)** (Fall 2025) — Ramp for Real Estate
+- **[MSPilot](https://www.ycombinator.com/companies/mspilot)** (Fall 2025) — Turn AI adoption into a recurring revenue line.
+- **[Remedy](https://www.ycombinator.com/companies/remedy)** (Fall 2025) — AI Agents for Pharmacies
+- **[Dome](https://www.ycombinator.com/companies/dome)** (Fall 2025) — A unified API for prediction markets, like Kalshi and Polymarket
+- **[Rovr](https://www.ycombinator.com/companies/rovr)** (Fall 2025) — AI FDE Engine that runs your engineering workflows
+- **[Sylvian](https://www.ycombinator.com/companies/sylvian)** (Fall 2025) — Specialized AI Agents.
+- **[Cohesive](https://www.ycombinator.com/companies/cohesive)** (Spring 2025) — The agentic CRM for blue-collar services
+- **[Docket](https://www.ycombinator.com/companies/docket)** (Spring 2025) — AI agents for web testing
+- **[Sureform](https://www.ycombinator.com/companies/sureform)** (Spring 2025) — Real-world data for multimodal and embodied AI
+- **[Foundation Industries](https://www.ycombinator.com/companies/foundation-industries)** (Spring 2025) — We supply hard tech companies with critical components.
+- **[Godela](https://www.ycombinator.com/companies/godela)** (Spring 2025) — AI Physics Engine to replace simulations and prototypes
+- **[Aegis](https://www.ycombinator.com/companies/aegis)** (Spring 2025) — AI Agents to win denied health insurance claims.
+- **[Cascade Space](https://www.ycombinator.com/companies/cascade-space)** (Spring 2025) — Commercial alternative to the Deep Space Network
+- **[Bond](https://www.ycombinator.com/companies/bond)** (Spring 2025) — Your AI Chief of Staff
+- **[Blueshoe](https://www.ycombinator.com/companies/blueshoe)** (Spring 2025) — The AI-Native Consumer + Plaintiff Law Firm
+- **[sieve](https://www.ycombinator.com/companies/sieveai)** (Spring 2025) — AI + human review to solve data cleaning - accessible via API or Excel
+- **[Airweave](https://www.ycombinator.com/companies/airweave)** (Spring 2025) — The open-source context retrieval layer for agents
+- **[Theorem](https://www.ycombinator.com/companies/theorem-2)** (Spring 2025) — Program verification so even your systems engineers can vibecode
+- **[Text.ai](https://www.ycombinator.com/companies/text-ai)** (Spring 2025) — Alfi - your group chat with social skills to bring friends closer
+- **[StarSling](https://www.ycombinator.com/companies/starsling)** (Spring 2025) — Self-Driving CI: fast AI-native GitHub Actions runners
+- **[Wavedash](https://www.ycombinator.com/companies/wavedash)** (Spring 2025) — Play the latest games in your browser with no downloads
+- **[Cactus](https://www.ycombinator.com/companies/oncactus)** (Spring 2025) — All-In-One AI Growth Partner. Built for Trades.
+- **[Vision Lab](https://www.ycombinator.com/companies/vision-lab)** (Spring 2025) — Industrial data layer for robotics training
+- **[Code Four](https://www.ycombinator.com/companies/code-four)** (Spring 2025) — Modernizing the police workflow.
+- **[Lumari](https://www.ycombinator.com/companies/lumari)** (Spring 2025) — AI Digital Workers for Supply Chain 
+- **[mlop](https://www.ycombinator.com/companies/mlop)** (Spring 2025) — Experiment tracking for training ML models
+- **[Den](https://www.ycombinator.com/companies/den)** (Spring 2025) — Make real life a video game
+- **[Cotool](https://www.ycombinator.com/companies/cotool)** (Spring 2025) — AI Agents for Security Operations Teams
+- **[Pelica](https://www.ycombinator.com/companies/pelica)** (Spring 2025) — Transforming healthcare operations with AI agents
+- **[Nimbic AI](https://www.ycombinator.com/companies/nimbic-ai)** (Spring 2025) — Automatically write and update internal docs with every code commit.
+- **[Moby Analytics](https://www.ycombinator.com/companies/moby-analytics)** (Spring 2025) — AI financial auditors
+- **[Rimba](https://www.ycombinator.com/companies/rimba)** (Spring 2025) — Streamlining Data Capture to Report Creation for Heavy Industries
+- **[Adentris](https://www.ycombinator.com/companies/adentris)** (Spring 2025) — Real-time AI Compliance for Medical Documentation
+- **[Probo](https://www.ycombinator.com/companies/probo)** (Spring 2025) — We help you get compliant while you focus on your business.
+- **[MindFort](https://www.ycombinator.com/companies/mindfort)** (Spring 2025) — Autonomous Security Agents
+- **[chrt](https://www.ycombinator.com/companies/chrt)** (Spring 2025) — chrt is a logistics platform for time-critical shipping
+- **[Mesmer](https://www.ycombinator.com/companies/mesmer)** (Spring 2025) — The operating system for the 100x Engineering Team
+- **[Naïve](https://www.ycombinator.com/companies/naive)** (Spring 2025) — Autonomous Company Infrastructure
+- **[Kairos](https://www.ycombinator.com/companies/kairos)** (Spring 2025) — Specialized AI for Critical Industries
+- **[Hemut](https://www.ycombinator.com/companies/hemut)** (Spring 2025) — AI-powered operating system for trucking companies.
+- **[Orchid](https://www.ycombinator.com/companies/orchid-ai)** (Spring 2025) — A personal EA in your iMessage
+- **[ValueMate](https://www.ycombinator.com/companies/valuemate)** (Spring 2025) — Valuemate automates real estate appraisals with AI 
+- **[Bramante](https://www.ycombinator.com/companies/bramante)** (Spring 2025) — Life sciences reagents and software
+- **[Libretto](https://www.ycombinator.com/companies/libretto)** (Spring 2025) — Turn website workflows into reliable APIs
+- **[Scalar Field](https://www.ycombinator.com/companies/scalar-field)** (Spring 2025) — Your Agentic Trading Desk — Building the next era of agentic…
+- **[Eloquent AI](https://www.ycombinator.com/companies/eloquent-ai)** (Spring 2025) — The AI Operator for Financial Services
+- **[MorphoAI](https://www.ycombinator.com/companies/morphoai)** (Spring 2025) — Software tool for designing robots and machines 
+- **[Vassar Robotics](https://www.ycombinator.com/companies/vassar-robotics)** (Spring 2025) — Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk
+- **[Boost Robotics](https://www.ycombinator.com/companies/boost-robotics)** (Spring 2025) — Robots for the inspection and maintenance of data centers
+- **[Sygaldry Technologies](https://www.ycombinator.com/companies/sygaldry-technologies)** (Spring 2025) — quantum-accelerated AI servers
+- **[ParaQuery](https://www.ycombinator.com/companies/paraquery)** (Spring 2025) — Managed GPU-accelerated Spark + SQL at 2x speed and half the cost
+- **[Klavis AI](https://www.ycombinator.com/companies/klavis-ai)** (Spring 2025) — High Quality Coding & Agentic Data for AI labs
+- **[Third Chair](https://www.ycombinator.com/companies/third-chair)** (Spring 2025) — AI-Native IP Enforcement Agent
+- **[Vesence](https://www.ycombinator.com/companies/vesence)** (Spring 2025) — Cursor for Lawyers. Agentic AI in MS Office.
+- **[NODI Energy](https://www.ycombinator.com/companies/nodi-energy)** (Spring 2025) — Distributed energy infrastructure unlocking grid power to data centers
+- **[Cartpole](https://www.ycombinator.com/companies/cartpole)** (Spring 2025) — Building reinforcement learning environments
+- **[Besimple AI](https://www.ycombinator.com/companies/besimple-ai)** (Spring 2025) — Voice data for AI
+- **[Alkali](https://www.ycombinator.com/companies/alkali)** (Spring 2025) — The smarter way to estimate steel.
+- **[Human Behavior](https://www.ycombinator.com/companies/human-behavior)** (Spring 2025) — Understand your users beyond the numbers
+- **[QualGent](https://www.ycombinator.com/companies/qualgent)** (Spring 2025) — AI Mobile App Quality Assurance Tester
+- **[Prism](https://www.ycombinator.com/companies/prism)** (Spring 2025) — Deploy AI Agents with a Single API Call
+- **[Novoflow](https://www.ycombinator.com/companies/novoflow)** (Spring 2025) — AI employees that automate medical operations for clinics. 
+- **[Theta](https://www.ycombinator.com/companies/theta)** (Spring 2025) — Specialized AI for Every Job
+- **[IRBC](https://www.ycombinator.com/companies/irbc)** (Spring 2025) — AI-native financial institution for global businesses + agents.
+- **[Anana](https://www.ycombinator.com/companies/anana)** (Spring 2025) — The agentic system of action for hotel groups and management companies
+- **[throxy](https://www.ycombinator.com/companies/throxy)** (Spring 2025) — Vertical AI agents running B2B outbound on autopilot, with human SDRs
+- **[Lucis](https://www.ycombinator.com/companies/lucis)** (Spring 2025) — Function Health for Europe 
+- **[Flott HQ](https://www.ycombinator.com/companies/flott-hq)** (Spring 2025) — AI-native operating system for vehicle fleet management
+- **[Crimson](https://www.ycombinator.com/companies/crimson)** (Spring 2025) — The AI Associate for Litigation Lawyers
+- **[Casco](https://www.ycombinator.com/companies/casco)** (Spring 2025) — Autonomous security testing for web apps, APIs, cloud, and AI systems
+- **[Nomi](https://www.ycombinator.com/companies/nomi)** (Spring 2025) — Realtime Sales Copilot
+- **[Morphik](https://www.ycombinator.com/companies/morphik)** (Spring 2025) — AI workers for Skilled Nursing and Senior Living Operations
+- **[RunRL](https://www.ycombinator.com/companies/runrl)** (Spring 2025) — Reinforcement learning as a service
+- **[Ticket Wallet](https://www.ycombinator.com/companies/ticket-wallet)** (Spring 2025) — AI-optimized ticket resale
+- **[Kaizen](https://www.ycombinator.com/companies/kaizen)** (Spring 2025) — Automate anything on the web.
+- **[HABIT](https://www.ycombinator.com/companies/habit)** (Spring 2025) — Conversational robots for physical businesses.
+- **[Clidey](https://www.ycombinator.com/companies/clidey)** (Spring 2025) — Turn scattered data into one platform for decision-making
+- **[Opusense AI](https://www.ycombinator.com/companies/opusense-ai)** (Spring 2025) — AI for Field Inspection Reports
+- **[Labric](https://www.ycombinator.com/companies/labric)** (Spring 2025) — The data layer for scientific research
+- **[Photonium](https://www.ycombinator.com/companies/photonium)** (Spring 2025) — AI-Powered Optical Consulting & Software
+- **[Sixtyfour](https://www.ycombinator.com/companies/sixtyfour)** (Spring 2025) — Intelligence Infrastructure on People and Entities
+- **[Tegore](https://www.ycombinator.com/companies/tegore)** (Spring 2025) — Your new AI-powered math tutor.
+- **[Freesolo](https://www.ycombinator.com/companies/freesolo)** (Spring 2025) — Product Native Models
+- **[Combinely](https://www.ycombinator.com/companies/combinely)** (Spring 2025) — AI coworker for Accountants
+- **[VoiceOS](https://www.ycombinator.com/companies/voiceos)** (Spring 2025) — Say it and it's done. Voice is the new OS
+- **[Chiron](https://www.ycombinator.com/companies/chiron)** (Spring 2025) — Grammarly for Math ✏️
+- **[Jeevy Fabrication](https://www.ycombinator.com/companies/jeevy-fabrication)** (Spring 2025) — AI Driven EPC - Weld Fabrication Contractor
+- **[Trapeze](https://www.ycombinator.com/companies/trapeze)** (Spring 2025) — AI-native Zocdoc
+- **[Tinfoil](https://www.ycombinator.com/companies/tinfoil)** (Spring 2025) — Encrypted AI with verifiable privacy
+- **[Paper Instruments](https://www.ycombinator.com/companies/paper-instruments)** (Spring 2025) — Open-source frontier models for knowledge work
+- **[Refresh](https://www.ycombinator.com/companies/refresh)** (Spring 2025) — Training gyms for computer use and software engineering work
+- **[Parsewise](https://www.ycombinator.com/companies/parsewise)** (Spring 2025) — Multi-document processing for your risk teams, AI agents, pipelines
+- **[Better Auth](https://www.ycombinator.com/companies/better-auth)** (Spring 2025) — The authentication framework for TypeScript
+- **[Bluejay](https://www.ycombinator.com/companies/bluejay)** (Spring 2025) — Test, monitor, and improve your voice and chat AI agents
+- **[Kestral](https://www.ycombinator.com/companies/kestral)** (Spring 2025) — We automate your entire product development lifecycle.
+- **[Attune](https://www.ycombinator.com/companies/attune)** (Spring 2025) — Faster builds, zero effort.
+- **[PgDog](https://www.ycombinator.com/companies/pgdog)** (Spring 2025) — Scaling engine for PostgreSQL
+- **[Kirana AI](https://www.ycombinator.com/companies/kirana-ai)** (Spring 2025) — AI manager for physical stores
+- **[Mbodi AI](https://www.ycombinator.com/companies/mbodi-ai)** (Spring 2025) — Industrial Robots that Learn and Operate Like Humans
+- **[Units](https://www.ycombinator.com/companies/units)** (Spring 2025) — Units builds full-stack AI education infrastructure.
+- **[Hanji](https://www.ycombinator.com/companies/hanji)** (Spring 2025) — Turn your hardest documents into reliable data
+- **[stratify](https://www.ycombinator.com/companies/stratify)** (Spring 2025) — AI agents that help you understand your customers' needs
+- **[Sim](https://www.ycombinator.com/companies/sim)** (Spring 2025) — Open source platform to build AI agent workflows
+- **[Clarm](https://www.ycombinator.com/companies/clarm)** (Spring 2025) — Build governed AI agents on your own data, without code
+- **[Beluga](https://www.ycombinator.com/companies/beluga)** (Spring 2025) — Creator marketing that scales like paid ads
+- **[Kaelio](https://www.ycombinator.com/companies/kaelio)** (Spring 2025) — The open-source context layer for data agents
+- **[Alpha Research](https://www.ycombinator.com/companies/alpha-research)** (Spring 2025) — Open source, agentic knowledge bases for all of humanity's knowledge.
+- **[Zeon Systems](https://www.ycombinator.com/companies/zeon-systems)** (Spring 2025) — AI-powered robotics for scientific lab automation.
+- **[The Robot Learning Company](https://www.ycombinator.com/companies/the-robot-learning-company)** (Spring 2025) — Tools for the next era of physical automation.
+- **[HelixDB](https://www.ycombinator.com/companies/helixdb)** (Spring 2025) — The fastest & most scalable graph-vector database on the market
+- **[Feyn](https://www.ycombinator.com/companies/feyn)** (Spring 2025) — Custom models trained on your data
+- **[Almond](https://www.ycombinator.com/companies/almond-2)** (Spring 2025) — A dual-arm robot built for physical AI.
+- **[Claim Health](https://www.ycombinator.com/companies/claim-health)** (Spring 2025) — AI Revenue Platform for Post-Acute Care
+- **[Capacitive](https://www.ycombinator.com/companies/capacitive)** (Spring 2025) — The data gateway for agents.
+- **[Acolite](https://www.ycombinator.com/companies/acolite)** (Spring 2025) — AI Native Commercial Insurance Broker
+- **[Ralo](https://www.ycombinator.com/companies/ralo)** (Spring 2025) — AI-Native Mortgage Broker
+- **[Auctor](https://www.ycombinator.com/companies/auctor)** (Spring 2025) — The agentic operating system for modern system integrators.
+- **[neoncoral](https://www.ycombinator.com/companies/neoncoral)** (Spring 2025) — 🪸 AI consumer social 
+- **[Synthio Labs](https://www.ycombinator.com/companies/synthio-labs)** (Spring 2025) — Agentic AI platform for Pharma GTM teams
+- **[Cua](https://www.ycombinator.com/companies/cua)** (Spring 2025) — Give every agent a cloud desktop
+- **[Minerva](https://www.ycombinator.com/companies/minerva)** (Spring 2025) — AI native accounting firm
+- **[GroundControl](https://www.ycombinator.com/companies/groundcontrol)** (Spring 2025) — Vertical AI for highly-regulated manufacturing
+- **[Avallon AI](https://www.ycombinator.com/companies/avallon-ai)** (Spring 2025) — AI agents for insurance claims operations
+- **[Bloom](https://www.ycombinator.com/companies/bloom-4)** (Spring 2025) — Build and share mobile apps in seconds
+- **[cubic](https://www.ycombinator.com/companies/cubic)** (Spring 2025) — AI-powered code review platform
+- **[Golf](https://www.ycombinator.com/companies/golf)** (Spring 2025) — Agentic AI Security and Governance
+- **[BitBoard](https://www.ycombinator.com/companies/bitboard)** (Spring 2025) — Let your agent build dashboards and reporting.
+- **[nao Labs](https://www.ycombinator.com/companies/nao-labs)** (Spring 2025) — Open Source Analytics Agent
+- **[Vybe](https://www.ycombinator.com/companies/vybe)** (Spring 2025) — Secure internal apps. Built by AI in seconds. Powered by your data.
+- **[Aravolta](https://www.ycombinator.com/companies/aravolta)** (Spring 2025) — Software to monitor, control, and optimize data centers.
+- **[Kashikoi](https://www.ycombinator.com/companies/kashikoi)** (Spring 2025) — Simulation Engine for Benchmarking AI Products
+- **[Plexe](https://www.ycombinator.com/companies/plexe)** (Spring 2025) — Open-source agents to build predictive ML models from a prompt
+- **[Frekil](https://www.ycombinator.com/companies/frekil)** (Spring 2025) — RWE Generation in minutes
+- **[Chestnut](https://www.ycombinator.com/companies/chestnut)** (Spring 2025) — The first AI mortgage lender
+- **[QFEX](https://www.ycombinator.com/companies/qfex)** (Spring 2025) — 24/7 Global Stock Exchange
+- **[Blaxel](https://www.ycombinator.com/companies/blaxel)** (Spring 2025) — The perpetual sandbox platform
+- **[Atlog](https://www.ycombinator.com/companies/atlog)** (Spring 2025) — Outbound voice and text AI without a prompt
+- **[Waffle](https://www.ycombinator.com/companies/waffle)** (Spring 2025) — Discover & Build AI Chatbots
+- **[Partcl](https://www.ycombinator.com/companies/partcl)** (Spring 2025) — Design a chip in minutes
+- **[Aviro](https://www.ycombinator.com/companies/aviro)** (Spring 2025) — Environments for Long Horizon Tool Use
+- **[Willow](https://www.ycombinator.com/companies/willow)** (Spring 2025) — The voice interface replacing your keyboard
+- **[Atum Works](https://www.ycombinator.com/companies/atum-works)** (Spring 2025) — Gigascale Nanomanufacturing
+- **[Leeroo](https://www.ycombinator.com/companies/leeroo)** (Spring 2025) — Organizational Superintelligence
+- **[BitPatrol](https://www.ycombinator.com/companies/bitpatrol)** (Spring 2025) — AI-powered code security
+- **[Propolis](https://www.ycombinator.com/companies/propolis)** (Spring 2025) — Hands off QA via intelligent browser agents. 
+- **[Galen AI](https://www.ycombinator.com/companies/galen-ai)** (Spring 2025) — Personal AI healthcare agent, powered by clinical and wearable data.
+- **[Caucus](https://www.ycombinator.com/companies/caucus)** (Spring 2025) — AI CRM for Government
+- **[Percival](https://www.ycombinator.com/companies/percival)** (Spring 2025) — Accelerating data analysis for research
+- **[Kanava AI](https://www.ycombinator.com/companies/kanava-ai)** (Spring 2025) — Your First AI Sales Hire for Wholesale Distributors
+- **[Akkari](https://www.ycombinator.com/companies/akkari)** (Spring 2026) — Autonomous Customer Operations
+- **[HeyClicky](https://www.ycombinator.com/companies/heyclicky)** (Spring 2026) — The simplest interface in the world to talk AI models + spawn agents
+- **[Huscarl](https://www.ycombinator.com/companies/huscarl)** (Spring 2026) — AI-native actuary enabling self-insurance for corporations
+- **[Thomas](https://www.ycombinator.com/companies/thomas)** (Spring 2026) — The first AI founder: a virtual human who runs his own companies.
+- **[Cohesion](https://www.ycombinator.com/companies/cohesion)** (Spring 2026) — Agents that automate research for institutional investors
+- **[Maquoketa Research](https://www.ycombinator.com/companies/maquoketa-research)** (Spring 2026) — The intelligence layer for drones
+- **[Intelligence Factory](https://www.ycombinator.com/companies/intelligence-factory)** (Spring 2026) — Human Intelligence for Robots
+- **[Clawvisor](https://www.ycombinator.com/companies/clawvisor)** (Spring 2026) — The Authorization Layer for AI Agents
+- **[Framewise Health](https://www.ycombinator.com/companies/framewise-health)** (Spring 2026) — AI-native patient engagement
+- **[Arctic Health](https://www.ycombinator.com/companies/arctic-health)** (Spring 2026) — AI-native credentialing and contracting for healthcare
+- **[Playabl.ai](https://www.ycombinator.com/companies/playablai)** (Spring 2026) — TikTok for User-generated Games
+- **[Enjamb Labs](https://www.ycombinator.com/companies/enjamb-labs)** (Spring 2026) — Where drug teams run their entire program, discovery to FDA approval
+- **[Hyper](https://www.ycombinator.com/companies/hyper-4)** (Spring 2026) — Company brain that powers your AI employees
+- **[InsForge](https://www.ycombinator.com/companies/insforge)** (Spring 2026) — The agent-native AWS
+- **[ReasonBlocks](https://www.ycombinator.com/companies/reasonblocks)** (Spring 2026) — The runtime layer that makes AI agents cheaper and more reliable
+- **[Modern](https://www.ycombinator.com/companies/modern)** (Spring 2026) — Modern - the ServiceNow killer
+- **[Panacea](https://www.ycombinator.com/companies/panacea)** (Spring 2026) — AI-Native FDA Regulatory Services
+- **[CentralComs](https://www.ycombinator.com/companies/centralcoms)** (Spring 2026) — AI agent platform for home services companies.
+- **[KugelAudio](https://www.ycombinator.com/companies/kugelaudio)** (Spring 2026) — Kugel is an on-prem Voice AI model supporting 30+ languages 
+- **[Klaimee](https://www.ycombinator.com/companies/klaimee)** (Spring 2026) — Liability insurance for AI Agents. You deploy agents, we cover you.
+- **[flowscope](https://www.ycombinator.com/companies/flowscope)** (Spring 2026) — AI-native consulting to map and automate business processes
+- **[Gigacatalyst](https://www.ycombinator.com/companies/gigacatalyst)** (Spring 2026) — AI-first embedded analytics and reports for customer success
+- **[Arlo Industries](https://www.ycombinator.com/companies/arlo-industries)** (Spring 2026) — Track drones and missiles without radars - Accurate, Passive, Scalable
+- **[Astraea](https://www.ycombinator.com/companies/astraea)** (Spring 2026) — AI Operating System for Clinical Development
+- **[Lattice Health](https://www.ycombinator.com/companies/lattice-health)** (Spring 2026) — Monitoring and governance for deployed medical imaging AI
+- **[Manicule](https://www.ycombinator.com/companies/manicule)** (Spring 2026) — AgentRel — Devrel For Agents
+- **[Avea Robotics](https://www.ycombinator.com/companies/avea-robotics)** (Spring 2026) — The human-in-the-loop system for robots
+- **[Mochatrade](https://www.ycombinator.com/companies/mochatrade)** (Spring 2026) — US stock perps for Indian traders
+- **[Asendia AI](https://www.ycombinator.com/companies/asendia-ai)** (Spring 2026) — AI recruiters for staffing agencies
+- **[Revnu](https://www.ycombinator.com/companies/revnu)** (Spring 2026) — The growth infrastructure for the autonomous business
+- **[Uno Wallet](https://www.ycombinator.com/companies/uno-wallet)** (Spring 2026) — The AI mobile wallet that replaces Apple Pay
+- **[Arden](https://www.ycombinator.com/companies/arden)** (Spring 2026) — AI-native internal audit firm
+- **[AgentPhone](https://www.ycombinator.com/companies/agentphone)** (Spring 2026) — Phone Numbers for AI Agents
+- **[Gravy](https://www.ycombinator.com/companies/gravy)** (Spring 2026) — Agents that move money, trade stocks, and file taxes.
+- **[Kinect](https://www.ycombinator.com/companies/kinect)** (Spring 2026) — The AI revenue platform for D2C brands
+- **[Runtime](https://www.ycombinator.com/companies/runtime)** (Spring 2026) — Build and run internal agents, without managing the infrastructure
+- **[YouArt](https://www.ycombinator.com/companies/youart)** (Spring 2026) — Patreon for AI Originals
+- **[Expanse](https://www.ycombinator.com/companies/expanse)** (Spring 2026) — Unlock wasted GPU capacity.
+- **[CharacterQuilt](https://www.ycombinator.com/companies/characterquilt)** (Spring 2026) — Computer use agents to deploy enterprise marketing campaigns
+- **[Pentagon](https://www.ycombinator.com/companies/pentagon)** (Spring 2026) — The control plane for agent-native work.
+- **[Arzana](https://www.ycombinator.com/companies/arzana)** (Spring 2026) — The autonomous ERP for every manufacturer
+- **[Auxos](https://www.ycombinator.com/companies/auxos)** (Spring 2026) — Simulations of real people for market research 
+- **[ProjectX](https://www.ycombinator.com/companies/projectx)** (Spring 2026) — Agent native workspace for heavy parallel workflows on the web 
+- **[Tolmo](https://www.ycombinator.com/companies/tolmo)** (Spring 2026) — Tolmo is the AI security platform that secures every layer of cloud…
+- **[OpenWork](https://www.ycombinator.com/companies/openwork)** (Spring 2026) — The open source alternative to Claude Cowork
+- **[Apollo Atomics, Inc.](https://www.ycombinator.com/companies/apollo-atomics-inc)** (Spring 2026) — We make the most compact nuclear reactors
+- **[General Aviation](https://www.ycombinator.com/companies/general-aviation)** (Spring 2026) — Fix ATC by connecting aircraft to the internet
+- **[OpenProse](https://www.ycombinator.com/companies/openprose)** (Spring 2026) — An open-source operating system for reliable long-running agents
+- **[Aster](https://www.ycombinator.com/companies/asterlab)** (Spring 2026) — Automating open-ended research.
+- **[Amboras](https://www.ycombinator.com/companies/amboras)** (Spring 2026) — AI Native Shopify
+- **[Hessian](https://www.ycombinator.com/companies/hessian)** (Spring 2026) — Forward-deployed AI Agents
+- **[RASPIRE](https://www.ycombinator.com/companies/raspire)** (Spring 2026) — Autonomous Runtime Security
+- **[Plena Health](https://www.ycombinator.com/companies/plena-health)** (Spring 2026) — Plena is the AI operating system for specialty medical practices
+- **[TesterArmy](https://www.ycombinator.com/companies/testerarmy)** (Spring 2026) — Test your app with AI, catch bugs before users do
+- **[Eden Robotics](https://www.ycombinator.com/companies/eden-robotics)** (Spring 2026) — Autonomous services for humanity.
+- **[Foaster](https://www.ycombinator.com/companies/foaster)** (Spring 2026) — The AI-native McKinsey
+- **[AquaShield](https://www.ycombinator.com/companies/aquashield)** (Spring 2026) — AI water leak detection for buildings
+- **[Ornadyne](https://www.ycombinator.com/companies/ornadyne)** (Spring 2026) — We're building robot birds for surveillance.
+- **[ANORIA](https://www.ycombinator.com/companies/anoria)** (Spring 2026) — The first wearable that reads your emotions to enhance your EQ. 
+- **[AbInitio Bio](https://www.ycombinator.com/companies/abinitio-bio)** (Spring 2026) — The Intelligence layer for Drug Manufacturing
+- **[Memory Store](https://www.ycombinator.com/companies/memory-store)** (Spring 2026) — Company Brain.
+- **[Saudara AI](https://www.ycombinator.com/companies/saudara-ai)** (Spring 2026) — AI Native Sourcing Broker For Overseas Manufacturing
+- **[Pops](https://www.ycombinator.com/companies/pops)** (Spring 2026) — Create & play AI games with friends
+- **[Silmaril](https://www.ycombinator.com/companies/silmaril)** (Spring 2026) — Security for agents that self-improves
+- **[BioStack Platforms](https://www.ycombinator.com/companies/biostack-platforms)** (Spring 2026) — Real world training envs for healthcare AI models
+- **[Ardent](https://www.ycombinator.com/companies/ardent)** (Spring 2026) — Database sandboxes for Agents
+- **[Kuli](https://www.ycombinator.com/companies/kuli)** (Spring 2026) — AI coworker for marketing teams at the largest consumer brands
+- **[Wato](https://www.ycombinator.com/companies/wato)** (Spring 2026) — The control point for AI agents at work.
+- **[Tasklet](https://www.ycombinator.com/companies/tasklet-2)** (Spring 2026) — Agents that own the work
+- **[Chronicle Labs](https://www.ycombinator.com/companies/chronicle-labs)** (Spring 2026) — Staging Environments for Enterprise AI Agents
+- **[Walter](https://www.ycombinator.com/companies/walter)** (Spring 2026) — AI Employee for Manufacturing Operations
+- **[Aseon Labs](https://www.ycombinator.com/companies/aseon-labs)** (Spring 2026) — Robotic pitstops for self-driving cars
+- **[Soria](https://www.ycombinator.com/companies/soria)** (Spring 2026) — AI Financial Research Terminal built for Healthcare (and beyond)
+- **[Armature](https://www.ycombinator.com/companies/armature)** (Spring 2026) — Improve how users experience your product through AI Agents
+- **[PLAN0 AI](https://www.ycombinator.com/companies/plan0-ai)** (Spring 2026) — Construction Cost Intelligence.
+- **[Zibra Labs](https://www.ycombinator.com/companies/zibra-labs)** (Spring 2026) — Distributed runtime for AI workloads at scale
+- **[Ara](https://www.ycombinator.com/companies/ara)** (Spring 2026) — The Cloud Coding Agent
+- **[ValCtrl](https://www.ycombinator.com/companies/valctrl)** (Spring 2026) — ValCtrl is building the only intelligent prediction market
+- **[General Instinct](https://www.ycombinator.com/companies/general-instinct)** (Spring 2026) — Inference Infrastructure for Physical AI
+- **[tday.com](https://www.ycombinator.com/companies/tdaycom)** (Spring 2026) — AI that turns your product into on-brand marketing content
+- **[ED1TH](https://www.ycombinator.com/companies/ed1th)** (Spring 2026) — Jarvis IRL
+- **[Minicor](https://www.ycombinator.com/companies/minicor)** (Spring 2026) — Scalable windows desktop automations
+- **[Archer](https://www.ycombinator.com/companies/archer)** (Spring 2026) — Global payouts for the workforce powering AI
+- **[River Markets](https://www.ycombinator.com/companies/river-markets)** (Spring 2026) — Prime brokerage for prediction markets
+- **[smol machines](https://www.ycombinator.com/companies/smol-machines)** (Spring 2026) — Ship software faster with portable, self contained virtual machines.
+- **[Allowance](https://www.ycombinator.com/companies/allowance)** (Spring 2026) — The spend control layer for AI agents
+- **[Harbor](https://www.ycombinator.com/companies/runharbor)** (Spring 2026) — AI-native CRO for clinical trial operations
+- **[Alchemize](https://www.ycombinator.com/companies/alchemize)** (Spring 2026) — Code Review Platform that Simplifies PRs to Ship Faster
+- **[Complir](https://www.ycombinator.com/companies/complir)** (Spring 2026) — Vanta for physical products
+- **[AICE](https://www.ycombinator.com/companies/aice)** (Spring 2026) — Submarine drones for defense
+- **[Infera](https://www.ycombinator.com/companies/infera)** (Spring 2026) — Control lab instruments with natural language.
+- **[Mount](https://www.ycombinator.com/companies/mount)** (Spring 2026) — The AI Agent Insurance Carrier
+- **[Parrot](https://www.ycombinator.com/companies/useparrot)** (Spring 2026) — Agentic operating system for auto repair shops
+- **[Result](https://www.ycombinator.com/companies/result)** (Spring 2026) — Where new internet entrepreneurs build and run their companies
+- **[Prototyping.io](https://www.ycombinator.com/companies/prototypingio)** (Spring 2026) — Autonomous manufacturing for mechanical parts
+- **[Lumius](https://www.ycombinator.com/companies/lumius)** (Spring 2026) — Fast, smart, accessible 3D ultrasound that anyone can use
+- **[Adialante](https://www.ycombinator.com/companies/adialante)** (Spring 2026) — Cancer screening without barriers
+- **[Savant](https://www.ycombinator.com/companies/savant)** (Spring 2026) — Company brain every AI-native enterprise runs on
+- **[Keyframe Labs](https://www.ycombinator.com/companies/keyframe-labs)** (Spring 2026) — Bring AI to life with the world's best interactive avatars
+- **[Voquill](https://www.ycombinator.com/companies/voquill)** (Spring 2026) — The agentic OS for medical labs
+- **[Oddpool](https://www.ycombinator.com/companies/oddpool)** (Spring 2026) — Institutional infrastructure for prediction markets
+- **[Ontora](https://www.ycombinator.com/companies/ontora)** (Spring 2026) — AI agents that interviews every employee to hand context to AI tools. 
+- **[Napkin Math](https://www.ycombinator.com/companies/napkin-math)** (Spring 2026) — AI nutrition coach in your pocket
+- **[Gojiberry AI](https://www.ycombinator.com/companies/gojiberry-ai)** (Spring 2026) — AI Go-To-Market agents for B2B teams
+- **[Lab0](https://www.ycombinator.com/companies/lab0)** (Spring 2026) — AI FDEs to make your B2B SaaS Go Live in Days, not Months
+- **[BentoLabs AI](https://www.ycombinator.com/companies/bentolabs-ai)** (Spring 2026) — Monitoring and learning layer for long-running agents
+- **[Lamina Labs](https://www.ycombinator.com/companies/lamina-labs)** (Spring 2026) — Near-real-time video infrastructure for LLMs
+- **[Kimpton AI](https://www.ycombinator.com/companies/kimpton-ai)** (Spring 2026) — The IDE for Investors
+- **[StableBrowse](https://www.ycombinator.com/companies/stablebrowse)** (Spring 2026) — Help frontier labs build better models.
+- **[Taiga](https://www.ycombinator.com/companies/taiga)** (Spring 2026) — Autonomous medical billing
+- **[Pairio](https://www.ycombinator.com/companies/pairio)** (Spring 2026) — AI mobile app that helps factory technicians fix broken machines
+- **[Callab AI](https://www.ycombinator.com/companies/callab-ai)** (Spring 2026) — AI voice agents for on-prem telephony stack. 
+- **[Synphony](https://www.ycombinator.com/companies/synphony)** (Spring 2026) — robots & software for farms
+- **[Dreach](https://www.ycombinator.com/companies/dreach)** (Spring 2026) — stop building lists. start booking clients.
+- **[Arga Labs](https://www.ycombinator.com/companies/arga-labs)** (Spring 2026) — Real-world sandboxes to test agents and agent-facing software
+- **[Andco](https://www.ycombinator.com/companies/andco)** (Spring 2026) — Agents that build personal injury cases
+- **[RentAHuman](https://www.ycombinator.com/companies/rentahuman)** (Spring 2026) — Marketplace for AI agents to hire humans.
+- **[InstaAgent](https://www.ycombinator.com/companies/instaagent)** (Spring 2026) — Scale marketing campaigns across hundreds of personas
+- **[Salesgraph](https://www.ycombinator.com/companies/salesgraph)** (Spring 2026) — Proactive revenue agents that move enterprise deals forward
+- **[Sherpa](https://www.ycombinator.com/companies/sherpa)** (Spring 2026) — Make websites improve themselves.
+- **[Userlens](https://www.ycombinator.com/companies/userlens)** (Spring 2026) — Agents that renew and expand six and seven-figure enterprise software
+- **[transload](https://www.ycombinator.com/companies/transload)** (Spring 2026) — Measure freight with security cameras
+- **[Standout](https://www.ycombinator.com/companies/standout)** (Spring 2026) — Agentic hiring marketplace
+- **[shotwell.ai](https://www.ycombinator.com/companies/shotwellai)** (Spring 2026) — Annotations for robotics data
+- **[Madrone](https://www.ycombinator.com/companies/madrone)** (Spring 2026) — Hyper-efficient coolers for data centers
+- **[Pavoot](https://www.ycombinator.com/companies/pavoot)** (Spring 2026) — AI Event Manager for in-person events
+- **[qomplement](https://www.ycombinator.com/companies/qomplement)** (Spring 2026) — The Agentic ERP for supply chain operations
+- **[Deep Interactions](https://www.ycombinator.com/companies/deep-interactions)** (Spring 2026) — Collaborative AI app builder for teams
+- **[KelAI](https://www.ycombinator.com/companies/kelai)** (Spring 2026) — The AI Quant: Autonomous Alpha Engine for Funds and Traders.
+- **[HEVN, inc](https://www.ycombinator.com/companies/hevn-inc)** (Spring 2026) — Global bank account for exporters
+- **[Wealor](https://www.ycombinator.com/companies/wealor)** (Spring 2026) — AI-native platform for wealth managers
+- **[Elyra](https://www.ycombinator.com/companies/elyra)** (Spring 2026) — AI Reservation System for Restaurants 
+- **[Interfaze](https://www.ycombinator.com/companies/interfaze)** (Spring 2026) — AI model built for high accuracy deterministic tasks
+- **[Zolvo](https://www.ycombinator.com/companies/zolvo)** (Spring 2026) — AI Back-Office Automation for Commercial Lenders
+- **[Juno](https://www.ycombinator.com/companies/juno-chat)** (Spring 2026) — AI Health Assistant for Chronic Illness
+- **[Kinro](https://www.ycombinator.com/companies/kinro)** (Spring 2026) — Autonomous insurance brokerage for small businesses
+- **[GovGuard](https://www.ycombinator.com/companies/govguard)** (Spring 2026) — Automating Government Workflows, starting with FOIA
+- **[Superlog](https://www.ycombinator.com/companies/superlog)** (Spring 2026) — Make software self-healing
+- **[Limrun](https://www.ycombinator.com/companies/limrun)** (Spring 2026) — Extend cloud sandboxes with iOS, Android and more
+- **[Light Anchor](https://www.ycombinator.com/companies/light-anchor)** (Spring 2026) — AI-run consumer brands
+- **[Hub](https://www.ycombinator.com/companies/hub)** (Spring 2026) — Real-world training data for frontier AI labs and robotics.
+- **[Tenet Industries](https://www.ycombinator.com/companies/tenet-industries)** (Spring 2026) — Low-cost, mass-producible defense systems
+- **[Atrisa](https://www.ycombinator.com/companies/atrisa)** (Spring 2026) — AI Agents for Analog Circuit Design
+- **[Trellis](https://www.ycombinator.com/companies/trellistech)** (Spring 2026) — Agents that run short-term rental operations end-to-end
+- **[The Company Company](https://www.ycombinator.com/companies/the-company-company)** (Spring 2026) — The last agent your company will ever need.
+- **[Dayjob](https://www.ycombinator.com/companies/dayjob)** (Spring 2026) — AI Scheduling for Short Haul Trucks
+- **[InLoop Robotics](https://www.ycombinator.com/companies/inloop-robotics)** (Spring 2026) — Robotic arms that pick and pack your orders.
+- **[Zenbu](https://www.ycombinator.com/companies/zenbu-2)** (Spring 2026) — The extensible IDE for coding agents
+- **[Andustry](https://www.ycombinator.com/companies/andustry)** (Spring 2026) — —
+- **[Nine Fives](https://www.ycombinator.com/companies/nine-fives)** (Spring 2026) — RF test equipment for next-gen spacecraft, drones, and cellphones
+- **[Incandor](https://www.ycombinator.com/companies/incandor)** (Spring 2026) — Behavioral intelligence infrastructure for anti-fraud
+- **[Chert](https://www.ycombinator.com/companies/chert)** (Spring 2026) — iMessage infrastructure for business
+- **[Saffron](https://www.ycombinator.com/companies/saffron)** (Spring 2026) — Helping your company find 10x engineers. 
+- **[Discovered Materials](https://www.ycombinator.com/companies/discovered-materials)** (Spring 2026) — AI scientists to discover materials for the semiconductor industry.
+- **[Lightsprint](https://www.ycombinator.com/companies/lightsprint)** (Spring 2026) — Collaborative product development with cloud agents
+- **[Twolabs](https://www.ycombinator.com/companies/twolabs)** (Spring 2026) — Humanoid robot platform for builders.
+- **[Scope](https://www.ycombinator.com/companies/scope)** (Spring 2026) — We help software companies get discovered and used by AI agents
+- **[Hexa](https://www.ycombinator.com/companies/hexa)** (Spring 2026) — Autonomous operations for industrial distributors
+- **[Rudus](https://www.ycombinator.com/companies/rudus)** (Spring 2026) — AI Takeoffs for Concrete
+- **[Replicas](https://www.ycombinator.com/companies/replicas)** (Spring 2026) — Run any coding agent harness in the cloud
+- **[Totalis](https://www.ycombinator.com/companies/totalis)** (Spring 2026) — derivative layer for prediction markets
+- **[Multiplier](https://www.ycombinator.com/companies/multiplier)** (Spring 2026) — Agent harnesses for asset managers
+- **[Memoir](https://www.ycombinator.com/companies/memoir)** (Spring 2026) — Marketing campaigns from everything your team ships
+- **[PerfectBit, Inc.](https://www.ycombinator.com/companies/perfectbit-inc)** (Spring 2026) — Correct by construction AI training data
+- **[Stage](https://www.ycombinator.com/companies/stage)** (Spring 2026) — Code review platform for humans and agents
+- **[Standard Signal](https://www.ycombinator.com/companies/standard-signal)** (Spring 2026) — Hedge fund where AI researches and executes every trade end-to-end
+- **[primitive](https://www.ycombinator.com/companies/primitive)** (Spring 2026) — communication for agents
+- **[afterfive](https://www.ycombinator.com/companies/afterfive)** (Spring 2026) — Life starts after five.
+- **[Klarify](https://www.ycombinator.com/companies/klarify)** (Spring 2026) — AI Agent for Therapists
+- **[Surtr Defense Systems](https://www.ycombinator.com/companies/surtr-defense-systems)** (Spring 2026) — The hardware-agnostic operating system for drone defense
+- **[Hedge](https://www.ycombinator.com/companies/hedge)** (Spring 2026) — AI-Native insurance company
+- **[Dispatch](https://www.ycombinator.com/companies/dispatch)** (Spring 2026) — Satellites for Manufacturing in Space
+- **[Bloom](https://www.ycombinator.com/companies/trybloom)** (Spring 2026) — The brand layer for agents.
+- **[Regbase](https://www.ycombinator.com/companies/regbase)** (Spring 2026) — Automating Corporate Compliance, Worldwide
+- **[Inth](https://www.ycombinator.com/companies/inth)** (Spring 2026) — Enterprise privacy governance for companies that ship fast
+- **[Superset](https://www.ycombinator.com/companies/superset)** (Spring 2026) — Building self-improving software
+- **[Netter](https://www.ycombinator.com/companies/netter)** (Spring 2026) — AI native Palantir for mid market.
+- **[Sazabi](https://www.ycombinator.com/companies/sazabi)** (Spring 2026) — The AI-native observability platform for fast-moving engineering teams
+- **[9 Mothers](https://www.ycombinator.com/companies/9-mothers-corporation)** (Spring 2026) — Counter Drone Systems. $1.6m sales. We delivered for the DoW.
+- **[Drafted](https://www.ycombinator.com/companies/drafted)** (Spring 2026) — Design your home instantly with AI
+- **[Cignara](https://www.ycombinator.com/companies/cignara)** (Spring 2026) — AI Customer Support for Fortune 500-scale enterprises
+- **[Fuchsia](https://www.ycombinator.com/companies/fuchsia)** (Spring 2026) — Vanta for hardware
+- **[Imperfect](https://www.ycombinator.com/companies/imperfect)** (Spring 2026) — Adaptive training coach for runners, cyclists, and triathletes 
+- **[Clara](https://www.ycombinator.com/companies/clara-2)** (Spring 2026) — AI primary care doctor
+- **[Linzumi](https://www.ycombinator.com/companies/linzumi)** (Spring 2026) — Team chat to command all your company's coding agents
+- **[Advanced Metal Research](https://www.ycombinator.com/companies/advanced-metal-research)** (Spring 2026) — Machine intelligence for American Welding
+- **[Ploy](https://www.ycombinator.com/companies/ploy)** (Spring 2026) — Ploy turns your website into your company's growth engine. 
+- **[TakeCareOS](https://www.ycombinator.com/companies/takecareos)** (Spring 2026) — AI-native operating system for long term care providers
+- **[Prism](https://www.ycombinator.com/companies/tryprism)** (Spring 2026) — AI-native recruiting agency
+- **[FinalDose](https://www.ycombinator.com/companies/finaldose)** (Spring 2026) — Programmable DNA drug destroying all cancers, unlocking 80% of targets
+- **[Smartbase](https://www.ycombinator.com/companies/smartbase)** (Spring 2026) — AI-native ERP for manufacturers
+- **[Foresight](https://www.ycombinator.com/companies/foresight)** (Spring 2026) — Consumer simulations for CPG market research
+- **[Miso Labs](https://www.ycombinator.com/companies/miso-labs)** (Spring 2026) — Emotive foundation voice models
+- **[Humwork](https://www.ycombinator.com/companies/humwork)** (Spring 2026) — Human experts as API for AI Agents
+- **[Autostep](https://www.ycombinator.com/companies/autostep)** (Spring 2026) — The P&L for knowledge work
+- **[jo](https://www.ycombinator.com/companies/jo)** (Spring 2026) — The personal AI agent that keeps up with your work and life.
+- **[Outerport](https://www.ycombinator.com/companies/outerport)** (Summer 2024) — Agents that design machines and factories
+- **[DreamRP](https://www.ycombinator.com/companies/dreamrp)** (Summer 2024) — Tech and platforms for human creators and the entertainment industry
+- **[Conductor](https://www.ycombinator.com/companies/conductor)** (Summer 2024) — Run a team of coding agents on your Mac
+- **[Syntra](https://www.ycombinator.com/companies/syntra)** (Summer 2024) — Medical chart intelligence
+- **[PathPilot](https://www.ycombinator.com/companies/pathpilot)** (Summer 2024) — AI Agents for Lending Operations
+- **[Bits to Atoms](https://www.ycombinator.com/companies/bits-to-atoms)** (Summer 2024) — Match job seekers to roles at deep technology startups.
+- **[SimCare](https://www.ycombinator.com/companies/simcare)** (Summer 2024) — AI avatars to scale healthcare training.
+- **[Merlin AI](https://www.ycombinator.com/companies/merlin-ai)** (Summer 2024) — AI powered ERP for Construction
+- **[Freestyle](https://www.ycombinator.com/companies/freestyle)** (Summer 2024) — We run and deploy code your AI wrote
+- **[Arva AI](https://www.ycombinator.com/companies/arva-ai)** (Summer 2024) — AI Agents to scale AML, KYB and KYC operations
+- **[Affil.ai](https://www.ycombinator.com/companies/affil-ai)** (Summer 2024) — AI Affiliate Network For Financial Companies
+- **[OrgOrg](https://www.ycombinator.com/companies/orgorg)** (Summer 2024) — Organizational productivity suite for companies
+- **[Patched](https://www.ycombinator.com/companies/patched)** (Summer 2024) — Reliable AI for Regulated Ops
+- **[Village Labs](https://www.ycombinator.com/companies/village-labs)** (Summer 2024) — Helping America's businesses become employee owned
+- **[Mica AI](https://www.ycombinator.com/companies/mica-ai)** (Summer 2024) — Replace the humans fixing bad data
+- **[Formula Insight](https://www.ycombinator.com/companies/formula-insight)** (Summer 2024) — Help Institutional Investors manage, track & query their Excel models
+- **[Overlap](https://www.ycombinator.com/companies/overlap)** (Summer 2024) — Multimodal AI agents for video
+- **[Capitol AI](https://www.ycombinator.com/companies/capitol-ai)** (Summer 2024) — Capitol: the sovereign operating system for intelligence.
+- **[Void](https://www.ycombinator.com/companies/void)** (Summer 2024) — The open source Cursor alternative
+- **[Anglera](https://www.ycombinator.com/companies/anglera)** (Summer 2024) — AI-Powered Product Data Enrichment
+- **[XTraffic](https://www.ycombinator.com/companies/xtraffic)** (Summer 2024) — Technology for cities to automate and manage their traffic lights.
+- **[BrowserOS](https://www.ycombinator.com/companies/browseros)** (Summer 2024) — The Open Source Agentic Browser
+- **[Henry](https://www.ycombinator.com/companies/henry-2)** (Summer 2024) — Automating Deal Decks for Commercial Real Estate Brokers
+- **[Ficra](https://www.ycombinator.com/companies/ficra)** (Summer 2024) — Getting creators more deals
+- **[Rowboat Labs](https://www.ycombinator.com/companies/rowboat-labs)** (Summer 2024) — Open-source AI coworker with memory 
+- **[Pipeshift](https://www.ycombinator.com/companies/pipeshift)** (Summer 2024) — Ultra-low latency inference cloud for real-time workloads
+- **[Vera Health](https://www.ycombinator.com/companies/vera-health)** (Summer 2024) — AI-powered clinical decision support for healthcare providers
+- **[Pharos](https://www.ycombinator.com/companies/pharos)** (Summer 2024) — Helping hospitals identify and prevent avoidable harm using AI
+- **[et al.](https://www.ycombinator.com/companies/et-al)** (Summer 2024) — Feed of insights extracted from your go-to sources using LLMs.
+- **[Keet](https://www.ycombinator.com/companies/keet)** (Summer 2024) — An app to create courses on anything. 
+- **[No Logo](https://www.ycombinator.com/companies/no-logo)** (Summer 2024) — Turn ideas into physical products
+- **[Dayflow](https://www.ycombinator.com/companies/dayflow)** (Summer 2024) — Generate a detailed log of everything you've worked on, automatically.
+- **[Diode Computers, Inc.](https://www.ycombinator.com/companies/diode-computers-inc)** (Summer 2024) — Automate circuit board design using AI
+- **[SureBright](https://www.ycombinator.com/companies/surebright)** (Summer 2024) — Apple Care-like warranty program for every retailer 
+- **[Usul](https://www.ycombinator.com/companies/usul)** (Summer 2024) — AI Platform for Winning Defense & Government Contracts
+- **[Saldor](https://www.ycombinator.com/companies/saldor)** (Summer 2024) — Making procurement easy
+- **[Bucket Robotics](https://www.ycombinator.com/companies/bucket-robotics)** (Summer 2024) — Defect detection for manufacturing built from CAD and synthetic data.
+- **[Oway](https://www.ycombinator.com/companies/oway)** (Summer 2024) — Turning America’s supply chain inefficiency into infrastructure.
+- **[Elayne](https://www.ycombinator.com/companies/elayne)** (Summer 2024) — Estate settlement, from verified discovery to distribution
+- **[Blaze](https://www.ycombinator.com/companies/blaze-2)** (Summer 2024) — Agentic Finance for your Life and Business
+- **[pap!](https://www.ycombinator.com/companies/pap)** (Summer 2024) — Agents that earn consumers dollars when they shop, travel, and live.
+- **[RentFlow](https://www.ycombinator.com/companies/rentflow)** (Summer 2024) — The AI infrastructure for cash-flow-aligned business rent
+- **[TradeFlow](https://www.ycombinator.com/companies/tradeflow)** (Summer 2024) — AI-powered settlement for financial securities
+- **[Voker](https://www.ycombinator.com/companies/voker)** (Summer 2024) — The Agent Analytics Platform
+- **[Rastro](https://www.ycombinator.com/companies/rastro)** (Summer 2024) — The fastest way to launch product catalogs.
+- **[Quetzal](https://www.ycombinator.com/companies/quetzal)** (Summer 2024) — Simple, LLM-first translation and internationalization for software
+- **[Typa](https://www.ycombinator.com/companies/typa)** (Summer 2024) — The content engine that wins attention and drives growth.
+- **[Moreta](https://www.ycombinator.com/companies/moreta)** (Summer 2024) — Payments made easy for international travelers.
+- **[Draft The Record](https://www.ycombinator.com/companies/draft-the-record)** (Summer 2024) — AI For Litigation
+- **[Orca Client](https://www.ycombinator.com/companies/orca-client)** (Summer 2024) — Orca lets you build, discover, and play Minecraft games with friends.
+- **[Assembly HOA](https://www.ycombinator.com/companies/assembly-hoa)** (Summer 2024) — AI-native HOA Management Company
+- **[autarc](https://www.ycombinator.com/companies/autarc)** (Summer 2024) — autarc is the agentic OS for energy installers.
+- **[omnidock](https://www.ycombinator.com/companies/omnidock)** (Summer 2024) — OS for global e-commerce expansion of brands & manufacturers
+- **[Polymet](https://www.ycombinator.com/companies/polymet)** (Summer 2024) — AI Product Designer
+- **[Kontigo](https://www.ycombinator.com/companies/kontigo)** (Summer 2024) — USDC-Smart Neobank for Latinos. 
+- **[Weel](https://www.ycombinator.com/companies/weel)** (Summer 2024) — GPS & dashcam smartphone app
+- **[Entropy](https://www.ycombinator.com/companies/entropy)** (Summer 2024) — Autonomous intake and RCM for specialty clinics. 
+- **[Propaya](https://www.ycombinator.com/companies/propaya)** (Summer 2024) — —
+- **[Vendra](https://www.ycombinator.com/companies/vendra)** (Summer 2024) — Custom Parts, Manufactured in America 🇺🇸
+- **[Argil](https://www.ycombinator.com/companies/argil)** (Summer 2024) — The video generation engine for the creator economy 
+- **[ZeroPath](https://www.ycombinator.com/companies/zeropath)** (Summer 2024) — Automatically find and fix your software vulnerabilities
+- **[bluedoor](https://www.ycombinator.com/companies/bluedoor)** (Summer 2024) — The world's data, ready for AI
+- **[Starcloud](https://www.ycombinator.com/companies/starcloud)** (Summer 2024) — Data centers in space
+- **[Dataleap](https://www.ycombinator.com/companies/dataleap)** (Summer 2024) — AI Employees for the Enterprise
+- **[Handled](https://www.ycombinator.com/companies/handled)** (Summer 2024) — Automating post-order operations for e-commerce brands and 3PLs
+- **[Ionworks](https://www.ycombinator.com/companies/ionworks)** (Summer 2024) — Simulation software used by leading battery and automotive companies
+- **[Rescript](https://www.ycombinator.com/companies/rescript)** (Summer 2024) — AI for Legal & Public Policy Teams
+- **[HeroUI](https://www.ycombinator.com/companies/heroui)** (Summer 2024) — The UI framework for AI agents and developers to build beautiful apps.
+- **[Helium](https://www.ycombinator.com/companies/helium)** (Summer 2024) — Self Improving Software
+- **[&AI](https://www.ycombinator.com/companies/ai-2)** (Summer 2024) — Collaborative workspace for patent litigators
+- **[Haystack](https://www.ycombinator.com/companies/haystackeditor)** (Summer 2024) — The agent-native control layer for code changes
+- **[Finosu](https://www.ycombinator.com/companies/finosu)** (Summer 2024) — AI Native Consumer Loan Servicer
+- **[Odo](https://www.ycombinator.com/companies/odo)** (Summer 2024) — Your email assistant because you deserve a better morning
+- **[Sonatoria](https://www.ycombinator.com/companies/sonatoria)** (Summer 2024) — Helping Startups Grow Organically
+- **[Cartage](https://www.ycombinator.com/companies/cartage)** (Summer 2024) — Autonomous freight coordination
+- **[Paasa](https://www.ycombinator.com/companies/paasa)** (Summer 2024) — Invest in Global Equities from India
+- **[Refactor](https://www.ycombinator.com/companies/refactor)** (Summer 2024) — Deploying secure and reliable AI agents across healthcare, retail,…
+- **[Palmier](https://www.ycombinator.com/companies/palmier)** (Summer 2024) — Video editor built for AI
+- **[Simple AI](https://www.ycombinator.com/companies/simple-ai)** (Summer 2024) — AI voice that sells
+- **[Sensei](https://www.ycombinator.com/companies/sensei)** (Summer 2024) — Robotic Training Data at Scale
+- **[Guardian RF](https://www.ycombinator.com/companies/guardian-rf)** (Summer 2024) — Drone detection for US defense and national security  
+- **[Laminar](https://www.ycombinator.com/companies/laminar)** (Summer 2024) — Understand why your AI agent breaks. Iterate fast to fix it.
+- **[Cerulion](https://www.ycombinator.com/companies/cerulion)** (Summer 2024) — Open source operating system for robots
+- **[Presti AI](https://www.ycombinator.com/companies/presti-ai)** (Summer 2024) — Helping furniture companies create product visuals with AI
+- **[The Forecasting Company](https://www.ycombinator.com/companies/the-forecasting-company)** (Summer 2024) — Foundation models for time series
+- **[Praxos](https://www.ycombinator.com/companies/praxos)** (Summer 2024) — Messaging workspace for people and AI agents
+- **[Zettascale](https://www.ycombinator.com/companies/zettascale)** (Summer 2024) — Energy efficient chips for AI
+- **[SchemeFlow](https://www.ycombinator.com/companies/schemeflow)** (Summer 2024) — AI Report Generation for Engineering & Environmental Review
+- **[Brighterway](https://www.ycombinator.com/companies/brighterway)** (Summer 2024) — Streamlining the medical record review process in workers comp
+- **[Mineflow](https://www.ycombinator.com/companies/mineflow)** (Summer 2024) — Mineflow predicts the shape and location of mineral deposits
+- **[Soff](https://www.ycombinator.com/companies/soff)** (Summer 2024) — AI Agents for Distributors
+- **[Parley](https://www.ycombinator.com/companies/parley)** (Summer 2024) — Automating flat-fee legal work, starting with work visas + green cards
+- **[Intryc](https://www.ycombinator.com/companies/intryc)** (Summer 2024) — Intryc uses AI to automate quality assurance for customer support
+- **[Pinnacle](https://www.ycombinator.com/companies/pinnacle)** (Summer 2024) — API & SDK for RCS (the next-generation of texting)
+- **[Ember Robotics](https://www.ycombinator.com/companies/ember-robotics)** (Summer 2024) — Datadog for robots
+- **[Thunder Compute](https://www.ycombinator.com/companies/thunder-compute)** (Summer 2024) — VMware for GPUs
+- **[Kura AI](https://www.ycombinator.com/companies/kura-ai)** (Summer 2024) — New State of the Art for Browser Agents
+- **[Emergent](https://www.ycombinator.com/companies/emergent)** (Summer 2024) — AI app builder that turns your ideas into monetizable software.
+- **[Zeit AI](https://www.ycombinator.com/companies/zeit-ai)** (Summer 2024) — From data to enterprise insights in just a few words.
+- **[Distro](https://www.ycombinator.com/companies/distro)** (Summer 2024) — The AI co-pilot for sales reps at industrial wholesale distributors.
+- **[Mage Legal](https://www.ycombinator.com/companies/mage-legal)** (Summer 2024) — Automatic AI Legal Diligence
+- **[David AI](https://www.ycombinator.com/companies/david-ai)** (Summer 2024) — Data for audio AI
+- **[BeeBettor](https://www.ycombinator.com/companies/beebettor)** (Summer 2024) — Robinhood for sports prediction markets
+- **[Stempad](https://www.ycombinator.com/companies/stempad)** (Summer 2024) — Notion for science
+- **[Pax](https://www.ycombinator.com/companies/pax)** (Summer 2024) — AI Broker for Tariff Refunds
+- **[Conductor Quantum](https://www.ycombinator.com/companies/conductor-quantum)** (Summer 2024) — AI that operates quantum computers for scientific discovery
+- **[Autumn Labs](https://www.ycombinator.com/companies/autumn-labs)** (Summer 2024) — Datadog for industrial robots
+- **[Opslane](https://www.ycombinator.com/companies/opslane)** (Summer 2024) — Verify AI-generated code before you ship it
+- **[winfunc](https://www.ycombinator.com/companies/winfunc)** (Summer 2024) — ai-native security engineering for mission critical codebases
+- **[Biocartesian](https://www.ycombinator.com/companies/biocartesian)** (Summer 2024) — Converting biology into digital molecular maps
+- **[Seals AI](https://www.ycombinator.com/companies/seals-ai)** (Summer 2024) — AI Employees for Wholesalers & Distributors
+- **[Drillbit](https://www.ycombinator.com/companies/drillbit)** (Summer 2024) — Automating Office Work for Residential Contractors.
+- **[Sharpe](https://www.ycombinator.com/companies/sharpe)** (Summer 2024) — Agents for quantitative research and financial data science.
+- **[Dimely](https://www.ycombinator.com/companies/dimely)** (Summer 2024) — AI-Powered Spreadsheet for Billing Automation
+- **[Redouble AI](https://www.ycombinator.com/companies/redouble-ai)** (Summer 2024) — Java-native multi-agentic AI operating system for enterprise
+- **[Planbase](https://www.ycombinator.com/companies/planbase)** (Summer 2024) — AI workforce management for healthcare 
+- **[Anara](https://www.ycombinator.com/companies/anara)** (Summer 2024) — AI for researchers
+- **[Hestus, Inc.](https://www.ycombinator.com/companies/hestus-inc)** (Summer 2024) — An AI-powered CAD software
+- **[MagiCode](https://www.ycombinator.com/companies/magicode)** (Summer 2024) — A Reliable AI Frontend Engineer
+- **[FINNY AI](https://www.ycombinator.com/companies/finny-ai)** (Summer 2024) — The organic growth engine for financial advisors 
+- **[Vibe](https://www.ycombinator.com/companies/vibe)** (Summer 2024) — Making everyone a software engineer
+- **[1849 bio](https://www.ycombinator.com/companies/1849-bio)** (Summer 2024) — Engineering microbes for miners to unlock billions in trapped metal
+- **[ReactWise](https://www.ycombinator.com/companies/reactwise)** (Summer 2024) — AI Co-Pilot for Chemical Process Optimization
+- **[Zoa Research](https://www.ycombinator.com/companies/zoa-research)** (Summer 2024) — Powerful quantitative forecasting models
+- **[Saturn](https://www.ycombinator.com/companies/saturn)** (Summer 2024) — Compliance and back office workflows for Wealth Managers.
+- **[Clearly AI](https://www.ycombinator.com/companies/clearly-ai)** (Summer 2024) — Automate security and privacy reviews
+- **[expand.ai](https://www.ycombinator.com/companies/expand-ai)** (Summer 2024) — Turn any website into an API.
+- **[Promi](https://www.ycombinator.com/companies/promi)** (Summer 2024) — Providing quick product and design feedback via digital twins
+- **[Ontra Mobility](https://www.ycombinator.com/companies/ontra-mobility)** (Summer 2024) — Platform for cities to optimize transit 
+- **[Aluna](https://www.ycombinator.com/companies/aluna)** (Summer 2024) — Data for biomedical AI
+- **[Panora](https://www.ycombinator.com/companies/panora)** (Summer 2024) — Turning messy inboxes into ERP-Ready Data
+- **[Manaflow](https://www.ycombinator.com/companies/manaflow)** (Summer 2024) — Open source applied AI lab building next-gen devtools
+- **[Conveo](https://www.ycombinator.com/companies/conveo)** (Summer 2024) — Confident decisions in days with AI-led interviews.
+- **[CreativeMode](https://www.ycombinator.com/companies/creativemode)** (Summer 2024) — Lovable for Minecraft mods
+- **[Kastle](https://www.ycombinator.com/companies/kastle)** (Summer 2024) — AI employee for consumer lending
+- **[Kopra Bio](https://www.ycombinator.com/companies/kopra-bio)** (Summer 2024) — Genetically engineered viruses that teach your immune system to kill…
+- **[Anthrogen](https://www.ycombinator.com/companies/anthrogen)** (Summer 2024) — We're training the next generation of protein foundation models.
+- **[Benchify](https://www.ycombinator.com/companies/benchify)** (Summer 2024) — Executable healthcare contracts
+- **[Fazeshift](https://www.ycombinator.com/companies/fazeshift)** (Summer 2024) — AI agent for Accounts Receivable
+- **[TaxGPT](https://www.ycombinator.com/companies/taxgpt)** (Summer 2024) — AI tax assistant for professionals and businesses
+- **[Substrate](https://www.ycombinator.com/companies/substrate)** (Summer 2024) — Artificial Intelligence for your medical billing team
+- **[The Synthesis Company](https://www.ycombinator.com/companies/the-synthesis-company)** (Summer 2024) — 100x faster scientific evidence synthesis
+- **[Mito Health](https://www.ycombinator.com/companies/mito-health)** (Summer 2024) — At-cost lab testing marketplace that profits when you test less
+- **[Lighthouz AI](https://www.ycombinator.com/companies/lighthouz-ai)** (Summer 2024) — Freight bill audits, AP, AR automation for freight brokers with…
+- **[Modus](https://www.ycombinator.com/companies/modus)** (Summer 2024) — Unlock revenue per employee with AI-powered headcount management
+- **[d_model](https://www.ycombinator.com/companies/d_model)** (Summer 2024) — Look inside the model
+- **[LedgerUp](https://www.ycombinator.com/companies/ledgerup)** (Summer 2024) — AI agents that handles complex billing and revenue
+- **[Plume](https://www.ycombinator.com/companies/plume)** (Summer 2024) — Renewable infrastructure deployment at scale.
+- **[Pulse](https://www.ycombinator.com/companies/pulse-3)** (Summer 2024) — Production-grade unstructured document extraction
+- **[AutoPallet Robotics](https://www.ycombinator.com/companies/autopallet-robotics)** (Summer 2024) — We make robots that move boxes in warehouses
+- **[Dench.com](https://www.ycombinator.com/companies/dench-com)** (Summer 2024) — Workspace for your AI Agents, Build any Workflow.
+- **[AminoAnalytica](https://www.ycombinator.com/companies/aminoanalytica)** (Summer 2024) — The AI scientist for always-on biodefense
+- **[Gauge](https://www.ycombinator.com/companies/gauge)** (Summer 2024) — Gauge helps you get recommended and implemented by agents.
+- **[Weave Robotics](https://www.ycombinator.com/companies/weave-robotics)** (Summer 2024) — Personal robots for the home--that ship in 2025
+- **[Tandem](https://www.ycombinator.com/companies/tandem-2)** (Summer 2024) — AI-native office leasing broker
+- **[Kenley](https://www.ycombinator.com/companies/kenley)** (Summer 2024) — AI Agents for Advisory & Financial Services.
+- **[Tivara](https://www.ycombinator.com/companies/tivara)** (Summer 2024) — The AI workforce for medical groups
+- **[camfer](https://www.ycombinator.com/companies/camfer)** (Summer 2024) — Building the world’s first AI mechanical engineer.
+- **[MinusX](https://www.ycombinator.com/companies/minusx)** (Summer 2024) — Open source agentic BI for founders
+- **[Lore](https://www.ycombinator.com/companies/joinlore)** (Summer 2024) — Transform your iMessage conversations into shareable stories
+- **[Parahelp](https://www.ycombinator.com/companies/parahelp)** (Summer 2024) — Build an AI support agent that securely uses all your tools
+- **[CodeViz](https://www.ycombinator.com/companies/codeviz)** (Summer 2024) — One living model of your software architecture
+- **[RunLocal AI](https://www.ycombinator.com/companies/runlocal-ai)** (Summer 2024) — AI agent that optimizes inference for embedded compute like Jetson
+- **[Ares Industries](https://www.ycombinator.com/companies/ares-industries)** (Summer 2024) — Building low-cost cruise missiles 
+- **[Dodo](https://www.ycombinator.com/companies/dodo)** (Summer 2024) — AI agents that handle communications for clinics
+- **[Lucible](https://www.ycombinator.com/companies/lucible)** (Summer 2024) — Combined checking and investment account
+- **[Elevate](https://www.ycombinator.com/companies/elevate-2)** (Summer 2024) — Automated AI data integrations for roll-ups
+- **[Offstream](https://www.ycombinator.com/companies/offstream)** (Summer 2024) — Vanta for carbon compliance
+- **[Storia AI](https://www.ycombinator.com/companies/storia-ai)** (Summer 2024) — Open source AI copilot that knows your company's code and its context
+- **[DeepSim, Inc.](https://www.ycombinator.com/companies/deepsim-inc)** (Summer 2024) — An AI physics simulator for AI chip design
+- **[Scape](https://www.ycombinator.com/companies/scape)** (Summer 2024) — The intelligent inbox that works for you
+- **[Zuni](https://www.ycombinator.com/companies/zuni)** (Summer 2024) — AI agents for high-value professional work
+- **[Proxis](https://www.ycombinator.com/companies/proxis)** (Summer 2024) — The platform for enterprise AI agent automations, starting with email.
+- **[Rewbi](https://www.ycombinator.com/companies/rewbi)** (Summer 2024) — A stealth mode startup.
+- **[Cloudglue](https://www.ycombinator.com/companies/cloudglue)** (Summer 2024) — The video context layer for AI.
+- **[NetworkOcean](https://www.ycombinator.com/companies/networkocean)** (Summer 2024) — We build and operate underwater data centers.
+- **[Silurian](https://www.ycombinator.com/companies/silurian)** (Summer 2024) — Foundation models to simulate Earth, starting with weather.
+- **[Hyrex](https://www.ycombinator.com/companies/hyrex)** (Summer 2024) — The COLD Task Framework
+- **[Unbound](https://www.ycombinator.com/companies/unbound)** (Summer 2024) — Use AI tools without fear of data leakage
+- **[RetroFix](https://www.ycombinator.com/companies/retrofix)** (Summer 2024) — Automate any workflow using plain english
+- **[Azalea Robotics Corporation](https://www.ycombinator.com/companies/azalea-robotics-corporation)** (Summer 2024) — Automating airport baggage handling with robots.
+- **[Decisional AI](https://www.ycombinator.com/companies/decisional-ai)** (Summer 2024) — AI Coworkers for Business Automation
+- **[Stardrift](https://www.ycombinator.com/companies/stardrift)** (Summer 2024) — AI travel planner
+- **[ideate.xyz](https://www.ycombinator.com/companies/ideate-xyz)** (Summer 2024) — ideate.xyz is an AI-powered 3D art suite on the web
+- **[FirstWork](https://www.ycombinator.com/companies/firstwork)** (Summer 2024) — Rippling for seasonal workers
+- **[Sorcerer](https://www.ycombinator.com/companies/sorcerer)** (Summer 2024) — Building a nervous system for the atmosphere
+- **[Wordware](https://www.ycombinator.com/companies/wordware)** (Summer 2024) — AI agents you can rely on
+- **[Maitai](https://www.ycombinator.com/companies/maitai)** (Summer 2024) — Reliable, self-improving enterprise AI
+- **[Corgi Insurance](https://www.ycombinator.com/companies/corgi-insurance)** (Summer 2024) — Corgi is building an AI financial infrastructure company
+- **[Phonely](https://www.ycombinator.com/companies/phonely)** (Summer 2024) — AI call centers 
+- **[VideoGen](https://www.ycombinator.com/companies/videogen)** (Summer 2024) — Create professional videos in minutes with AI, online or via API
+- **[Sage Care](https://www.ycombinator.com/companies/sagecare)** (Summer 2024) — Automating home care agency operations with AI
+- **[Hexclave](https://www.ycombinator.com/companies/hexclave)** (Summer 2024) — The user infrastructure platform
+- **[Tabula](https://www.ycombinator.com/companies/tabula)** (Summer 2024) — Autonomous Accounting Software
+- **[Callback](https://www.ycombinator.com/companies/callback)** (Summer 2024) — Effortless AI automation for business operations
+- **[Bayesline](https://www.ycombinator.com/companies/bayesline)** (Summer 2024) — Highly customizable and blazingly fast analytics for asset managers.
+- **[DigitalCarbon](https://www.ycombinator.com/companies/digitalcarbon)** (Summer 2024) — Transform Images And Videos Into Immersive 3D With AI
+- **[Random Labs](https://www.ycombinator.com/companies/random-labs)** (Summer 2024) — Random labs is building long running autonomous coding agents.
+- **[Unsloth AI](https://www.ycombinator.com/companies/unsloth-ai)** (Summer 2024) — Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.
+- **[Codes Health](https://www.ycombinator.com/companies/codes-health)** (Summer 2024) — Medical Record Retrieval with Zero Human Error
+- **[Entangl](https://www.ycombinator.com/companies/entangl)** (Summer 2024) — Find & resolve issues in data center engineering & operations using AI
+- **[ClaimSorted](https://www.ycombinator.com/companies/claimsorted)** (Summer 2024) — Making it easy for insurance companies to process claims
+- **[mdhub](https://www.ycombinator.com/companies/mdhub)** (Summer 2024) — AI-native operating system for behavioral health clinics.
+- **[Hamming AI](https://www.ycombinator.com/companies/hamming-ai)** (Summer 2024) — Complete QA platform for voice agents
+- **[ProhostAI](https://www.ycombinator.com/companies/prohostai)** (Summer 2024) — AI Property Manager for Airbnb & Short-Term Rental Hosts
+- **[Educato](https://www.ycombinator.com/companies/educato)** (Summer 2024) — Worldwide exam-prep platform
+- **[Spaceium Inc](https://www.ycombinator.com/companies/spaceium-inc)** (Summer 2024) — In-Space Refueling
+- **[Comfy Deploy](https://www.ycombinator.com/companies/comfy-deploy)** (Summer 2024) — ComfyUI for everyone on your team
+- **[Synnax](https://www.ycombinator.com/companies/synnax)** (Summer 2024) — Unified Hardware Control and Data Processing Software
+- **[Theseus](https://www.ycombinator.com/companies/theseus)** (Summer 2024) — GPS Denied Navigation for Drones
+- **[Saphira AI](https://www.ycombinator.com/companies/saphira-ai)** (Summer 2024) — The Enablement Layer for Physical AI
+- **[Glasskube](https://www.ycombinator.com/companies/glasskube)** (Summer 2024) — Ship self-hosted software with Distr
+- **[Mem0](https://www.ycombinator.com/companies/mem0)** (Summer 2024) — The Memory layer for AI Agents
+- **[Cheers](https://www.ycombinator.com/companies/cheers)** (Summer 2024) — Win local search on ChatGPT & other LLMs
+- **[Understood Care](https://www.ycombinator.com/companies/understood-care)** (Summer 2024) — Healthcare personal assistants for Medicare patients.
+- **[Doublezero](https://www.ycombinator.com/companies/doublezero)** (Summer 2024) — Platform to build, use, and monetize fully autonomous agents
+- **[Superunit](https://www.ycombinator.com/companies/superunit)** (Summer 2024) — Faster, more profitable background checks with AI
+- **[Undermind](https://www.ycombinator.com/companies/undermind)** (Summer 2024) — An AI agent for scientific research
+- **[Domu Technology Inc.](https://www.ycombinator.com/companies/domu-technology-inc)** (Summer 2024) — AI Agents for collections
+- **[Apten](https://www.ycombinator.com/companies/apten)** (Summer 2024) — Omnichannel AI agents that engage leads across SMS, voice, and email
+- **[Spherecast](https://www.ycombinator.com/companies/spherecast)** (Summer 2024) — AI Supply Chain Manager for CPG
+- **[Miru](https://www.ycombinator.com/companies/miru-ml)** (Summer 2024) — Config Management for Robotics
+- **[Roger](https://www.ycombinator.com/companies/roger-2)** (Summer 2024) — Roger is an AI SDR that automates outbound sales and follows up 24/7.
+- **[Abel Police](https://www.ycombinator.com/companies/abel-police)** (Summer 2024) — Automating police paperwork
+- **[Ultra](https://www.ycombinator.com/companies/ultra)** (Summer 2024) — Practical, general-purpose robots for repetitive industrial tasks
+- **[Ångström AI](https://www.ycombinator.com/companies/angstrom-ai)** (Summer 2024) — Gen AI molecular simulations that reproduce wetlab results
+- **[Coval](https://www.ycombinator.com/companies/coval)** (Summer 2024) — Simulation & Evaluation that scales voice and chat AI agents
+- **[Evolvere BioSciences](https://www.ycombinator.com/companies/evolvere-biosciences)** (Summer 2024) — Making Next-Generation Antibiotics that Outpace Bacterial Evolution
+- **[Spur](https://www.ycombinator.com/companies/spur)** (Summer 2024) — Spur is your AI QA Engineer. Test your websites with natural language.
+- **[Ligo Biosciences](https://www.ycombinator.com/companies/ligo-biosciences)** (Summer 2024) — Enzyme design models.
+- **[ACX](https://www.ycombinator.com/companies/acx)** (Summer 2024) — Next-generation biocides for sustainable agriculture at scale
+- **[Overeasy](https://www.ycombinator.com/companies/overeasy)** (Summer 2024) — —
+- **[Fuse](https://www.ycombinator.com/companies/fuse-2)** (Summer 2024) — AI-powered workflow automation for US healthcare providers.
+- **[Simplex](https://www.ycombinator.com/companies/simplex)** (Summer 2024) — AI agents to enroll providers with payors
+- **[Poka Labs](https://www.ycombinator.com/companies/poka-labs)** (Summer 2024) — Helping industrial manufacturers win deals fast, at the right price.
+- **[Midship](https://www.ycombinator.com/companies/midship)** (Summer 2024) — AI for SOX testing
+- **[Hey Revia](https://www.ycombinator.com/companies/hey-revia)** (Summer 2024) — Voice AI to automate complex phone calls for healthcare providers
+- **[Sepal AI](https://www.ycombinator.com/companies/sepal-ai)** (Summer 2024) — Data Development for Advanced AI
+- **[Thyme](https://www.ycombinator.com/companies/thyme)** (Summer 2024) — The OS for financial advisors
+- **[Remade](https://www.ycombinator.com/companies/remade)** (Summer 2024) — AI-native canvas for creative workflows.
+- **[Central](https://www.ycombinator.com/companies/central)** (Summer 2024) — Payroll, benefits, state compliance & other bullsh*t for startups
+- **[Baseline AI](https://www.ycombinator.com/companies/baseline-ai)** (Summer 2024) — AI document creation and data management for clinical trials
+- **[RiskAngle](https://www.ycombinator.com/companies/riskangle)** (Summer 2024) — AI medical summaries in minutes
+- **[Lilac Labs](https://www.ycombinator.com/companies/lilac-labs)** (Summer 2024) — We automate the person taking orders at drive-thrus with a voice AI
+- **[deepsilicon](https://www.ycombinator.com/companies/deepsilicon)** (Summer 2024) — Software and hardware to run neural networks faster and cheaper
+- **[Invaria](https://www.ycombinator.com/companies/invaria)** (Summer 2024) — The next generation logging and observability platform
+- **[Flyflow](https://www.ycombinator.com/companies/flyflow)** (Summer 2024) — The easiest way to find high-quality sales leads
+- **[Pre](https://www.ycombinator.com/companies/pre)** (Summer 2024) — The AI accountability agent for startup founders
+- **[F2](https://www.ycombinator.com/companies/f2)** (Summer 2025) — The AI platform for private markets investors
+- **[Nox Metals](https://www.ycombinator.com/companies/nox-metals)** (Summer 2025) — Supplying America's Industrial Base
+- **[Blue](https://www.ycombinator.com/companies/blue)** (Summer 2025) — Your phone finally has someone to run it. Plug in Blue, just ask.
+- **[Paloma](https://www.ycombinator.com/companies/paloma)** (Summer 2025) — Digital transformation for real economy businesses
+- **[Uplift AI](https://www.ycombinator.com/companies/uplift-ai)** (Summer 2025) — Foundational Voice Models for regional languages
+- **[RealRoots](https://www.ycombinator.com/companies/realroots)** (Summer 2025) — IRL friendship app for women
+- **[Luminal](https://www.ycombinator.com/companies/luminal)** (Summer 2025) — Making AI run fast on any hardware.
+- **[Freya](https://www.ycombinator.com/companies/freya)** (Summer 2025) — Voice AI for Enterprises
+- **[burnt](https://www.ycombinator.com/companies/burnt)** (Summer 2025) — Agentic Operating System for Food Supply Chain
+- **[Avent](https://www.ycombinator.com/companies/avent)** (Summer 2025) — AI agents for industrial commerce
+- **[Ruvo](https://www.ycombinator.com/companies/ruvo)** (Summer 2025) — The Global Dollar App for Brazil
+- **[Veritus](https://www.ycombinator.com/companies/veritus)** (Summer 2025) — AI agents for the consumer lending industry
+- **[Sapien](https://www.ycombinator.com/companies/outrove)** (Summer 2025) — Synthetic populations for decisions
+- **[NOSO LABS](https://www.ycombinator.com/companies/noso-labs)** (Summer 2025) — Build AI agents for field technicians to diagnose and sell 10x better
+- **[Vulcan Technologies](https://www.ycombinator.com/companies/vulcan-technologies)** (Summer 2025) — Secure frontier AI for government & adjacent knowledge work
+- **[Bizzy AI](https://www.ycombinator.com/companies/geo-ai)** (Summer 2025) — Bizzy works 24/7 so you never miss a lead.
+- **[Spotlight Realty](https://www.ycombinator.com/companies/spotlight-realty)** (Summer 2025) — AI powered brokerage reducing residential rental commissions in NYC…
+- **[Interfere](https://www.ycombinator.com/companies/interfere)** (Summer 2025) — Give engineering, product, and design teams insight into unseen issues
+- **[Munify](https://www.ycombinator.com/companies/munify)** (Summer 2025) — The Cross-Border Neobank for the Middle East
+- **[RowFlow](https://www.ycombinator.com/companies/rowflow)** (Summer 2025) — Replacing forms with AI conversations
+- **[TectoAI](https://www.ycombinator.com/companies/tectoai)** (Summer 2025) — A Platform for AI Governance
+- **[Duranium](https://www.ycombinator.com/companies/duranium)** (Summer 2025) — Reshoring critical metal production
+- **[Perspectives Health](https://www.ycombinator.com/companies/perspectives-health)** (Summer 2025) — AI to run behavioral health programs better
+- **[Modelence](https://www.ycombinator.com/companies/modelence)** (Summer 2025) — Build production-ready apps with AI
+- **[Magnetic](https://www.ycombinator.com/companies/magnetic)** (Summer 2025) — AI Tax Preparer for CPA firms
+- **[Fleetline](https://www.ycombinator.com/companies/fleetline)** (Summer 2025) — Optimizing fleet planning with data driven algorithms
+- **[CLODO](https://www.ycombinator.com/companies/clodo)** (Summer 2025) — Planet-scale people discovery.
+- **[stagewise](https://www.ycombinator.com/companies/stagewise)** (Summer 2025) — The Open Source Agentic IDE
+- **[Flywheel AI](https://www.ycombinator.com/companies/flywheel-ai)** (Summer 2025) — Waymo for excavators
+- **[Juxta](https://www.ycombinator.com/companies/juxta)** (Summer 2025) — Building a GPS alternative 100x more powerful with no hardware needed.
+- **[Okibi](https://www.ycombinator.com/companies/okibi)** (Summer 2025) — Turns products into CLIs and agents into customers
+- **[Rebulk](https://www.ycombinator.com/companies/rebulk)** (Summer 2025) — Accurately measure and monitor bulk inventory
+- **[KERNEL](https://www.ycombinator.com/companies/kernel)** (Summer 2025) — Crazy fast, open source infra for AI agents to use the Internet
+- **[Reacher](https://www.ycombinator.com/companies/reacher)** (Summer 2025) — We automate creator marketing for the world's largest brands
+- **[Certus AI](https://www.ycombinator.com/companies/certus-ai)** (Summer 2025) — Replacing the restaurant phone line with Voice AI
+- **[Hera](https://www.ycombinator.com/companies/hera-video)** (Summer 2025) — AI Motion Designer
+- **[Notte](https://www.ycombinator.com/companies/notte)** (Summer 2025) — Reliable Web Agents for Enterprise
+- **[Pally](https://www.ycombinator.com/companies/pally)** (Summer 2025) — Your personal AI Assistant
+- **[Locata](https://www.ycombinator.com/companies/locata)** (Summer 2025) — AI Referral Automation for Primary Care Clinics
+- **[Pleom](https://www.ycombinator.com/companies/pleom)** (Summer 2025) — Agentic Business Intelligence
+- **[Convexia](https://www.ycombinator.com/companies/convexia)** (Summer 2025) — The world's first AI-maximalist pharma company
+- **[SigmanticAI](https://www.ycombinator.com/companies/sigmanticai)** (Summer 2025) — The Cursor for Chip Design - Delivering Silicon-Ready Chip Designs…
+- **[Sira](https://www.ycombinator.com/companies/sira)** (Summer 2025) — AI Native Rippling for Deskless Workers
+- **[F4 Industries](https://www.ycombinator.com/companies/f4-industries)** (Summer 2025) — The GD&T Analysis Platform for Engineering Drawings
+- **[Quotain](https://www.ycombinator.com/companies/quotain)** (Summer 2025) — AI sales simulations using your real deals
+- **[Altur](https://www.ycombinator.com/companies/altur)** (Summer 2025) — Voice AI Agents for Debt Collection
+- **[PARES AI](https://www.ycombinator.com/companies/pares-ai)** (Summer 2025) — AI-native real estate services firm
+- **[Avelis Health](https://www.ycombinator.com/companies/avelis-health)** (Summer 2025) — We audit medical claims for self-insured employers and health plans.
+- **[Nautilus](https://www.ycombinator.com/companies/nautilus)** (Summer 2025) — AI platform to grow and to optimize car washes
+- **[Humoniq](https://www.ycombinator.com/companies/humoniq)** (Summer 2025) — AI-Native BPO for travel & transport
+- **[Maximal](https://www.ycombinator.com/companies/maximal)** (Summer 2025) — Truckload Planning at Machine Precision
+- **[idler](https://www.ycombinator.com/companies/idler)** (Summer 2025) — reinforcement learning environments
+- **[Floot](https://www.ycombinator.com/companies/floot)** (Summer 2025) — The easiest way for non-coders to build apps with AI.
+- **[Alara](https://www.ycombinator.com/companies/alara)** (Summer 2025) — Procurement Platform for Dental Offices
+- **[Socratix AI](https://www.ycombinator.com/companies/socratix-ai)** (Summer 2025) — AI coworkers for fraud and compliance teams.
+- **[Minimal AI](https://www.ycombinator.com/companies/minimal-ai)** (Summer 2025) — AI Agents for E-commerce Customer Support
+- **[Risely AI](https://www.ycombinator.com/companies/risely-ai)** (Summer 2025) — AI agents that automate administrative work across college campuses. 
+- **[Omnara](https://www.ycombinator.com/companies/omnara)** (Summer 2025) — The Open-Source Alternative to Claude Managed Agents
+- **[Knowlify](https://www.ycombinator.com/companies/knowlify)** (Summer 2025) — The AI Explainer Video Maker
+- **[Autosana](https://www.ycombinator.com/companies/autosana)** (Summer 2025) — AI agents for E2E testing across mobile & web
+- **[ProcIndex](https://www.ycombinator.com/companies/procindex)** (Summer 2025) — AI-powered accounting automation for construction and manufacturing
+- **[Iron Grid](https://www.ycombinator.com/companies/iron-grid)** (Summer 2025) — Foundational models for risk and quality.
+- **[Finto](https://www.ycombinator.com/companies/finto-de)** (Summer 2025) — AI accounting for enterprise finance teams
+- **[Motives](https://www.ycombinator.com/companies/motives)** (Summer 2025) — Consumer focus groups run by AI
+- **[Relling](https://www.ycombinator.com/companies/relling)** (Summer 2025) — deploying the first billion robots for manufacturing
+- **[Char](https://www.ycombinator.com/companies/char)** (Summer 2025) — The AI notepad that knows and works for you
+- **[Manufact](https://www.ycombinator.com/companies/manufact)** (Summer 2025) — Cloud infrastructure for MCP servers and Claude / ChatGPT apps.
+- **[Novaflow](https://www.ycombinator.com/companies/novaflow)** (Summer 2025) — The AI data analyst for biology labs
+- **[Perseus Defense](https://www.ycombinator.com/companies/perseus-defense)** (Summer 2025) — America's Golden Dome for Drones
+- **[Phases](https://www.ycombinator.com/companies/phases)** (Summer 2025) — Automated clinical trial oversight and execution
+- **[Solva](https://www.ycombinator.com/companies/solva)** (Summer 2025) — Automates insurance claims and stops incorrect payouts
+- **[Albacore Inc.](https://www.ycombinator.com/companies/albacore-inc)** (Summer 2025) — Drone submarines
+- **[Physical Turing](https://www.ycombinator.com/companies/physical-turing)** (Summer 2025) — Evaluating humanoids in the real world
+- **[TwentyTwo](https://www.ycombinator.com/companies/twentytwo)** (Summer 2025) — AI infrastructure for biosecurity
+- **[Mimos](https://www.ycombinator.com/companies/mimos)** (Summer 2025) — The growth OS for plaintiff-side law firms
+- **[Nozomio](https://www.ycombinator.com/companies/nozomio)** (Summer 2025) — product lab. focused on personal ai and context.
+- **[VibeFlow](https://www.ycombinator.com/companies/vibeflow)** (Summer 2025) — AI content manager that grows your company's online presence
+- **[Comena](https://www.ycombinator.com/companies/comena)** (Summer 2025) — AI agents for distributors and manufacturers to automate order entry.
+- **[Normal](https://www.ycombinator.com/companies/normal)** (Summer 2025) — Testing and certifying the hardware of the future
+- **[GhostEye](https://www.ycombinator.com/companies/ghosteye)** (Summer 2025) — Your always-on red team.
+- **[Channel3](https://www.ycombinator.com/companies/channel3)** (Summer 2025) — Database of every product on the internet
+- **[Epicenter](https://www.ycombinator.com/companies/epicenter)** (Summer 2025) — ChatGPT's memory feature in an open, portable format
+- **[Costream](https://www.ycombinator.com/companies/costream)** (Summer 2025) — Indexing human dialogue through digital products
+- **[Embedder](https://www.ycombinator.com/companies/embedder)** (Summer 2025) — Hardware-Aware AI for Embedded Software Development
+- **[Flai](https://www.ycombinator.com/companies/flai)** (Summer 2025) — We Bring Customers to Your Dealership
+- **[b12 Labs](https://www.ycombinator.com/companies/b12-labs)** (Summer 2025) — Making hard molecules for Pharma and Biotech
+- **[Fulcrum](https://www.ycombinator.com/companies/fulcrum)** (Summer 2025) — The agentic debugger for AI systems
+- **[Trace](https://www.ycombinator.com/companies/trace-so)** (Summer 2025) — Context-aware orchestration between humans and AI.
+- **[Interface](https://www.ycombinator.com/companies/theinterface)** (Summer 2025) — Building onestop.sh
+- **[IronLedger.ai](https://www.ycombinator.com/companies/ironledger-ai)** (Summer 2025) — AI-enabled Corporate Cards and Invoice Processing for Real Estate
+- **[Doe](https://www.ycombinator.com/companies/doe)** (Summer 2025) — The boring stuff, handled. Everything else, supercharged.
+- **[Theora](https://www.ycombinator.com/companies/theora)** (Summer 2025) — The AI verification layer for trusted clinical trials in India.
+- **[Parachute](https://www.ycombinator.com/companies/parachute)** (Summer 2025) — —
+- **[Riverbank](https://www.ycombinator.com/companies/riverbank)** (Summer 2025) — Infrastructure Cartography
+- **[Kalinda](https://www.ycombinator.com/companies/kalinda)** (Summer 2025) — Deep research for class action law firms
+- **[Stellon Labs](https://www.ycombinator.com/companies/stellon-labs)** (Summer 2025) — Building tiny frontier AI models that run on edge devices
+- **[BootLoop](https://www.ycombinator.com/companies/bootloop)** (Summer 2025) — Firmware in minutes, not months - rigorously tested on real hardware
+- **[Panoptive](https://www.ycombinator.com/companies/panoptive)** (Summer 2025) — The continuous oversight engine for clinical trials
+- **[cocreate](https://www.ycombinator.com/companies/cocreate)** (Summer 2025) — video production software
+- **[Slashy](https://www.ycombinator.com/companies/slashy)** (Summer 2025) — Cursor for Email
+- **[Wedge](https://www.ycombinator.com/companies/wedge)** (Summer 2025) — Palantir for Healthcare AI Agents
+- **[CareSwift](https://www.ycombinator.com/companies/careswift)** (Summer 2025) — AI scribe for Ambulance Reports
+- **[Pangolin](https://www.ycombinator.com/companies/pangolin)** (Summer 2025) — Identity-aware VPN and proxy for remote access to anything, anywhere.
+- **[Kestroll](https://www.ycombinator.com/companies/kestroll)** (Summer 2025) — —
+- **[Tesora](https://www.ycombinator.com/companies/tesora)** (Summer 2025) — Frontier AI for Actuaries
+- **[DeepAware AI (Robotics Center of Silicon Valley)](https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley)** (Summer 2025) — Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.
+- **[Stockline](https://www.ycombinator.com/companies/stockline)** (Summer 2025) — AI-native ERP for food wholesalers
+- **[Magnitude](https://www.ycombinator.com/companies/magnitude)** (Summer 2025) — Code with local models, zero setup
+- **[Proliferate](https://www.ycombinator.com/companies/proliferate)** (Summer 2025) — Manage a team of agents from your desktop
+- **[DeepGrove](https://www.ycombinator.com/companies/deepgrove)** (Summer 2025) — Frontier Intelligence. On Any Device.
+- **[Frizzle](https://www.ycombinator.com/companies/frizzle)** (Summer 2025) — AI Grading for Teachers
+- **[OnDeck AI](https://www.ycombinator.com/companies/ondeck-ai)** (Summer 2025) — Analyze any footage, without training a model
+- **[Alter](https://www.ycombinator.com/companies/alter)** (Summer 2025) — Secure access control and authorization platform for agent workflows
+- **[Imprezia](https://www.ycombinator.com/companies/imprezia)** (Summer 2025) — The World's First AI Ad Network.
+- **[Lilac](https://www.ycombinator.com/companies/lilac)** (Summer 2025) — We sell GPUs.
+- **[Janet AI](https://www.ycombinator.com/companies/tryjanet)** (Summer 2025) — The Autonomous Product Management System
+- **[Cyberdesk](https://www.ycombinator.com/companies/cyberdesk)** (Summer 2025) — Self learning computer use agent for developers
+- **[Panels](https://www.ycombinator.com/companies/panels)** (Summer 2025) — Audio Data for AI Labs
+- **[Wafer](https://www.ycombinator.com/companies/wafer)** (Summer 2025) — AI that makes AI fast
+- **[Orange Slice](https://www.ycombinator.com/companies/orange-slice)** (Summer 2025) — Agentic sales enrichment spreadsheet
+- **[Monarcha](https://www.ycombinator.com/companies/monarcha)** (Summer 2025) — Turn maps into data
+- **[Lotas](https://www.ycombinator.com/companies/lotas)** (Summer 2025) — AI for quantitative trading
+- **[Design Arena](https://www.ycombinator.com/companies/design-arena)** (Summer 2025) — World's largest crowdsourced benchmark for AI-generated design
+- **[EffiGov](https://www.ycombinator.com/companies/effigov)** (Summer 2025) — The AI OS for Cities
+- **[bitrig](https://www.ycombinator.com/companies/bitrig)** (Summer 2025) — Vibe code, test, and deploy Swift apps. All from your iPhone.
+- **[Lark](https://www.ycombinator.com/companies/lark)** (Summer 2025) — The E2E testing layer for AI-driven development
+- **[Topological](https://www.ycombinator.com/companies/topological)** (Summer 2025) — Physics-based foundation models for CAD optimization.
+- **[Datafruit](https://www.ycombinator.com/companies/datafruit)** (Summer 2025) — The AI workspace for software implementations
+- **[ContextFort](https://www.ycombinator.com/companies/contextfort)** (Summer 2025) — Visibility and Controls for Browser Agents
+- **[LLM Stats](https://www.ycombinator.com/companies/llm-stats)** (Summer 2025) — Independent AI evaluations lab
+- **[Verne Robotics](https://www.ycombinator.com/companies/verne-robotics)** (Summer 2025) — AI models that teach robots new skills in hours
+- **[Playgent](https://www.ycombinator.com/companies/playgent)** (Summer 2025) — Sandboxes for AI agents
+- **[Liva AI](https://www.ycombinator.com/companies/liva-ai)** (Summer 2025) — Audio & Video Data
+- **[Shor](https://www.ycombinator.com/companies/shor)** (Summer 2025) — International payroll, built for founders
+- **[Golpo](https://www.ycombinator.com/companies/golpo)** (Summer 2025) — Create Whiteboard Explainer Videos with AI from a Prompt or Document
+- **[args](https://www.ycombinator.com/companies/args)** (Summer 2025) — A better GItHub
+- **[Lanesurf](https://www.ycombinator.com/companies/lanesurf)** (Summer 2025) — Book any load in 10 minutes
+- **[Astor](https://www.ycombinator.com/companies/astor)** (Summer 2025) — AI advisor for retail investors
+- **[Blank Bio](https://www.ycombinator.com/companies/blank-bio)** (Summer 2025) — RNA intelligence for precision medicine
+- **[truthsystems](https://www.ycombinator.com/companies/truthsystems)** (Summer 2025) — Automatically blocking risky behavior with real-time governance agents
+- **[AgentMail](https://www.ycombinator.com/companies/agentmail)** (Summer 2025) — Email Inboxes for AI Agents
+- **[TraceRoot.AI](https://www.ycombinator.com/companies/traceroot-ai)** (Summer 2025) — Open source self-improving layer for AI agents
+- **[Halluminate](https://www.ycombinator.com/companies/halluminate)** (Summer 2025) — Data and RL environments to automate knowledge work
+- **[MangoDesk](https://www.ycombinator.com/companies/mangodesk)** (Summer 2025) — Long-horizon RL environments
+- **[The Prompting Company](https://www.ycombinator.com/companies/the-prompting-company)** (Summer 2025) — We help products get discovered & used by AI agents.
+- **[Acrely](https://www.ycombinator.com/companies/acrely)** (Summer 2025) — Enterprise Voice Agents
+- **[Dedalus Labs](https://www.ycombinator.com/companies/dedalus-labs)** (Summer 2025) — Compute substrate for AI agents
+- **[Closera](https://www.ycombinator.com/companies/closera)** (Summer 2025) — AI Shopping Agent for Your Ecommerce Store
+- **[Meteor](https://www.ycombinator.com/companies/meteor)** (Summer 2025) — An AI-Native Browser
+- **[GETASAP](https://www.ycombinator.com/companies/getasap)** (Summer 2025) — AI-Native Fresh Produce Logistics
+- **[Adaptional](https://www.ycombinator.com/companies/adaptional)** (Summer 2025) — AI-powered insurance claims review
+- **[Pingo](https://www.ycombinator.com/companies/pingo)** (Summer 2025) — AI companion that helps you learn languages
+- **[Preseen](https://www.ycombinator.com/companies/preseen)** (Summer 2025) — The AI forecasting company for global macro events. 
+- **[Synthetic Society](https://www.ycombinator.com/companies/synthetic-society)** (Summer 2025) — Synthetic Users to Simulate Real Users
+- **[Cactus Compute](https://www.ycombinator.com/companies/cactus-compute)** (Summer 2025) — Tiny Edge AI For Tiny Devices
+- **[Nixo](https://www.ycombinator.com/companies/nixo)** (Summer 2025) — Deployment intelligence for forward deployed engineers
+- **[Serafis](https://www.ycombinator.com/companies/serafis)** (Summer 2025) — Narrative intelligence for investors
+- **[Wayline](https://www.ycombinator.com/companies/wayline)** (Summer 2025) — AI voice for property managers
+- **[Ambral](https://www.ycombinator.com/companies/ambral)** (Summer 2025) — AI for account management and customer success
+- **[Monte](https://www.ycombinator.com/companies/monte)** (Summer 2025) — Continual Learning for Agents
+- **[Autumn](https://www.ycombinator.com/companies/autumn)** (Summer 2025) — Billing infrastructure for AI
+- **[Stormy](https://www.ycombinator.com/companies/stormy)** (Summer 2025) —  Stormy runs the office so your crew can run the work.
+- **[Opennote](https://www.ycombinator.com/companies/opennote)** (Summer 2025) — The notebook that thinks with you.
+- **[Metis](https://www.ycombinator.com/companies/metis)** (Summer 2025) — Infrastructure to build reliable agents
+- **[Nexa Labs](https://www.ycombinator.com/companies/nexa-labs)** (Summer 2025) — Implantable microchips and AI for cattle monitoring
+- **[Nuntius](https://www.ycombinator.com/companies/nuntius)** (Summer 2025) — Making Models Follow Rules.
+- **[Conifer](https://www.ycombinator.com/companies/conifer)** (Summer 2026) — Local-first least cost routing system to reduce 80%+ token spend
+- **[Experiential Labs](https://www.ycombinator.com/companies/experiential-labs)** (Summer 2026) — Turn your AI spend into a cheaper + better model you own
+- **[Edviro](https://www.ycombinator.com/companies/edviro)** (Summer 2026) — AI That Operates Energy Infrastructure
+- **[Coasty](https://www.ycombinator.com/companies/coasty)** (Summer 2026) — Real World Evals and RL Environments for Computer-Use
+- **[Caution](https://www.ycombinator.com/companies/caution)** (Summer 2026) — Hosting platform for software you don't want to get hacked
+- **[Magma](https://www.ycombinator.com/companies/magma)** (Summer 2026) — Monetize your agent's traces.
+- **[Atomarine](https://www.ycombinator.com/companies/atomarine)** (Summer 2026) — Off shore nuclear powered data centers at sea.
+- **[Billow AI Labs](https://www.ycombinator.com/companies/billow-ai-labs)** (Summer 2026) — AI-native Accounting Firm to Replace the Big-4
+- **[hardware intelligence](https://www.ycombinator.com/companies/hardware-intelligence)** (Summer 2026) — AI tools for the chips your AI runs on
+- **[Osseus](https://www.ycombinator.com/companies/osseus)** (Summer 2026) — The intelligent development platform for robotics
+- **[Salem Robotics Inc](https://www.ycombinator.com/companies/salem-robotics-inc)** (Summer 2026) — Deploying robots for inspections in hazardous spaces, like nuclear.
+- **[Robocurve](https://www.ycombinator.com/companies/robocurve)** (Summer 2026) — Evaluating robots in the real world.
+- **[hiloop](https://www.ycombinator.com/companies/hiloop)** (Summer 2026) — Infrastructure for recursive self-improvement
+- **[CueBench](https://www.ycombinator.com/companies/cuebench)** (Summer 2026) — RL Environments for Scientific Reasoning & Performance Engineering
+- **[Dawn Industries](https://www.ycombinator.com/companies/dawn-industries)** (Summer 2026) — Automatic Diagnosis & Fix for Industrial Automation Cells
+- **[Nex](https://www.ycombinator.com/companies/nex)** (Summer 2026) — Claude Cowork for high-volume workflows, starting with GTM
+- **[OneCLI](https://www.ycombinator.com/companies/onecli)** (Summer 2026) — The Identity Gateway for AI Agents
+- **[Vernius Systems, Inc.](https://www.ycombinator.com/companies/vernius-systems-inc)** (Summer 2026) — Autonomous radar guidance for interceptors
+- **[Wondering](https://www.ycombinator.com/companies/wondering)** (Summer 2026) — Duolingo for learning anything, but 10x better
+- **[Tracer](https://www.ycombinator.com/companies/tracer)** (Summer 2026) — Combining open-source AI models for better answers at lower cost
+- **[Amulet](https://www.ycombinator.com/companies/amulet)** (Summer 2026) — High performance file system for agents
+- **[Avoca Systems](https://www.ycombinator.com/companies/avoca-systems)** (Summer 2026) — The AI-powered operating system for radiology networks
+- **[SubVysion](https://www.ycombinator.com/companies/subvysion)** (Summer 2026) — 3D Maps of Underground Utilities
+- **[SpaceFlow Technologies, Inc.](https://www.ycombinator.com/companies/spaceflow-technologies-inc)** (Summer 2026) — The managed runtime for enterprise AI agents
+- **[Petrarch](https://www.ycombinator.com/companies/petrarch)** (Summer 2026) — Unlocking enterprise data for tomorrow's economy
+- **[Locke](https://www.ycombinator.com/companies/locke)** (Summer 2026) — Locke is changing the way companies and governments work together.
+- **[Florin](https://www.ycombinator.com/companies/florin)** (Summer 2026) — Florin is the insurance carrier with zero underwriters
+- **[Earendil Robotics](https://www.ycombinator.com/companies/earendil-robotics)** (Summer 2026) — Drone swarm defence at a small-unit level
+- **[Hebbian Robotics](https://www.ycombinator.com/companies/hebbian-robotics)** (Summer 2026) — APIs for searching and analyzing Physical AI data at scale
+- **[PRINCEPS](https://www.ycombinator.com/companies/princeps)** (Summer 2026) — AI-native insurance company for the compute economy
+- **[Hop Aero](https://www.ycombinator.com/companies/hop-aero)** (Summer 2026) — Rocket cargo delivery to contested environments
+- **[Agent FM](https://www.ycombinator.com/companies/agent-fm)** (Summer 2026) — One group chat to hear and steer your coding agents.
+- **[OpenRelay](https://www.ycombinator.com/companies/openrelay)** (Summer 2026) — Distributed, hardware-agnostic AI inference
+- **[Dock](https://www.ycombinator.com/companies/dock)** (Summer 2026) — Multiplayer agent workspace to run your company 
+- **[Verdict Machine](https://www.ycombinator.com/companies/verdict-machine)** (Summer 2026) — AI cybersecurity for financial institutions' digital assets
+- **[TovenAI](https://www.ycombinator.com/companies/tovenai)** (Summer 2026) — AI agents for compliance at institutional trading firms
+- **[HyperProbe](https://www.ycombinator.com/companies/hyperprobe)** (Summer 2026) — Your coding agent writes code. Now let it fix prod too.
+- **[Grip](https://www.ycombinator.com/companies/grip)** (Summer 2026) — Physical AI for waste management
+- **[Skymerse](https://www.ycombinator.com/companies/skymerse)** (Summer 2026) — Autopilot for Flight Operations
+- **[Hubble](https://www.ycombinator.com/companies/hubble-ai)** (Summer 2026) — The intelligence layer for patient information
+- **[Palisade](https://www.ycombinator.com/companies/palisade-2)** (Summer 2026) — AI that finds and fixes OS-level vulnerabilities across device fleets
+- **[83 Sciences](https://www.ycombinator.com/companies/83-sciences)** (Summer 2026) — AI-native materials discovery powered by unpublished experimental data
+- **[Chromie](https://www.ycombinator.com/companies/chromie)** (Summer 2026) — find, qualify, & win contracts with AI
+- **[Lamb Labs](https://www.ycombinator.com/companies/lamb-labs)** (Summer 2026) — World's fastest AI models
+- **[Shiraz AI](https://www.ycombinator.com/companies/shiraz-ai)** (Summer 2026) — Robots that learn on the job
+- **[Mireye](https://www.ycombinator.com/companies/mireye)** (Summer 2026) — Infrastructure for Physical World AI Agents
+- **[Touchy](https://www.ycombinator.com/companies/touchy)** (Summer 2026) — The AI assistant that doesn't fight for your attention
+- **[Derya](https://www.ycombinator.com/companies/derya)** (Summer 2026) — AI-Native Logistics Office
+- **[Pennant](https://www.ycombinator.com/companies/pennant)** (Summer 2026) — The Corporate Governance OS for Public Markets
+- **[Decawork](https://www.ycombinator.com/companies/decawork)** (Summer 2026) — The Agent Control Plane for IT teams
+- **[CarSignal](https://www.ycombinator.com/companies/carsignal)** (Summer 2026) — The Smart Operating System for Auto Shops.
+- **[Axelrod](https://www.ycombinator.com/companies/axelrod)** (Summer 2026) — Boutique Hotels that run themselves
+- **[Levocred AI](https://www.ycombinator.com/companies/levocred-ai)** (Summer 2026) — AI for credit funds, fintechs and banks
+- **[Praxis AI](https://www.ycombinator.com/companies/praxis-ai-2)** (Summer 2026) — Turns every company into a data vendor 
+- **[Care GP](https://www.ycombinator.com/companies/care-gp)** (Summer 2026) — AI agents to run primary healthcare operations
+- **[Radley](https://www.ycombinator.com/companies/radley)** (Summer 2026) — AI-native, full-stack radiology practice
+- **[Agnost AI](https://www.ycombinator.com/companies/agnost-ai)** (Summer 2026) — Product analytics for AI Agents
+- **[Agentcard](https://www.ycombinator.com/companies/agentcard)** (Summer 2026) — debit cards for AI agents.
+- **[ProvenMetal](https://www.ycombinator.com/companies/provenmetal)** (Summer 2026) — Fast-turn, American made PCBs
+- **[Gamgee](https://www.ycombinator.com/companies/gamgee)** (Summer 2026) — Scalable Personalised Cancer Treatment
+- **[Inkbox](https://www.ycombinator.com/companies/inkbox)** (Summer 2026) — Let your agents communicate via email, phone, iMessage, & Agent2Agent
+- **[Operon](https://www.ycombinator.com/companies/operon)** (Summer 2026) — Agentic data layer for manufacturing & process industries. 
+- **[Cosmic Robotics](https://www.ycombinator.com/companies/cosmic-robotics)** (Summer 2026) — Autonomous construction on Earth and beyond
+- **[Markov](https://www.ycombinator.com/companies/markov)** (Summer 2026) — Data for computer-use ai
+- **[Familiar](https://www.ycombinator.com/companies/familiar)** (Summer 2026) — World Models for Accurate Humans.
+- **[Lumeria](https://www.ycombinator.com/companies/lumeria)** (Summer 2026) — Oura Ring for Skin.
+- **[Marengo](https://www.ycombinator.com/companies/marengo)** (Summer 2026) — Automating engineering design, starting with data centers.
+- **[RonanRx Inc.](https://www.ycombinator.com/companies/ronanrx-inc)** (Summer 2026) — We use AI to personalize peptides to your biology
+- **[Waybill](https://www.ycombinator.com/companies/waybill)** (Summer 2026) — Managed procurement & inventory for hardware teams.
+- **[Executor](https://www.ycombinator.com/companies/executor)** (Summer 2026) — The open source integration management layer for AI.
+- **[Last Accounting Company](https://www.ycombinator.com/companies/last-accounting-company)** (Summer 2026) — Agent-native accounting firm.
+- **[Pacific](https://www.ycombinator.com/companies/pacific)** (Summer 2026) — Mass-producing and deploying micro data centers for Earth and Space
+- **[Luca IQ](https://www.ycombinator.com/companies/luca-iq)** (Summer 2026) — API First Tax Engine for CPAs
+- **[Financial Datasets](https://www.ycombinator.com/companies/financial-datasets)** (Summer 2026) — Connect your agent to the stock market 
+- **[TryNearby](https://www.ycombinator.com/companies/trynearby)** (Summer 2026) — Local creators for local businesses
+- **[Computable](https://www.ycombinator.com/companies/computable)** (Summer 2026) — Buy, sell, and redeem GPU hours for any week with instant liquidity
+- **[Denta](https://www.ycombinator.com/companies/denta)** (Summer 2026) — Full Stack Dental Insurance
+- **[Isengard Industries Inc](https://www.ycombinator.com/companies/isengard-industries-inc)** (Summer 2026) — Mass-produced AI strike systems and Counter-UAS
+- **[Ekho Labs](https://www.ycombinator.com/companies/ekho-labs)** (Summer 2026) — Decisions for disrupted freight
+- **[Moving Atoms](https://www.ycombinator.com/companies/moving-atoms)** (Summer 2026) — World Model Lab for Evaluating and Training Robots.
+- **[Vestris](https://www.ycombinator.com/companies/vestris)** (Summer 2026) — AI native platform for real estate closings
+- **[Ultrasonium](https://www.ycombinator.com/companies/ultrasonium)** (Summer 2026) — Manufacturing the metal parts the world runs on faster, cheaper, safer
+- **[Arbital](https://www.ycombinator.com/companies/arbital)** (Summer 2026) — The trading terminal for perps, memes, and stocks.
+- **[PokerClubHub](https://www.ycombinator.com/companies/pokerclubhub)** (Summer 2026) — Host a Poker Club and Make Money
+- **[Neuron Industries](https://www.ycombinator.com/companies/neuron-industries)** (Summer 2026) — Industrial Controllers built for AI
+- **[Neuromorphic](https://www.ycombinator.com/companies/neuromorphic)** (Summer 2026) — Building embodiment agnostic robot brains.
+- **[LATO](https://www.ycombinator.com/companies/lato)** (Summer 2026) — Agent-native research and simulation platform for investors
+- **[Risklytics](https://www.ycombinator.com/companies/risklytics)** (Summer 2026) — Insurance for the Frontier
+- **[Daqstra](https://www.ycombinator.com/companies/daqstra)** (Summer 2026) — AI-native orchestration for physical R&D testing
+- **[Tenor](https://www.ycombinator.com/companies/tenor)** (Summer 2026) — AI workers that attribute the outcome back to the token spend
+- **[Qlo](https://www.ycombinator.com/companies/qlo)** (Summer 2026) — AI that automates underwriting for commercial insurance carriers
+- **[Fabraix](https://www.ycombinator.com/companies/fabraix)** (Summer 2026) — The world's frontier hacker for AI agents.
+- **[Omanta](https://www.ycombinator.com/companies/omanta)** (Summer 2026) — A research lab for one
+- **[Rational](https://www.ycombinator.com/companies/rational)** (Summer 2026) — AI Employees for Accounting
+- **[Aktoria Robotics](https://www.ycombinator.com/companies/aktoria-robotics)** (Summer 2026) — Human as API for robots
+- **[Vendo](https://www.ycombinator.com/companies/vendo)** (Summer 2026) — Let your users build their own features on top of your product
+- **[Akon Labs](https://www.ycombinator.com/companies/akon-labs)** (Summer 2026) — Nervous System for AI Agents
+- **[Click](https://www.ycombinator.com/companies/click)** (Summer 2026) — Research services for ChatGPT and Claude
+- **[Whitespace](https://www.ycombinator.com/companies/whitespace)** (Summer 2026) — AI Operating System for Wholesale Distributors
+- **[Orvixo](https://www.ycombinator.com/companies/orvixo)** (Summer 2026) — AI advanced planning and optimisation for manufacturers.
+- **[Almanac](https://www.ycombinator.com/companies/almanac)** (Summer 2026) — The AI that knows your company
+- **[TareBio](https://www.ycombinator.com/companies/tarebio)** (Summer 2026) — Vaccines for any cancer or infection in weeks.
+- **[Greypoint Industries](https://www.ycombinator.com/companies/greypoint-industries)** (Summer 2026) — Building drone swarms that hunt drone operators
+- **[Aerogen Systems](https://www.ycombinator.com/companies/aerogen-systems)** (Summer 2026) — Building the future of advanced chip manufacturing.
+- **[Graphify Labs](https://www.ycombinator.com/companies/graphify-labs)** (Summer 2026) — On-device knowledge graph engine for enterprises
+- **[Ooak Data](https://www.ycombinator.com/companies/ooak-data)** (Summer 2026) — We turn company data into RL environnements.
+- **[Nori](https://www.ycombinator.com/companies/noril1)** (Summer 2026) — sub-$2000 humanoid robot you can teach to do anything
+- **[6thSense](https://www.ycombinator.com/companies/6thsense)** (Summer 2026) — A nervous system for physical AI
+- **[Bloomy](https://www.ycombinator.com/companies/bloomy)** (Summer 2026) — AI-powered mastery learning for K-12
+- **[machine0](https://www.ycombinator.com/companies/machine0)** (Summer 2026) — Cloud computers for AI agents
+- **[Pluto](https://www.ycombinator.com/companies/talentpluto)** (Summer 2026) — AI voice agent that helps professionals get discovered
+- **[FlowManual](https://www.ycombinator.com/companies/flowmanual)** (Summer 2026) — AI for Construction's Back Office.
+- **[Stratum Industries](https://www.ycombinator.com/companies/stratum-industries)** (Summer 2026) — Applied AI for Governments.
+- **[Peer](https://www.ycombinator.com/companies/peer)** (Summer 2026) — AI-native freight brokerage
+- **[Molagri](https://www.ycombinator.com/companies/molagri)** (Summer 2026) — Resistance free pesticides.
+- **[Cerenovus](https://www.ycombinator.com/companies/cerenovus)** (Summer 2026) — A knowledge company
+- **[Agency Tool Company](https://www.ycombinator.com/companies/agency-tool-company)** (Summer 2026) — Reliable infrastructure to build, deploy and manage real-world robots.
+- **[Standard Machines](https://www.ycombinator.com/companies/standard-machines)** (Summer 2026) — Teaching AI to Design Chips
+- **[EdotEnv](https://www.ycombinator.com/companies/edotenv)** (Summer 2026) — A Quant Neolab building toward RSI via quant trading
+- **[Traceforce](https://www.ycombinator.com/companies/traceforce)** (Summer 2026) — Securing AI native apps directly on devices
+- **[Veltha](https://www.ycombinator.com/companies/veltha)** (Summer 2026) — AI claims adjuster for regulated insurance
+- **[Tarifflo Inc.](https://www.ycombinator.com/companies/tarifflo-inc)** (Summer 2026) — Supply chain compliance and cost savings
+- **[Callbook AI](https://www.ycombinator.com/companies/callbook-ai)** (Summer 2026) — AI collections agency for late stage portfolios
+- **[Definite](https://www.ycombinator.com/companies/definite)** (Summer 2026) — Build everyday back-office agents on one live model of your books
+- **[Alkera AI](https://www.ycombinator.com/companies/alkera-ai)** (Summer 2026) — Reliable and safe data engineering and data science agents
+- **[Rasyn](https://www.ycombinator.com/companies/rasyn)** (Summer 2026) — Towards a General Intelligence for Chemistry
+- **[Manifold](https://www.ycombinator.com/companies/manifold-2)** (Summer 2026) — Low-cost, deployment-ready robotic labor for warehouses
+- **[screenpipe](https://www.ycombinator.com/companies/screenpipe)** (Summer 2026) — AI powered by everything you've seen, said or heard
+- **[Zaplar](https://www.ycombinator.com/companies/zaplar)** (Summer 2026) — Agentic Hotel Operating System
+- **[Prodigy Research](https://www.ycombinator.com/companies/prodigy-research)** (Summer 2026) — Training the world's best foundation model for quantitative finance.
+- **[Touchmark](https://www.ycombinator.com/companies/touchmark)** (Summer 2026) — Market for future inference capacity
+- **[Exosat](https://www.ycombinator.com/companies/exosat)** (Summer 2026) — Building a sovereign Starlink
+- **[Codag](https://www.ycombinator.com/companies/codag)** (Summer 2026) — Log compression for agents.
+- **[Standard Medical](https://www.ycombinator.com/companies/standard-medical)** (Summer 2026) — A primary care clinic where AI earns clinical autonomy
+- **[Context.dev](https://www.ycombinator.com/companies/contextdev)** (Summer 2026) — We give AI agents realtime web context.
+- **[Glen](https://www.ycombinator.com/companies/glen)** (Summer 2026) — Shared learning layer for agents
+- **[Stoa](https://www.ycombinator.com/companies/stoa)** (Summer 2026) — The market behind AI hardware.
+- **[Marble](https://www.ycombinator.com/companies/joinmarble)** (Summer 2026) — The autonomous back-of-house for restaurants.
+- **[Audun](https://www.ycombinator.com/companies/audun)** (Summer 2026) — AI-native debt collection
+- **[Grocalo](https://www.ycombinator.com/companies/grocalo)** (Summer 2026) — AI brain that runs content for creators
+- **[COACH](https://www.ycombinator.com/companies/ai-coach)** (Summer 2026) — The AI Coach for in person sales reps.
+- **[DeepReach Inc.](https://www.ycombinator.com/companies/deepreach-inc)** (Summer 2026) — Real-world data network for robots & world models
+- **[MOCHI.TV](https://www.ycombinator.com/companies/mochitv)** (Summer 2026) — 1 Minute Anime
+- **[Alloovium](https://www.ycombinator.com/companies/alloovium)** (Summer 2026) — Construction paperwork that finally works for your team
+- **[Dialogus](https://www.ycombinator.com/companies/dialogus)** (Summer 2026) — Infra for enterprise voice agents.
+- **[Mosaic](https://www.ycombinator.com/companies/mosaic-inc)** (Summer 2026) — Defining the frontier of multiplayer AI.
+- **[Bizmark](https://www.ycombinator.com/companies/bizmark)** (Summer 2026) — The OS for companies that make, move, or sell physical goods
+- **[Riften](https://www.ycombinator.com/companies/riften)** (Summer 2026) — Earned intelligence for every company
+- **[Buildbox](https://www.ycombinator.com/companies/buildbox)** (Summer 2026) — Understand how users experience your AI agents
+- **[RealPact](https://www.ycombinator.com/companies/realpact)** (Summer 2026) — AI-native OS for Real Estate Brokerages
+- **[GUILD](https://www.ycombinator.com/companies/guild)** (Summer 2026) — Making aerospace parts faster and cheaper for defense
+- **[Floracene](https://www.ycombinator.com/companies/floracene)** (Summer 2026) — Vibecode + deploy HIPAA-compliant internal tools, no eng team needed
+- **[Rise Reforming](https://www.ycombinator.com/companies/rise-reforming)** (Summer 2026) — We turn waste gases into valuable supply-secure chemicals 
+- **[Lyon](https://www.ycombinator.com/companies/lyon)** (Summer 2026) — Foundation models on enterprise transaction data.
+- **[Instaplay](https://www.ycombinator.com/companies/instaplay)** (Summer 2026) — AI-Native Social Platform, Starting with Games
+- **[Verdant](https://www.ycombinator.com/companies/verdant)** (Summer 2026) — AI-native land-use permit management for local gov
+- **[IMPACT Drones](https://www.ycombinator.com/companies/impact-drones)** (Summer 2026) — Air Defense as a Service for Civilian Infrastructure.
+- **[Insurf](https://www.ycombinator.com/companies/insurf)** (Summer 2026) — The AI-Native Decision Infrastructure for Health Insurance
+- **[Jcode](https://www.ycombinator.com/companies/jcode)** (Summer 2026) — 20x more coding agents, 20x more productivity
+- **[LemonLime](https://www.ycombinator.com/companies/lemonlime)** (Summer 2026) — Fully automated GTM for small business
+- **[Gutgutgoose](https://www.ycombinator.com/companies/gutgutgoose)** (Summer 2026) — Personalized probiotics, guaranteed to colonize.
+- **[Speko](https://www.ycombinator.com/companies/speko)** (Summer 2026) — A router for voice models. One key, every model.
+- **[Synapse Semiconductor](https://www.ycombinator.com/companies/synapse-semiconductor)** (Summer 2026) — Frontier semiconductor research lab reimagining compute and vision…
+- **[Understudy Labs](https://www.ycombinator.com/companies/understudy-labs)** (Summer 2026) — Effortlessly move to open weight models
+- **[Prized](https://www.ycombinator.com/companies/prized)** (Summer 2026) — Lovable for internal tools
+- **[Bernard](https://www.ycombinator.com/companies/bernard)** (Summer 2026) — AI employees that run home appliance repair companies
+- **[Maingen](https://www.ycombinator.com/companies/maingen)** (Summer 2026) — Simulating Agents Running Industrial Companies
+- **[Enact](https://www.ycombinator.com/companies/enact)** (Summer 2026) — The post-training layer for robotics.
+- **[Rex](https://www.ycombinator.com/companies/rex-inc)** (Summer 2026) — AI-native BPO for enterprise order-to-cash
+- **[Zomma](https://www.ycombinator.com/companies/zomma)** (Summer 2026) — Computer Use Agents for back offices in finance
+- **[Nebula Security](https://www.ycombinator.com/companies/nebula-security)** (Summer 2026) — Building Mythos for everyone
+- **[Kara](https://www.ycombinator.com/companies/kara)** (Summer 2026) — Making diamond an engineering material
+- **[Palisade](https://www.ycombinator.com/companies/palisade)** (Summer 2026) — AI sales agents that run your marketplace
+- **[Trope](https://www.ycombinator.com/companies/trope)** (Summer 2026) — The AI-native ERP system integrator
+- **[Parasma](https://www.ycombinator.com/companies/parasma)** (Summer 2026) — Training human brain cells for AI compute
+- **[Belvedir](https://www.ycombinator.com/companies/belvedir)** (Summer 2026) — The easiest way to make private AI models.
+- **[Shielded](https://www.ycombinator.com/companies/shielded)** (Summer 2026) — We automate supply chain and financial risk management 
+- **[Olam Labs](https://www.ycombinator.com/companies/olam-labs)** (Summer 2026) — Building multi-agent simulations for model evals and training.
+- **[Egoist Machines](https://www.ycombinator.com/companies/egoist-machines)** (Summer 2026) — User-owned memory and preferences that work across every AI app
+- **[Mass Magnetics](https://www.ycombinator.com/companies/mass-magnetics)** (Summer 2026) — USA-made magnetics for aerospace, robotics and defense. 
+- **[Perceptron ML](https://www.ycombinator.com/companies/perceptron-ml)** (Summer 2026) — We make law firms AI-native.
+- **[Erinys](https://www.ycombinator.com/companies/erinys)** (Summer 2026) — Building the first network of AI-native law firms
+- **[HERA](https://www.ycombinator.com/companies/manufacturingintelligence)** (Summer 2026) — Hera catches thousand dollar errors before they hit the shop floor.
+- **[Donkey](https://www.ycombinator.com/companies/donkey)** (Summer 2026) — The AI-native trading company: China factory-direct for US importers
+- **[OpenTrade](https://www.ycombinator.com/companies/opentrade)** (Summer 2026) — The new interface for investing.
+- **[Hoplite](https://www.ycombinator.com/companies/hoplite)** (Summer 2026) — Effortlessly deploy cloud software factories.
+- **[Pango](https://www.ycombinator.com/companies/pango)** (Summer 2026) — Agentic OS for e-commerce operations
+- **[tash](https://www.ycombinator.com/companies/tash)** (Summer 2026) — The investment platform for sports & trading cards
+- **[Torus](https://www.ycombinator.com/companies/torus)** (Summer 2026) — Legora for physical engineering firms
+- **[Kebra](https://www.ycombinator.com/companies/kebra)** (Summer 2026) — Field Service Companies that run themselves
+- **[GitCafe](https://www.ycombinator.com/companies/gitcafe)** (Summer 2026) — The Git forge for the next hundred billion commits
+- **[Rindler](https://www.ycombinator.com/companies/rindler)** (Summer 2026) — The translation layer between AI agents and the web
+- **[Proprio Robotics](https://www.ycombinator.com/companies/proprio-robotics)** (Summer 2026) — Building autonomous data centers
+- **[Amorphic Labs](https://www.ycombinator.com/companies/amorphic-labs)** (Summer 2026) — Agentic, Personalized Product Demo Videos for Sales
+- **[rekursiv.ai](https://www.ycombinator.com/companies/rekursivai)** (Summer 2026) — Scale AI scientists whose own breakthroughs accelerate the next.
+- **[Trident](https://www.ycombinator.com/companies/trident)** (Summer 2026) — Agents that find real exploitable vulnerabilities in your company 
+- **[Atlas Discovery](https://www.ycombinator.com/companies/atlas-discovery)** (Summer 2026) — Predicting human response to drugs in clinical trials
+- **[Mentlio](https://www.ycombinator.com/companies/mentlio)** (Summer 2026) — Engineering Intelligence and Token Optimization for the AI-Coding Era
+- **[Sidekick](https://www.ycombinator.com/companies/textsidekick)** (Summer 2026) — AI agent that handles frontline operations over text
+- **[WonderTx](https://www.ycombinator.com/companies/wondertx)** (Summer 2026) — Extrapolative AI to unlock First-in-Class drugs
+- **[Marker](https://www.ycombinator.com/companies/marker)** (Summer 2026) — AI-native consultancy rebuilding businesses with agents
+- **[Palette](https://www.ycombinator.com/companies/palette-2)** (Summer 2026) — An AI-Native Media Platform
+- **[Osmaura](https://www.ycombinator.com/companies/osmaura)** (Summer 2026) — AI growth engine for law firms.
+- **[Instance](https://www.ycombinator.com/companies/instance)** (Summer 2026) — Automated evals for robot policies
+- **[Illume Labs](https://www.ycombinator.com/companies/illume-labs)** (Summer 2026) — 24/7 Personal Health & Longevity Companion
+- **[Litmus](https://www.ycombinator.com/companies/litmus-hiring)** (Summer 2026) — Run an async work trial on every engineer you interview.
+- **[OpenVector](https://www.ycombinator.com/companies/openvector)** (Summer 2026) — AI that turns any camera to an autonomous worker with real-time vision
+- **[Applied Electrodynamics, Inc.](https://www.ycombinator.com/companies/applied-electrodynamics-inc)** (Summer 2026) — A new kind of camera that can see through walls.
+- **[Dipole Labs](https://www.ycombinator.com/companies/dipole-labs)** (Summer 2026) — AI-controlled optical switching for AI clusters
+- **[Poth Labs](https://www.ycombinator.com/companies/poth-labs)** (Summer 2026) — Helping companies understand why users behave the way they do
+- **[Cova](https://www.ycombinator.com/companies/cova)** (Summer 2026) — AI-Native Home Care Agency
+- **[Control Seat](https://www.ycombinator.com/companies/control-seat)** (Summer 2026) — Control and Monitoring of Industrial Operations
+- **[Tsenta](https://www.ycombinator.com/companies/tsenta)** (Summer 2026) — AI career agent that finds matching jobs and applies for you
+- **[Dream](https://www.ycombinator.com/companies/dream)** (Summer 2026) — Pocket-sized AI cameras that catch asset damage.
+- **[Atlia](https://www.ycombinator.com/companies/atlia)** (Summer 2026) — We are the AI-native property management company
+- **[Meteoric](https://www.ycombinator.com/companies/meteoric)** (Summer 2026) — Drones that clear clouds over solar farms
+- **[Ekpa](https://www.ycombinator.com/companies/ekpa)** (Summer 2026) — Building Autonomous Research Agents for Trading
+- **[Libra Robotics](https://www.ycombinator.com/companies/libra-robotics)** (Summer 2026) — Robot squads for solar farm construction
+- **[Datoric](https://www.ycombinator.com/companies/datoric)** (Summer 2026) — Security-first training data
+- **[Archal](https://www.ycombinator.com/companies/archal)** (Summer 2026) — The improvement loop for AI agents
+- **[Assemble](https://www.ycombinator.com/companies/assemble)** (Summer 2026) — Agents for Enterprise IT
+- **[Rapidfolio](https://www.ycombinator.com/companies/rapidfolio)** (Summer 2026) — AI for fintechs & banks
+- **[Prescience, Inc.](https://www.ycombinator.com/companies/prescience-inc)** (Summer 2026) — Healthcare for the age of abundant intelligence.
+- **[TrustAI](https://www.ycombinator.com/companies/trustai)** (Summer 2026) — Continuous compliance and governance for agents on sensitive systems
+- **[Waddle Labs](https://www.ycombinator.com/companies/waddle-labs)** (Summer 2026) — Agents for robotics control. 
+- **[Sunflower](https://www.ycombinator.com/companies/sunflower)** (Summer 2026) — Building the Sobriety Platform for the future of Superintelligence. 🌻
+- **[Tensr](https://www.ycombinator.com/companies/tensr)** (Summer 2026) — Fully autonomous robotic factories
+- **[Evergrove](https://www.ycombinator.com/companies/evergrove)** (Summer 2026) — Voice agents that accelerate care coordination in workers' comp
+- **[OS3](https://www.ycombinator.com/companies/os3)** (Summer 2026) — Intelligence and Machines for Physical Labor
+- **[Induction Labs](https://www.ycombinator.com/companies/induction-labs)** (Summer 2026) — Building intellectually curious AI
+- **[Async](https://www.ycombinator.com/companies/withasync)** (Summer 2026) — AI agents that run small businesses
+- **[Baud](https://www.ycombinator.com/companies/baud)** (Summer 2026) — AI chips for ultra-fast model training and inference
+- **[Red Barn Robotics](https://www.ycombinator.com/companies/red-barn-robotics)** (Winter 2025) — A Roomba for weeds on a farm. 
+- **[Mentra](https://www.ycombinator.com/companies/mentra)** (Winter 2025) — Building the open source smart glasses operating system.
+- **[BlindPay](https://www.ycombinator.com/companies/blindpay)** (Winter 2025) — Stablecoin API for global payments
+- **[Vantel](https://www.ycombinator.com/companies/vantel)** (Winter 2025) — AI Platform for Commercial Insurance Brokerages
+- **[Fira](https://www.ycombinator.com/companies/fira)** (Winter 2025) — Financial research platform for investment firms
+- **[assistant-ui](https://www.ycombinator.com/companies/assistant-ui)** (Winter 2025) — Open Source React.js Library for AI Chat
+- **[Artifact](https://www.ycombinator.com/companies/artifact-2)** (Winter 2025) — An Collaborative, AI-native IDE for Hardware Engineers
+- **[Axal](https://www.ycombinator.com/companies/axal)** (Winter 2025) — Service company that designs, sources, and quality-tests custom PCBs
+- **[Dex](https://www.ycombinator.com/companies/joindex)** (Winter 2025) — The AI Coworker in Chrome
+- **[TrainLoop](https://www.ycombinator.com/companies/trainloop)** (Winter 2025) — Reasoning Fine-Tuning
+- **[Tally](https://www.ycombinator.com/companies/tallyhq)** (Winter 2025) — —
+- **[SAMMY Labs](https://www.ycombinator.com/companies/sammy-labs)** (Winter 2025) — Computational Law
+- **[Instinct Space](https://www.ycombinator.com/companies/instinct-space)** (Winter 2025) — Building lunar landers
+- **[Mercura](https://www.ycombinator.com/companies/mercura)** (Winter 2025) — AI Quote and Order Automation for Distributors & Manufacturers
+- **[Tee Time Tommy](https://www.ycombinator.com/companies/tee-time-tommy)** (Winter 2025) — Book and manage all of your golf tee times in one place.
+- **[Cedar](https://www.ycombinator.com/companies/cedar)** (Winter 2025) — Execute the best sales playbook in industry
+- **[Browser Use](https://www.ycombinator.com/companies/browser-use)** (Winter 2025) — Leading open-source web agent project with 50k stars in 3 months
+- **[TamLabs](https://www.ycombinator.com/companies/tamlabs)** (Winter 2025) — Agent Teams for Professionals
+- **[Ergo](https://www.ycombinator.com/companies/ergo)** (Winter 2025) — AI agents and unified data layer for revenue teams
+- **[CopyCat](https://www.ycombinator.com/companies/copycat)** (Winter 2025) — AI agents built for insurance. 
+- **[Paratus Health](https://www.ycombinator.com/companies/paratus-health)** (Winter 2025) — The first healthcare GTM data platform
+- **[Butter](https://www.ycombinator.com/companies/butter)** (Winter 2025) — Embedded Sandboxes for Agents
+- **[Bluebook](https://www.ycombinator.com/companies/bluebook)** (Winter 2025) — AI for accounting
+- **[Dalus](https://www.ycombinator.com/companies/dalus)** (Winter 2025) — AI-Powered Hardware System Design Software
+- **[Roark](https://www.ycombinator.com/companies/roark)** (Winter 2025) — Test, monitor, and improve your voice agents
+- **[Rebolt](https://www.ycombinator.com/companies/rebolt)** (Winter 2025) — AI-Powered Company OS
+- **[Spott](https://www.ycombinator.com/companies/spott)** (Winter 2025) — AI-native ATS/CRM for recruiting firms
+- **[Woz](https://www.ycombinator.com/companies/woz)** (Winter 2025) — Claude Code plugin that reduces token consumption and cost by 50%
+- **[Proception Inc](https://www.ycombinator.com/companies/proception-inc)** (Winter 2025) — Making humanoids dexterous enough to thread a needle
+- **[Corsair](https://www.ycombinator.com/companies/corsair)** (Winter 2025) — Connect your users to their apps
+- **[Wildcard](https://www.ycombinator.com/companies/wildcard)** (Winter 2025) — AEO/GEO for E-Commerce and Retail
+- **[Permitify](https://www.ycombinator.com/companies/permitify)** (Winter 2025) — AI co-pilot for building plan review and building code compliance
+- **[Reditus Space](https://www.ycombinator.com/companies/reditus-space)** (Winter 2025) — Reusable Satellites
+- **[Optifye.ai](https://www.ycombinator.com/companies/optifye-ai)** (Winter 2025) — AI performance monitoring for factory workers
+- **[Pinch](https://www.ycombinator.com/companies/pinch)** (Winter 2025) — Real-time AI Voice Translation for Developers
+- **[Retrofit](https://www.ycombinator.com/companies/retrofit)** (Winter 2025) — A vintage marketplace curated by AI
+- **[Archon](https://www.ycombinator.com/companies/archon)** (Winter 2025) — We help software companies sell to government.
+- **[Forge Automation](https://www.ycombinator.com/companies/forge-automation)** (Winter 2025) — Software Enabled CNC Parts Supplier
+- **[Mastra](https://www.ycombinator.com/companies/mastra)** (Winter 2025) — The Javascript framework for building AI agents, from the Gatsby devs
+- **[AfterQuery](https://www.ycombinator.com/companies/afterquery)** (Winter 2025) — Applied research lab curating data solutions for foundation model…
+- **[Misprint](https://www.ycombinator.com/companies/misprint)** (Winter 2025) — Misprint is building Robinhood for Pokemon cards
+- **[Fuse AI](https://www.ycombinator.com/companies/fuse-ai)** (Winter 2025) — #1 AI Platform for Outbound Sales
+- **[Miyagi Labs](https://www.ycombinator.com/companies/miyagi-labs)** (Winter 2025) — AI tutors for exam prep
+- **[Artificial Societies](https://www.ycombinator.com/companies/artificial-societies)** (Winter 2025) — We build networks of AIs to simulate high-value audiences
+- **[OpenIntake](https://www.ycombinator.com/companies/openintake)** (Winter 2025) — The AI Front Door For Law Firms
+- **[Peppr AI](https://www.ycombinator.com/companies/peppr-ai)** (Winter 2025) — In-call AI teleprompter that helps reps close enterprise deals
+- **[Infinite](https://www.ycombinator.com/companies/infinite)** (Winter 2025) — Global B2B Stablecoin Processor
+- **[Sennu AI](https://www.ycombinator.com/companies/sennu-ai)** (Winter 2025) — We turn traditional companies into AI companies
+- **[Orbital Operations](https://www.ycombinator.com/companies/orbital-operations)** (Winter 2025) — High Thrust Space Vehicles for Satellite Defense
+- **[Mesh](https://www.ycombinator.com/companies/mesh-2)** (Winter 2025) — Eliminating accrual spreadsheets for faster month-end
+- **[Outlit](https://www.ycombinator.com/companies/outlit)** (Winter 2025) — Retain and Grow Every Customer
+- **[Tire Swing](https://www.ycombinator.com/companies/tire-swing)** (Winter 2025) — AI Compliance for Affordable Housing
+- **[Harper](https://www.ycombinator.com/companies/harper)** (Winter 2025) — AI-native commercial insurance brokerage
+- **[Calltree](https://www.ycombinator.com/companies/calltree)** (Winter 2025) — Enterprise-grade AI support reps for call centers
+- **[Nitrode](https://www.ycombinator.com/companies/nitrode)** (Winter 2025) — Frontier AI research to advance game development
+- **[Karsa](https://www.ycombinator.com/companies/karsa)** (Winter 2025) — Stablecoin neobank for emerging markets
+- **[Exla](https://www.ycombinator.com/companies/exla)** (Winter 2025) — Building agents that reads logs and fixes issues on your behalf.
+- **[Confident AI](https://www.ycombinator.com/companies/confident-ai)** (Winter 2025) — The LLM Eval and Observability Platform for AI Quality
+- **[Riviera](https://www.ycombinator.com/companies/riviera)** (Winter 2025) — AI Employees for Hotels
+- **[Waypoint Transit](https://www.ycombinator.com/companies/waypoint-transit)** (Winter 2025) — We automate urban planning so cities can build cheaper and faster.
+- **[Bystreet](https://www.ycombinator.com/companies/bystreet)** (Winter 2025) — Your partner for hotel ownership data. 
+- **[Agentin AI](https://www.ycombinator.com/companies/agentin-ai)** (Winter 2025) — AI Agents that automate enterprise software processes
+- **[ReJot](https://www.ycombinator.com/companies/rejot)** (Winter 2025) — We turn complex API integrations into drop‑in full‑stack libraries 
+- **[General Trajectory](https://www.ycombinator.com/companies/general-trajectory)** (Winter 2025) — AI for the physical world
+- **[Solidroad](https://www.ycombinator.com/companies/solidroad)** (Winter 2025) — AI agents for CX teams, starting with training and QA.
+- **[Trata](https://www.ycombinator.com/companies/trata)** (Winter 2025) — AI-powered research desk for hedge funds
+- **[Candor](https://www.ycombinator.com/companies/candor-security)** (Winter 2025) — Protect your data and stop insider risk
+- **[Lucidic AI](https://www.ycombinator.com/companies/lucidic-ai)** (Winter 2025) — Reimagining how Machines Learn 
+- **[Mundo AI](https://www.ycombinator.com/companies/mundo-ai)** (Winter 2025) — High Quality Multilingual Training Data for AI Models
+- **[G LNK](https://www.ycombinator.com/companies/g-lnk)** (Winter 2025) — Simplifying Collaboration for Healthcare Organizations & Professionals
+- **[Pluto](https://www.ycombinator.com/companies/pluto)** (Winter 2025) — Regulated derivatives exchange
+- **[AthenaHQ](https://www.ycombinator.com/companies/athenahq)** (Winter 2025) — Be the Answer in AI Search - AI SEO across SEO, GEO & AEO
+- **[Lopus](https://www.ycombinator.com/companies/lopus)** (Winter 2025) — Headless Data Team
+- **[Cenote](https://www.ycombinator.com/companies/cenote)** (Winter 2025) — AI agents for conversational commerce
+- **[Harbera](https://www.ycombinator.com/companies/harbera)** (Winter 2025) — AI Healthcare Provider Credentialing Software
+- **[Stillwind](https://www.ycombinator.com/companies/stillwind)** (Winter 2025) — Electrical Engineering Components Compaion
+- **[Bindwell](https://www.ycombinator.com/companies/bindwell)** (Winter 2025) — Discovering new pesticides with AI
+- **[Pickle](https://www.ycombinator.com/companies/pickle-2)** (Winter 2025) — Where your life context becomes understanding.
+- **[Lucid](https://www.ycombinator.com/companies/lucid)** (Winter 2025) — interactive video models
+- **[Macadamia](https://www.ycombinator.com/companies/macadamia)** (Winter 2025) — AI Agents for Complex Engineering Projects
+- **[Asteroid](https://www.ycombinator.com/companies/asteroid)** (Winter 2025) — The integration layer for healthcare: EHRs, payer portals & more 
+- **[Gale](https://www.ycombinator.com/companies/gale)** (Winter 2025) — Fast and Data-Driven Immigration Platform
+- **[Pave Robotics](https://www.ycombinator.com/companies/pave-robotics)** (Winter 2025) — Robots that repair roads
+- **[PAX Markets](https://www.ycombinator.com/companies/pax-markets)** (Winter 2025) — More 𝛼, less latency: exchange and HFT on one chip.
+- **[Olive](https://www.ycombinator.com/companies/olive)** (Winter 2025) — Curated stories, every day
+- **[HUD](https://www.ycombinator.com/companies/hud)** (Winter 2025) — Platform for building RL environments and evals 
+- **[finbar](https://www.ycombinator.com/companies/finbar)** (Winter 2025) — The AI investment analyst
+- **[Cuckoo Labs](https://www.ycombinator.com/companies/cuckoo-labs)** (Winter 2025) — Real-time AI translator for global sales and marketing
+- **[Mecha Health](https://www.ycombinator.com/companies/mecha-health)** (Winter 2025) — Foundation models to automate x-ray analysis for radiologists
+- **[10x](https://www.ycombinator.com/companies/10x)** (Winter 2025) — AI Sales Teams for Dental Practices
+- **[HealthKey](https://www.ycombinator.com/companies/healthkey)** (Winter 2025) — AI-powered Patient Identification for Clinical Trials
+- **[Operand](https://www.ycombinator.com/companies/operand)** (Winter 2025) — —
+- **[Osmosis](https://www.ycombinator.com/companies/osmosis)** (Winter 2025) — Reinforcement Learning (RL) for AI Agents
+- **[Swerve](https://www.ycombinator.com/companies/swerve)** (Winter 2025) — Chat with AI Characters
+- **[Mosaic](https://www.ycombinator.com/companies/mosaic-2)** (Winter 2025) — Frontier Video Agents
+- **[Cifrato](https://www.ycombinator.com/companies/cifrato)** (Winter 2025) — AI Accountant for Accounting Firms
+- **[Oki](https://www.ycombinator.com/companies/oki)** (Winter 2025) — The digital home for your personal memories
+- **[Bezel](https://www.ycombinator.com/companies/bezel)** (Winter 2025) — Digital AI humans that model clothes for e-commerce brands.
+- **[Cardamon](https://www.ycombinator.com/companies/cardamon)** (Winter 2025) — AI compliance co-pilot for regulated financial businesses
+- **[Amby Health](https://www.ycombinator.com/companies/amby-health)** (Winter 2025) — The health coach that texts you first
+- **[Trim](https://www.ycombinator.com/companies/trim)** (Winter 2025) — A foundation model for physics.
+- **[Tergle](https://www.ycombinator.com/companies/tergle)** (Winter 2025) — AI Agents for Audit
+- **[Rally](https://www.ycombinator.com/companies/rally-3)** (Winter 2025) — Financial OS for Modern Fleets
+- **[Adam](https://www.ycombinator.com/companies/adam)** (Winter 2025) — AI Powered CAD
+- **[Inversion Semiconductor](https://www.ycombinator.com/companies/inversion-semiconductor)** (Winter 2025) — Manufacturing the most powerful chips, 15x faster
+- **[careCycle](https://www.ycombinator.com/companies/carecycle)** (Winter 2025) — Voice AI teams for medicare agencies.
+- **[Paragon](https://www.ycombinator.com/companies/deployparagon)** (Winter 2025) — The AI Growth Engine for Industrials
+- **[SalesPatriot](https://www.ycombinator.com/companies/salespatriot)** (Winter 2025) — AI powered operating system for distributors and OEMs
+- **[Maive](https://www.ycombinator.com/companies/maive)** (Winter 2025) — AI for Home Services
+- **[Weave](https://www.ycombinator.com/companies/weave-3)** (Winter 2025) — AI to understand and then route engineering work
+- **[Caseflood.ai](https://www.ycombinator.com/companies/caseflood-ai)** (Winter 2025) — How elite law firms do intake
+- **[Elip AI](https://www.ycombinator.com/companies/elip-ai)** (Winter 2025) — Cooking something sweet and salty! 
+- **[Trava](https://www.ycombinator.com/companies/trava)** (Winter 2025) — AI agents for global trade compliance
+- **[Maritime Fusion](https://www.ycombinator.com/companies/maritime-fusion)** (Winter 2025) — Fusion reactors for ships
+- **[a0.dev](https://www.ycombinator.com/companies/a0-dev)** (Winter 2025) — We make mobile apps using AI.
+- **[A1Zap by A1Base](https://www.ycombinator.com/companies/a1zap-by-a1base)** (Winter 2025) — The social network layer for AI apps
+- **[Verbiflow](https://www.ycombinator.com/companies/verbiflow)** (Winter 2025) — Outbound Sequencing Infrastructure for Startups
+- **[Toothy AI](https://www.ycombinator.com/companies/toothy-ai)** (Winter 2025) — AI for insurance verification & billing at dental clinics
+- **[Rocketable](https://www.ycombinator.com/companies/rocketable)** (Winter 2025) — The AI Maximalist Software Holding Company
+- **[Contrario](https://www.ycombinator.com/companies/contrario)** (Winter 2025) — AI hiring platform powered by expert recruiters
+- **[Ovlo](https://www.ycombinator.com/companies/ovlo)** (Winter 2025) — Founder led hiring for London startups
+- **[Truffle AI](https://www.ycombinator.com/companies/truffle-ai)** (Winter 2025) — AWS for AI Agents
+- **[superglue](https://www.ycombinator.com/companies/superglue)** (Winter 2025) — connect, migrate and implement enterprise systems
+- **[Conntour](https://www.ycombinator.com/companies/conntour)** (Winter 2025) — AI to monitor thousands of security cameras.
+- **[Closure](https://www.ycombinator.com/companies/closure)** (Winter 2025) — We help law enforcement solve crime
+- **[Promptless](https://www.ycombinator.com/companies/promptless)** (Winter 2025) — An AI teammate that automatically updates your customer-facing docs
+- **[Scout](https://www.ycombinator.com/companies/scout-4)** (Winter 2025) — AI-powered student information system for K-12 schools
+- **[Subtrace](https://www.ycombinator.com/companies/subtrace)** (Winter 2025) — Zero code network tracer
+- **[Vocality Health](https://www.ycombinator.com/companies/vocality-health)** (Winter 2025) — Voice AI for medical language translation
+- **[Astro](https://www.ycombinator.com/companies/astro)** (Winter 2025) — The world’s first AI energy developer
+- **[Dartboard](https://www.ycombinator.com/companies/dartboard)** (Winter 2025) — AI-native remote operations center for hardware fleets
+- **[Karoo](https://www.ycombinator.com/companies/karoo)** (Winter 2025) — AI native consumer lending platform for underserved Americans
+- **[awen](https://www.ycombinator.com/companies/awen)** (Winter 2025) — awen translates intent into exceptional visuals through conversation
+- **[Dollyglot](https://www.ycombinator.com/companies/dollyglot)** (Winter 2025) — Character.AI with real time video avatars
+- **[Alice.tech](https://www.ycombinator.com/companies/alice-tech)** (Winter 2025) — AI-driven exam prep
+- **[Stamp](https://www.ycombinator.com/companies/stamp)** (Winter 2025) — The AI Secretary for Email and Calendar.
+- **[Splash Inc.](https://www.ycombinator.com/companies/splash-inc)** (Winter 2025) — Autonomous patrol-boats for National Security 
+- **[Bud](https://www.ycombinator.com/companies/bud)** (Winter 2025) — Agent with a computer
+- **[Axiom](https://www.ycombinator.com/companies/axiom)** (Winter 2025) — Trade memecoins, perpetuals, and earn yield.
+- **[Steinmetz](https://www.ycombinator.com/companies/steinmetz)** (Winter 2025) — Next-Generation Power Electronics
+- **[SubImage](https://www.ycombinator.com/companies/subimage)** (Winter 2025) — The Open-Core Security Graph
+- **[Hey Telo](https://www.ycombinator.com/companies/hey-telo)** (Winter 2025) — Voice AI for Home Services
+- **[Praxim](https://www.ycombinator.com/companies/praxim)** (Winter 2025) — The agentic AI Word editor
+- **[Excellence Learning](https://www.ycombinator.com/companies/excellence-learning)** (Winter 2025) — AI tutor starting with maths and science
+- **[Tweeks.io](https://www.ycombinator.com/companies/tweeksio)** (Winter 2025) — Lovable for Chrome Plugins
+- **[Flowtel](https://www.ycombinator.com/companies/flowtel)** (Winter 2025) — The AI Voice agents for hotels
+- **[Leaping AI](https://www.ycombinator.com/companies/leaping-ai)** (Winter 2025) — AI voice and texting agents
+- **[Vetnio](https://www.ycombinator.com/companies/vetnio)** (Winter 2025) — AI Copilot that automates admin work for veterinary professionals
+- **[Candor](https://www.ycombinator.com/companies/candor)** (Winter 2025) — We help companies win government funding with AI
+- **[Bild AI](https://www.ycombinator.com/companies/bild-ai)** (Winter 2025) — AI estimating & detailing for Division 8 doors, frames & hardware
+- **[Outship](https://www.ycombinator.com/companies/outship)** (Winter 2025) — Hire amazing engineers by seeing how they use AI
+- **[Revise Robotics](https://www.ycombinator.com/companies/revise-robotics)** (Winter 2025) — Automating refurbishment of $1T in consumer electronics
+- **[Enhanced Radar](https://www.ycombinator.com/companies/enhanced-radar)** (Winter 2025) — AI for air traffic control
+- **[Edexia](https://www.ycombinator.com/companies/edexia)** (Winter 2025) — AI Teacher Assistant for Grading Essays
+- **[Quantstruct](https://www.ycombinator.com/companies/quantstruct)** (Winter 2025) — AI documentation engineer – test & autoimprove stale product docs
+- **[Invo](https://www.ycombinator.com/companies/invo)** (Winter 2025) — infra for computer use agents
+- **[Onlook](https://www.ycombinator.com/companies/onlook)** (Winter 2025) — Cursor for Designers
+- **[Delineate](https://www.ycombinator.com/companies/delineate)** (Winter 2025) — Agents for Accelerated Clinical Trial Design
+- **[Exin Therapeutics](https://www.ycombinator.com/companies/exin-therapeutics)** (Winter 2025) — AI drug discovery platform for neurotherapeutics
+- **[Uncommon Therapeutics](https://www.ycombinator.com/companies/uncommon-therapeutics)** (Winter 2025) — A Disease Focused Biotech, Building Multiple Billion Dollar Drugs
+- **[YouShift](https://www.ycombinator.com/companies/youshift)** (Winter 2025) — The OS for hospital workforce management
+- **[Overstand Labs](https://www.ycombinator.com/companies/overstand-labs)** (Winter 2025) — Navigate any set of data - no matter how large - in minutes.
+- **[TensorPool](https://www.ycombinator.com/companies/tensorpool)** (Winter 2025) — Vercel For GPUs
+- **[ZeroEntropy](https://www.ycombinator.com/companies/zeroentropy)** (Winter 2025) — Artificial Specialized Intelligence
+- **[Egress Health](https://www.ycombinator.com/companies/egress-health)** (Winter 2025) — Automated revenue cycle management, starting with dentists
+- **[Altrina](https://www.ycombinator.com/companies/altrina)** (Winter 2025) — The SOP Automation Platform
+- **[Sublingual](https://www.ycombinator.com/companies/sublingual)** (Winter 2025) — Daily productivity tracker
+- **[Cardinal](https://www.ycombinator.com/companies/trycardinal-ai)** (Winter 2026) — Revenue Agents for GTM teams
+- **[Wideframe](https://www.ycombinator.com/companies/wideframe)** (Winter 2026) — AI coworker for video editors to ship more video faster
+- **[Martini](https://www.ycombinator.com/companies/martini)** (Winter 2026) — AI Video Production for Professionals
+- **[Condor Energy](https://www.ycombinator.com/companies/condor-energy)** (Winter 2026) — Software for enterprise energy procurement.
+- **[Remix](https://www.ycombinator.com/companies/remix-3)** (Winter 2026) — Social media content auto-generated with your existing data
+- **[Shofo](https://www.ycombinator.com/companies/shofo)** (Winter 2026) — The World's Largest Video Library
+- **[Wayco](https://www.ycombinator.com/companies/wayco)** (Winter 2026) — AI operator for medlegal cases
+- **[Unifold](https://www.ycombinator.com/companies/unifold)** (Winter 2026) — Multi-chain deposit and payment infrastructure
+- **[Carrot Labs](https://www.ycombinator.com/companies/carrot-labs)** (Winter 2026) — AI Cost Management: Track and attribute AI spend across every provider
+- **[Aurorin CAD](https://www.ycombinator.com/companies/aurorin-cad)** (Winter 2026) — Claude code for Mechanical Engineers
+- **[Fixture](https://www.ycombinator.com/companies/fixture)** (Winter 2026) — An AI-first CRM built for Startups
+- **[DAIVIN!](https://www.ycombinator.com/companies/daivin)** (Winter 2026) — Tankless Dive Gear - Breath Autonomy at Sea, Land & Space
+- **[Brumby (Formerly GrazeMate)](https://www.ycombinator.com/companies/brumby)** (Winter 2026) — Robot Cowboys that Herd Cattle with AI Drones
+- **[Origami Robotics](https://www.ycombinator.com/companies/origami-robotics)** (Winter 2026) — Manipulate Anything Robot
+- **[Ossus](https://www.ycombinator.com/companies/ossus)** (Winter 2026) — Intelligence for cultural institutions
+- **[Rubric AI](https://www.ycombinator.com/companies/rubric-ai)** (Winter 2026) — Reasoning and verification infra for AI
+- **[Zymbly](https://www.ycombinator.com/companies/zymbly)** (Winter 2026) — The decision-support layer for aviation ops teams to know what to do…
+- **[Ritivel](https://www.ycombinator.com/companies/ritivel)** (Winter 2026) — AI-native platform for Life-Sciences Documentation 
+- **[Polymorph](https://www.ycombinator.com/companies/polymorph)** (Winter 2026) — Building secure polymorphic apps
+- **[Khotan (formerly Pollinate)](https://www.ycombinator.com/companies/khotan)** (Winter 2026) — FDE as a platform for rebuilding critical operations in software.
+- **[SpotPay](https://www.ycombinator.com/companies/spotpay)** (Winter 2026) — Stablecoin Global Bank Account
+- **[VOYGR](https://www.ycombinator.com/companies/voygr)** (Winter 2026) — Real-world place intelligence for AI apps and agents
+- **[MochaCare](https://www.ycombinator.com/companies/mochacare)** (Winter 2026) — Agentic Management Service for Care Organizations
+- **[Vela](https://www.ycombinator.com/companies/vela)** (Winter 2026) — AI Recruiting Coordinator for Executive Search
+- **[Supafax](https://www.ycombinator.com/companies/supafax)** (Winter 2026) — AI assistant for your email and calendar
+- **[Talking Computers](https://www.ycombinator.com/companies/talking-computers)** (Winter 2026) — AI for AI Infrastructure
+- **[Copperlane](https://www.ycombinator.com/companies/copperlane)** (Winter 2026) — Agentic Mortgage Origination
+- **[Canary](https://www.ycombinator.com/companies/canary)** (Winter 2026) — The first AI QA engineer that understands your code
+- **[Grade](https://www.ycombinator.com/companies/grade)** (Winter 2026) — API for performance-based payroll
+- **[Sila](https://www.ycombinator.com/companies/sila)** (Winter 2026) — Agent-Native Messaging Platform
+- **[Maven](https://www.ycombinator.com/companies/maven)** (Winter 2026) — Payments Infrastructure for Voice Agents
+- **[Moda](https://www.ycombinator.com/companies/moda)** (Winter 2026) — The continual learning layer for AI agents.
+- **[The Token Company](https://www.ycombinator.com/companies/the-token-company)** (Winter 2026) — Compression middleware that improves LLM outputs
+- **[BeeSafe AI](https://www.ycombinator.com/companies/beesafe-ai)** (Winter 2026) — Frontier AI Defenses for Social Engineering Attacks
+- **[Fed10](https://www.ycombinator.com/companies/fed10)** (Winter 2026) — AI Agents for Government Affairs
+- **[Squid](https://www.ycombinator.com/companies/squid)** (Winter 2026) — AI agents for power grid planning  🦑 
+- **[Crow](https://www.ycombinator.com/companies/crow)** (Winter 2026) — —
+- **[Foreman](https://www.ycombinator.com/companies/foreman)** (Winter 2026) — Keeping contractors on the job site, not behind a desk.
+- **[Booko](https://www.ycombinator.com/companies/booko)** (Winter 2026) — Dynamically pricing the whole economy. 
+- **[Corelayer](https://www.ycombinator.com/companies/corelayer)** (Winter 2026) — AI production engineer for regulated industries
+- **[General Legal](https://www.ycombinator.com/companies/general-legal)** (Winter 2026) — Elite AI law firm for high growth companies
+- **[Fort](https://www.ycombinator.com/companies/fort)** (Winter 2026) — Strength Tracking Wearable
+- **[Balance](https://www.ycombinator.com/companies/getbalance)** (Winter 2026) — Full-Stack AI Accounting
+- **[Chasi](https://www.ycombinator.com/companies/chasi)** (Winter 2026) — AI Revenue Engine for the Equipment Industry 
+- **[Remy AI](https://www.ycombinator.com/companies/remy-ai)** (Winter 2026) — Automating dexterous tasks in warehouses with AI-powered robots
+- **[Anchorhead](https://www.ycombinator.com/companies/anchorhead)** (Winter 2026) — Fractional buyer for hardware companies in critical industries
+- **[o11](https://www.ycombinator.com/companies/o11)** (Winter 2026) — The AI Data Warehouse For Financial Firms
+- **[Doomersion](https://www.ycombinator.com/companies/doomersion)** (Winter 2026) — Doomscroll to learn languages
+- **[Sequence Markets](https://www.ycombinator.com/companies/sequence-markets)** (Winter 2026) — Low-latency execution across crypto, prediction, and tokenized assets
+- **[Ditto Biosciences](https://www.ycombinator.com/companies/ditto-biosciences)** (Winter 2026) — Evolutionary intelligence for autoimmune disease
+- **[Servo7](https://www.ycombinator.com/companies/servo7)** (Winter 2026) — Container unloading robots for warehouses
+- **[Voxel Energy](https://www.ycombinator.com/companies/voxel-energy)** (Winter 2026) — Energy independent data centers with solar and repurposed batteries. 
+- **[Polymath](https://www.ycombinator.com/companies/polymath)** (Winter 2026) — Simulation environments to train & evaluate long-horizon AI agents
+- **[Bubble Lab](https://www.ycombinator.com/companies/bubble-lab)** (Winter 2026) — Operating system for premium professional communities
+- **[Pocket](https://www.ycombinator.com/companies/pocket)** (Winter 2026) — Take Notes in the Real World
+- **[Byteport](https://www.ycombinator.com/companies/byteport)** (Winter 2026) — Global upload acceleration for 1GB-100TB files.
+- **[Constellation Space](https://www.ycombinator.com/companies/constellation-space)** (Winter 2026) — AI operating system for mega-scale satellite networks. 
+- **[Mendral](https://www.ycombinator.com/companies/mendral)** (Winter 2026) — AI DevOps Engineer
+- **[AxionOrbital Space](https://www.ycombinator.com/companies/axionorbital-space)** (Winter 2026) — Foundation models for 24/7 Earth Observation
+- **[Oximy](https://www.ycombinator.com/companies/oximy)** (Winter 2026) — Take command of the AI your company already runs on.
+- **[Caretta](https://www.ycombinator.com/companies/caretta)** (Winter 2026) — Realtime AI for Sales Calls
+- **[Samora AI](https://www.ycombinator.com/companies/samora-ai)** (Winter 2026) — Multilingual voice agents that outperform humans
+- **[Human Archive](https://www.ycombinator.com/companies/human-archive)** (Winter 2026) — Physical AI data lab
+- **[Forum](https://www.ycombinator.com/companies/forum)** (Winter 2026) — The first exchange to trade on attention.
+- **[Sitefire](https://www.ycombinator.com/companies/sitefire)** (Winter 2026) — Marketing suite for the agentic web
+- **[Robby](https://www.ycombinator.com/companies/robby)** (Winter 2026) — AI agents that grow revenue for home services businesses
+- **[Ressl AI](https://www.ycombinator.com/companies/ressl-ai)** (Winter 2026) — Train, eval and build autonomous agents
+- **[Emdash](https://www.ycombinator.com/companies/emdash)** (Winter 2026) — Open-source Agentic Development Environment
+- **[InventoryQuant](https://www.ycombinator.com/companies/inventoryquant)** (Winter 2026) — We automate the inventory process in insurance
+- **[Congruent](https://www.ycombinator.com/companies/congruent)** (Winter 2026) — AI native radars for self-driving cars
+- **[Reframe](https://www.ycombinator.com/companies/usereframe)** (Winter 2026) — AI-native, hardware procurement marketplace
+- **[Valence](https://www.ycombinator.com/companies/valence)** (Winter 2026) — Unified prediction markets trading platform
+- **[Approxima](https://www.ycombinator.com/companies/approxima)** (Winter 2026) — Your software should build itself.
+- **[Traverse](https://www.ycombinator.com/companies/traverse)** (Winter 2026) — Research lab solving non-verifiable work
+- **[Revion](https://www.ycombinator.com/companies/revion)** (Winter 2026) — Intelligence for Automotive Operations
+- **[Maywood](https://www.ycombinator.com/companies/maywood)** (Winter 2026) — The first finance-compliant proactive AI that runs 24/7
+- **[Fenrock AI](https://www.ycombinator.com/companies/fenrock-ai)** (Winter 2026) — AI agents for banks
+- **[End Close](https://www.ycombinator.com/companies/end-close)** (Winter 2026) — AI powered reconciliation for high-volume payments companies
+- **[Chamber](https://www.ycombinator.com/companies/chamber)** (Winter 2026) — The AIOps Agent for ML Teams
+- **[Patientdesk.ai](https://www.ycombinator.com/companies/patientdeskai)** (Winter 2026) — AI front & back office agent for dental practices 
+- **[Visibl Semiconductors](https://www.ycombinator.com/companies/visibl-semiconductors)** (Winter 2026) — A faster, lower cost path to custom silicon
+- **[Synthetic Sciences](https://www.ycombinator.com/companies/synthetic-sciences)** (Winter 2026) — Foundation Models for Scientific Research
+- **[Seeing Systems](https://www.ycombinator.com/companies/seeing-systems)** (Winter 2026) — Modular AI-Commanded Drones for Defence
+- **[Jinba](https://www.ycombinator.com/companies/jinba)** (Winter 2026) — Automate enterprise workflows through chat
+- **[Cardboard](https://www.ycombinator.com/companies/cardboard)** (Winter 2026) — Agentic video editor
+- **[Prana](https://www.ycombinator.com/companies/prana-health)** (Winter 2026) — An AI primary care doctor in your pocket
+- **[Rhizome AI](https://www.ycombinator.com/companies/rhizome-ai)** (Winter 2026) — Agent Platform for Life Sciences
+- **[Pax Historia](https://www.ycombinator.com/companies/pax-historia)** (Winter 2026) — The first AI-powered grand strategy platform
+- **[Parameter (fka Hex Security)](https://www.ycombinator.com/companies/parameter-fka-hex-security)** (Winter 2026) — Agentic Offensive Security at Scale
+- **[Laurence](https://www.ycombinator.com/companies/laurence)** (Winter 2026) — Quantitative research for autonomous e-commerce growth
+- **[Terminal Use](https://www.ycombinator.com/companies/terminal-use)** (Winter 2026) — Digital twins for data center construction
+- **[Overshoot](https://www.ycombinator.com/companies/overshoot)** (Winter 2026) — AI Infra for real-time vision applications
+- **[Cajal](https://www.ycombinator.com/companies/cajal-technologies)** (Winter 2026) — Scaling formal verification to accelerate scientific discovery
+- **[Proximitty](https://www.ycombinator.com/companies/proximitty)** (Winter 2026) — AI operating system for commercial loans
+- **[Instinct](https://www.ycombinator.com/companies/instinct-xyz)** (Winter 2026) — Trade your instinct
+- **[Stilta](https://www.ycombinator.com/companies/stilta)** (Winter 2026) — Agentic AI for intellectual property
+- **[Unisson](https://www.ycombinator.com/companies/unisson)** (Winter 2026) — AI agents that automate B2B software implementation
+- **[IncidentFox](https://www.ycombinator.com/companies/brownie)** (Winter 2026) — AI SRE agent that triages, coordinates, and fixes production incidents
+- **[Compresr](https://www.ycombinator.com/companies/compresr)** (Winter 2026) — LLM context compression for better accuracy
+- **[Opalite Health](https://www.ycombinator.com/companies/opalite-health)** (Winter 2026) — Helping Healthcare Providers Speak Any Language 
+- **[Confluence Labs](https://www.ycombinator.com/companies/confluence-labs)** (Winter 2026) — AI models that learn from experience
+- **[Mango Medical](https://www.ycombinator.com/companies/mango-medical-inc)** (Winter 2026) — Foundation models for planning orthopedic surgery
+- **[Sponge](https://www.ycombinator.com/companies/sponge)** (Winter 2026) — Financial infrastructure for the agent economy
+- **[Terranox AI](https://www.ycombinator.com/companies/terranox-ai)** (Winter 2026) — The first AI-powered uranium discovery company
+- **[Ventura](https://www.ycombinator.com/companies/ventura)** (Winter 2026) — AI Workforce for Distributors and Manufacturers
+- **[Orthogonal](https://www.ycombinator.com/companies/orthogonal)** (Winter 2026) — Agentic Payments for APIs
+- **[Perfectly](https://www.ycombinator.com/companies/perfectly)** (Winter 2026) — The AI-native Recruiting OS
+- **[Fern](https://www.ycombinator.com/companies/fern-bot)** (Winter 2026) — RL environments for robotics companies
+- **[Sparkles](https://www.ycombinator.com/companies/sparkles)** (Winter 2026) — Make everyone on your team an engineer
+- **[EigenPal](https://www.ycombinator.com/companies/eigenpal)** (Winter 2026) — AI Document Workflows for Enterprises
+- **[Salus](https://www.ycombinator.com/companies/salus)** (Winter 2026) — Guardrails to validate your agent's actions before they execute
+- **[Moritz](https://www.ycombinator.com/companies/moritz)** (Winter 2026) — Global AI-native law firm handling legal work with same-day turnaround
+- **[RamAIn](https://www.ycombinator.com/companies/ramain)** (Winter 2026) — Automate any UI task with natural language
+- **[Milliray](https://www.ycombinator.com/companies/milliray)** (Winter 2026) — Technology to detect and track small drones
+- **[Beyond Reach Labs](https://www.ycombinator.com/companies/beyond-reach-labs)** (Winter 2026) — Space solar arrays that grow to the size of a football field in orbit
+- **[OctaPulse](https://www.ycombinator.com/companies/octapulse)** (Winter 2026) — CV and robotics to automate quality inspection in fish farms
+- **[CodeWisp](https://www.ycombinator.com/companies/codewisp)** (Winter 2026) — Anyone can create real games with AI
+- **[Ashr](https://www.ycombinator.com/companies/ashr)** (Winter 2026) — Automated Multi-Modal Testing for Agents
+- **[Aemon](https://www.ycombinator.com/companies/aemon)** (Winter 2026) — The Forward-Deployed AI Research Engineer 
+- **[Luel](https://www.ycombinator.com/companies/luel)** (Winter 2026) — Turning everyday words and actions into usable training data.
+- **[Scheduling Wizard](https://www.ycombinator.com/companies/scheduling-wizard)** (Winter 2026) — Logistics infrastructure to modernize healthcare operations
+- **[RoboDock](https://www.ycombinator.com/companies/robodock)** (Winter 2026) — Robots that run autonomous depots for autonomous fleets.
+- **[Skillsync](https://www.ycombinator.com/companies/skillsync)** (Winter 2026) — Github for agent sessions
+- **[MouseCat](https://www.ycombinator.com/companies/mousecat)** (Winter 2026) — AI to fight financial crime
+- **[Zatanna](https://www.ycombinator.com/companies/zatanna)** (Winter 2026) — Turning all software into agent-first APIs
+- **[AutoSitu](https://www.ycombinator.com/companies/autositu)** (Winter 2026) — AI-native workspace for development plan reviews
+- **[Verdex](https://www.ycombinator.com/companies/verdex)** (Winter 2026) — AI Verification for Insurance
+- **[Cumulus Labs](https://www.ycombinator.com/companies/cumulus-labs)** (Winter 2026) — The Fastest Multimodal Inference OS
+- **[Tepali](https://www.ycombinator.com/companies/tepali)** (Winter 2026) — AI operating system for modern medspas
+- **[Palus Finance](https://www.ycombinator.com/companies/palus-finance)** (Winter 2026) — Your startup's financial advisor
+- **[21st](https://www.ycombinator.com/companies/21st)** (Winter 2026) — UI building blocks for the agentic internet
+- **[Avoice](https://www.ycombinator.com/companies/avoice)** (Winter 2026) — Harvey for Architecture
+- **[ZeroSettle](https://www.ycombinator.com/companies/zerosettle)** (Winter 2026) — Drop-in Direct Billing SDK for In-App Purchases
+- **[/dev/fast](https://www.ycombinator.com/companies/devfast)** (Winter 2026) — /dev/fast is the AI-native code forge
+- **[OpenSpec](https://www.ycombinator.com/companies/openspec)** (Winter 2026) — Plan mode for complex features
+- **[Piris Labs](https://www.ycombinator.com/companies/pirislabs)** (Winter 2026) — The Networking Layer of AI
+- **[CellType](https://www.ycombinator.com/companies/celltype)** (Winter 2026) — The agentic drug company. We simulate human biology.
+- **[Burt](https://www.ycombinator.com/companies/burt)** (Winter 2026) — AI teammates for logistics
+- **[Envariant](https://www.ycombinator.com/companies/envariant)** (Winter 2026) — Interpretability and reasoning infra for foundation models.
+- **[Cascade](https://www.ycombinator.com/companies/cascade)** (Winter 2026) — Distilling Proprietary Intelligence
+- **[Beacon Health](https://www.ycombinator.com/companies/beacon-health)** (Winter 2026) — AI Employees for Primary Care
+- **[Strand AI](https://www.ycombinator.com/companies/strand-ai)** (Winter 2026) — Multimodal foundation models to predict uncollected patient biology
+- **[BaseFrame](https://www.ycombinator.com/companies/baseframe)** (Winter 2026) — Detect what AI can automate for your team
+- **[Protent](https://www.ycombinator.com/companies/protent)** (Winter 2026) — Real time intelligence for law enforcement & security teams.
+- **[Cofia](https://www.ycombinator.com/companies/cofia)** (Winter 2026) — AI automations that implement themselves
+- **[LegalOS](https://www.ycombinator.com/companies/legalos)** (Winter 2026) — The AI-Native Immigration Law Firm
+- **[Sentrial](https://www.ycombinator.com/companies/sentrial)** (Winter 2026) — Datadog for Agent Reliability
+- **[10x Science](https://www.ycombinator.com/companies/10x-science)** (Winter 2026) — The AI-native platform for next-generation protein characterization.
+- **[REV1](https://www.ycombinator.com/companies/rev1)** (Winter 2026) — Claude Code for Mechanical Engineers
+- **[shortkit](https://www.ycombinator.com/companies/shortkit)** (Winter 2026) — Media infra for consumer apps
+- **[Asimov](https://www.ycombinator.com/companies/asimov)** (Winter 2026) — Real-world human movement data for humanoid robots
+- **[Lexius](https://www.ycombinator.com/companies/lexius)** (Winter 2026) — AI for Corporate Security Cameras
+- **[Axis](https://www.ycombinator.com/companies/axis-2)** (Winter 2026) — An AI Copilot for Trading Desks
+- **[Mirabelle](https://www.ycombinator.com/companies/mirabelle)** (Winter 2026) — Your robot chef
+- **[Docura Health](https://www.ycombinator.com/companies/docura-health)** (Winter 2026) — AI-Native Med-Legal Firm
+- **[Lance](https://www.ycombinator.com/companies/lance)** (Winter 2026) — AI Agents That Run Hotel Operations.
+- **[RunAnywhere](https://www.ycombinator.com/companies/runanywhere)** (Winter 2026) — The default way of running on-device AI at Scale
+- **[Lucent](https://www.ycombinator.com/companies/lucent)** (Winter 2026) — AI that automatically improves products from user behavior
+- **[Ruma Care](https://www.ycombinator.com/companies/ruma-care)** (Winter 2026) — The operations stack for biologic infusion clinics
+- **[Klaus AI](https://www.ycombinator.com/companies/klaus-ai)** (Winter 2026) — Fast and Safe OpenClaw on the cloud
+- **[Kita](https://www.ycombinator.com/companies/kita)** (Winter 2026) — Automate credit assessment for lenders in emerging markets
+- **[Syntropy](https://www.ycombinator.com/companies/syntropy)** (Winter 2026) — The agentic coding app for complex tasks.
+- **[One Robot](https://www.ycombinator.com/companies/one-robot)** (Winter 2026) — World models for robot evals and training.
+- **[Didit](https://www.ycombinator.com/companies/didit)** (Winter 2026) — Infrastructure for identity and fraud.
+- **[Panta](https://www.ycombinator.com/companies/panta)** (Winter 2026) — AI Native Commercial Insurance Brokerage 
+- **[Payna](https://www.ycombinator.com/companies/payna)** (Winter 2026) —  AI Licensing Agent for Regulated Industries
+- **[Origin](https://www.ycombinator.com/companies/origin-bio)** (Winter 2026) — AI and Data for Cancer Therapeutics
+- **[Hlabs](https://www.ycombinator.com/companies/hlabs)** (Winter 2026) — US-Made Parts for Robots
+- **[Eos AI](https://www.ycombinator.com/companies/eos-ai)** (Winter 2026) — Autonomous OS for healthcare
+- **[Valgo](https://www.ycombinator.com/companies/valgo)** (Winter 2026) — Insurance risk layer for physical AI
+- **[ARC Prize Foundation](https://www.ycombinator.com/companies/arc-prize-foundation)** (Winter 2026) — AI benchmarks that measure general intelligence and inspire new ideas
+- **[Corvera](https://www.ycombinator.com/companies/corvera)** (Winter 2026) — The context layer for AI-native CPG brands
+- **[FullSeam](https://www.ycombinator.com/companies/fullseam)** (Winter 2026) — AI agents for corporate accounting teams
+- **[CatchBack Cards](https://www.ycombinator.com/companies/catchback-cards)** (Winter 2026) — The most thrilling way to create and rip digital collectible packs
+- **[Mantis](https://www.ycombinator.com/companies/mantis)** (Winter 2026) — Digital Twins of humans
+- **[Haladir](https://www.ycombinator.com/companies/haladir)** (Winter 2026) — Operational Superintelligence for Global Logistics
+- **[ClaimGlide](https://www.ycombinator.com/companies/claimglide)** (Winter 2026) — AI automated prior-auths for private medical practices
+- **[Inviscid AI](https://www.ycombinator.com/companies/inviscid-ai)** (Winter 2026) — Real-time Physics Simulations for Industrial Facilities & Data Centers
+- **[Ndea](https://www.ycombinator.com/companies/ndea-com)** (Winter 2026) — Building AGI that can innovate.
+- **[Crosslayer Labs](https://www.ycombinator.com/companies/crosslayer-labs)** (Winter 2026) — Protect, monitor and defend your Internet presence
+- **[Voltair](https://www.ycombinator.com/companies/voltair)** (Winter 2026) — Autonomous Drones for Earth Observation
+- **[Vector Legal](https://www.ycombinator.com/companies/vector-legal)** (Winter 2026) — A premier AI-native law firm & legal operating system for Startups.
+- **[General Astronautics](https://www.ycombinator.com/companies/generalastro)** (Winter 2026) — Robotics for Space R&D
+- **[Oxus](https://www.ycombinator.com/companies/oxus)** (Winter 2026) — AI-powered automation for internal audit workflows
+- **[Captain](https://www.ycombinator.com/companies/captain)** (Winter 2026) — Accurate, high-performance retrieval for AI agents
+- **[Agentic Fabriq](https://www.ycombinator.com/companies/agentic-fabriq)** (Winter 2026) — The control plane for AI agents.
+- **[Travo](https://www.ycombinator.com/companies/travo)** (Winter 2026) — The brokerage that never sleeps
+- **[Velum Labs](https://www.ycombinator.com/companies/velum-labs)** (Winter 2026) — The OS for data quality across any stack
+- **[Alt-X](https://www.ycombinator.com/companies/alt-x)** (Winter 2026) — Building the best venue for private markets exposure.
+- **[Button Computer](https://www.ycombinator.com/companies/button-computer)** (Winter 2026) — The tiny computer built for voice AI.
+- **[Pollen](https://www.ycombinator.com/companies/pollen)** (Winter 2026) — AI agents that automate customer success
+- **[Autumn AI](https://www.ycombinator.com/companies/autumn-ai)** (Winter 2026) — Stalk your prospects at scale.
+- **[Overdrive Health](https://www.ycombinator.com/companies/overdrive-health)** (Winter 2026) — AI-Native Medical Billing Services
+- **[Signals](https://www.ycombinator.com/companies/signals)** (Winter 2026) — iMessage revenue channel for DTC brands that brings customers back
+- **[Galactic Resource Utilization Space, Inc. (GRU Space)](https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space)** (Winter 2026) — Moon Hotel -> The Intergalactic Construction Company of Earth
+- **[Bidflow](https://www.ycombinator.com/companies/bidflow)** (Winter 2026) — AI Takeoffs for Electrical
+- **[Menza](https://www.ycombinator.com/companies/menza)** (Winter 2026) — The AI data analyst for consumer brands
+- **[Q2Q](https://www.ycombinator.com/companies/q2q)** (Winter 2026) — We help private equity teams find acquisition targets faster
+- **[Kyten Technologies](https://www.ycombinator.com/companies/kyten-technologies)** (Winter 2026) — Custom Aerospace-Grade Battery Packs
+
+## 146 new roles
+- **Pocket** (8)  🔥
+    - [Research Engineer - Voice Intelligence](https://www.workatastartup.com/jobs/97381) — San Francisco, CA, US · $200k–$300k
+    - [Backend Engineer](https://www.workatastartup.com/jobs/97379) — San Francisco, CA, US / Remote · $110k–$160k
+    - [Senior Product Designer, AI Hardware & User Interface](https://www.workatastartup.com/jobs/97384) — San Francisco, CA, US · $165k–$200k
+    - [Product Designer, AI Hardware & User Interface](https://www.workatastartup.com/jobs/97382) — San Francisco, CA, US · $130k–$165k
+    - [Founder's Associate](https://www.workatastartup.com/jobs/96704) — San Francisco, CA, US · $60k–$80k
+    - [Performance Creative Director](https://www.workatastartup.com/jobs/97377) — San Francisco, CA, US / Remote · $80k–$140k
+    - [Performance Marketing Manager](https://www.workatastartup.com/jobs/95910) — San Francisco, CA, US / Remote (US) · $84k–$144k
+    - [Finance & Operations Associate](https://www.workatastartup.com/jobs/96878) — San Francisco, CA, US / Remote (US) · $70k–$90k
+- **Moritz** (6)  🔥
+    - [Founding Design Engineer](https://www.workatastartup.com/jobs/103370) — San Francisco, CA, US / New York, NY, US · $120k–$180k
+    - [Open Role](https://www.workatastartup.com/jobs/93068) — San Francisco, CA, US / New York, NY, US / Oslo, Oslo, NO / Remote (Stockholm, Stockholm County, SE) · $70k–$180k
+    - [Founding Account Executive](https://www.workatastartup.com/jobs/103338) — New York, NY, US / San Francisco, CA, US / Remote · $90k–$110k
+    - [Founding BDR](https://www.workatastartup.com/jobs/93446) — San Francisco, CA, US · $100k–$120k
+    - [General Counsel](https://www.workatastartup.com/jobs/103219) — San Francisco, CA, US / New York, NY, US / Remote (New York, NY, US) · $180k–$250k
+    - [Founding Commercial Attorney](https://www.workatastartup.com/jobs/101258) — San Francisco, CA, US · $180k–$250k
+- **Ooak Data** (5)  🔥
+    - [Senior Software Engineer ](https://www.workatastartup.com/jobs/99220) — Paris, IDF, FR / Paris, Île-de-France, FR
+    - [Senior Software Engineer (Contractor)](https://www.workatastartup.com/jobs/103725) — San Francisco, CA, US / Remote (US) · $10k–$15k
+    - [ML engineer](https://www.workatastartup.com/jobs/96721) — Paris, IDF, FR / Paris, Île-de-France, FR
+    - [Founding GTM - FR (native english speaker)](https://www.workatastartup.com/jobs/99222) — Paris, IDF, FR / Paris, Île-de-France, FR
+    - [Founding Marketing Lead ](https://www.workatastartup.com/jobs/99325) — Paris, IDF, FR / Paris, Île-de-France, FR
+- **Fort** (5)  🔥
+    - [Software Engineering Intern, Fall 2026](https://www.workatastartup.com/jobs/101759) — San Francisco, CA, US · $6k–$10k
+    - [Founding Designer](https://www.workatastartup.com/jobs/94629) — San Francisco, CA, US / New York, NY, US · $150k–$260k
+    - [Clinical Operations Lead, Health & Performance Data](https://www.workatastartup.com/jobs/102950) — San Francisco, CA, US · $72k–$125k
+    - [Clinical Operations Intern](https://www.workatastartup.com/jobs/102941) — San Francisco, CA, US
+    - [Social Content Intern](https://www.workatastartup.com/jobs/94624) — San Francisco, CA, US / Remote (New York, NY, US) · $3k–$8k
+- **DeepAware AI (Robotics Center of Silicon Valley)** (5)  🔥
+    - [Operations Associate](https://www.workatastartup.com/jobs/99767) — San Francisco, CA, US · $50k–$100k
+    - [Operations Intern](https://www.workatastartup.com/jobs/100906) — San Francisco, CA, US
+    - [Business Development Associate ](https://www.workatastartup.com/jobs/79914) — San Francisco, CA, US · $50k–$100k
+    - [Business Development Intern](https://www.workatastartup.com/jobs/100904) — San Francisco, CA, US
+    - [Marketing Intern](https://www.workatastartup.com/jobs/102117) — San Francisco, CA, US
+- **CharacterQuilt** (4)  🔥
+    - [Member of Technical Staff, Agent Infrastructure and Reliability](https://www.workatastartup.com/jobs/100468) — New York, NY, US · $250k–$350k
+    - [Go-to-Market Engineer](https://www.workatastartup.com/jobs/100472) — New York, NY, US · $150k–$200k
+    - [Founding Account Executive (NYC)](https://www.workatastartup.com/jobs/101291) — New York, NY, US · $180k–$250k
+    - [Founding Account Executive (Bay Area)](https://www.workatastartup.com/jobs/101292) — San Francisco, CA, US / San Jose, CA, US / Oakland, CA, US / Remote (San Francisco, CA, US; San Jose, CA, US; Oakland, CA, US) · $180k–$250k
+- **Lance** (4)  🔥
+    - [Design Engineer](https://www.workatastartup.com/jobs/103734) — San Francisco, CA, US · $120k–$200k
+    - [Product Marketing Manager](https://www.workatastartup.com/jobs/94304) — San Francisco, CA, US
+    - [Product Manager](https://www.workatastartup.com/jobs/94302) — San Francisco, CA, US · $200k–$260k
+    - [GTM & Content Marketing Intern](https://www.workatastartup.com/jobs/103096) — San Francisco, CA, US · $5k–$8k
+- **Intelligence Factory** (3)  🔥
+    - [Data Engineer (India)](https://www.workatastartup.com/jobs/100368) — Pune, Maharashtra, IN
+    - [Hardware Engineer (India)](https://www.workatastartup.com/jobs/100369) — Pune, Maharashtra, IN
+    - [Head of Operations (India)](https://www.workatastartup.com/jobs/100499) — Pune, Maharashtra, IN
+- **Vela** (3)  🔥
+    - [Founding Engineer @ Vela | Solving Scheduling](https://www.workatastartup.com/jobs/94537) — San Francisco, CA, US · $110k–$300k
+    - [Member of Technical Staff @ Vela](https://www.workatastartup.com/jobs/100909) — San Francisco, CA, US · $120k–$300k
+    - [AI Operations Associate](https://www.workatastartup.com/jobs/94929) — IN / Pune, MH, IN / Pune, Maharashtra, IN / Bengaluru, KA, IN / Bengaluru, Karnataka, IN / DL, IN / Delhi, IN / Chennai, TN, IN / Chennai, Tamil Nadu, IN / Remote (IN; Pune, MH, IN; Pune, Maharashtra, IN; Bengaluru, KA, IN; Bengaluru, Karnataka, IN; DL, IN; Delhi, IN; Chennai, TN, IN; Chennai, Tamil Nadu, IN)
+- **Cardboard** (3)  🔥
+    - [Founding Design Engineer](https://www.workatastartup.com/jobs/95573) — Bengaluru, KA, IN / Bengaluru, Karnataka, IN
+    - [Founding Designer](https://www.workatastartup.com/jobs/95574) — Bengaluru, KA, IN / Bengaluru, Karnataka, IN
+    - [Founding Storyteller](https://www.workatastartup.com/jobs/94780) — Bengaluru, KA, IN / Bengaluru, Karnataka, IN
+- **Autonomous Technologies Group** (3)  🔥
+    - [Product Designer](https://www.workatastartup.com/jobs/90037) — New York City · $115k–$125k
+    - [Member of Technical Staff (Backend)](https://www.workatastartup.com/jobs/78682) — New York City · $180k–$260k
+    - [Client Director](https://www.workatastartup.com/jobs/104230) — San Francisco / New York City / Remote (US) · $200k–$300k
+- **Relling** (3)  🔥
+    - [Business Operations Intern](https://www.workatastartup.com/jobs/97830) — San Francisco, CA, US
+    - [Partnerships Lead, Specialty Manufacturing](https://www.workatastartup.com/jobs/95371) — San Francisco, CA, US · $120k–$170k
+    - [Growth and Content Lead Intern](https://www.workatastartup.com/jobs/100284) — San Francisco, CA, US
+- **Uplane** (3)  🔥
+    - [Business Development Intern](https://www.workatastartup.com/jobs/97366) — San Francisco, CA, US / Berlin, BE, DE / Berlin, Berlin, DE / Remote (US; DE)
+    - [AI Marketing Strategist Intern - Berlin (German Speaking)](https://www.workatastartup.com/jobs/94434) — Berlin, Berlin, DE
+    - [AI Marketing Strategist - San Francisco](https://www.workatastartup.com/jobs/91103) — San Francisco, CA, US · $100k–$130k
+- **Casco** (3)  🔥
+    - [Technical Account Executive](https://www.workatastartup.com/jobs/95762) — San Francisco, CA, US
+    - [Sales Development Representative](https://www.workatastartup.com/jobs/104828) — San Francisco, CA, US
+    - [Growth Engineer](https://www.workatastartup.com/jobs/95044) — San Francisco, CA, US
+- **Mosaic** (3)  🔥
+    - [Founding GTM](https://www.workatastartup.com/jobs/101061) — San Francisco, CA, US · $150k–$200k
+    - [Growth Intern](https://www.workatastartup.com/jobs/74610) — San Francisco, CA, US · $5k–$10k
+    - [Storyteller](https://www.workatastartup.com/jobs/101060) — San Francisco, CA, US · $100k–$150k
+- **Corgi Insurance** (3)  🔥
+    - [Corporate Attorney](https://www.workatastartup.com/jobs/103337) — San Francisco, CA, US / New York, NY, US / Atlanta, GA, US · $180k–$215k
+    - [Financial Operations Associate](https://www.workatastartup.com/jobs/98799) — London, England, GB
+    - [Quantitative Associate](https://www.workatastartup.com/jobs/95810) — London, England, GB / Chicago, IL, US
+- **Locke** (2)
+    - [Founding Member of Technical Staff](https://www.workatastartup.com/jobs/98294) — San Francisco, CA, US · $100k–$200k
+    - [Founding Member of Policy Staff](https://www.workatastartup.com/jobs/98293) — San Francisco, CA, US / Washington, DC, US · $72k–$200k
+- **VOYGR** (2)
+    - [Founding Product Engineer](https://www.workatastartup.com/jobs/93490) — San Francisco, CA, US · $150k–$200k
+    - [Founding SDR / Account executive – VOYGR (US, Remote) | YC W26](https://www.workatastartup.com/jobs/95712) — New York, NY, US / San Francisco, CA, US / Remote (US) · $60k–$100k
+- **Seeing Systems** (2)
+    - [Electrical Engineering Intern](https://www.workatastartup.com/jobs/94262) — London, England, GB
+    - [Software Engineering Intern](https://www.workatastartup.com/jobs/94623) — London, England, GB / Christchurch, England, GB
+- **Emergent** (2)
+    - [Product Designer](https://www.workatastartup.com/jobs/92626) — San Francisco · $100k–$250k
+    - [Marketing Communications Designer](https://www.workatastartup.com/jobs/95824) — Bangalore
+- **Wordware** (2)
+    - [Designer (Brand and Marketing)](https://www.workatastartup.com/jobs/100383) — San Francisco · $140k–$220k
+    - [Product Designer](https://www.workatastartup.com/jobs/100384) — San Francisco · $140k–$220k
+- **Domu Technology Inc.** (2)
+    - [UI/UX Product Designer](https://www.workatastartup.com/jobs/95458) — San Francisco, CA, US · $120k–$160k
+    - [Technical Account Manager - Brazil ](https://www.workatastartup.com/jobs/86933) — SP, BR / State of São Paulo, BR / Remote (SP, BR; State of São Paulo, BR) · $30k–$45k
+- **HUD** (2)
+    - [Recruiter](https://www.workatastartup.com/jobs/93544) — San Francisco · $70k–$120k
+    - [Marketing & Events Lead ](https://www.workatastartup.com/jobs/93545) — San Francisco · $40k–$70k
+- **Ultra** (2)
+    - [Head of People](https://www.workatastartup.com/jobs/102739) — New York, United States
+    - [Founding Product Manager](https://www.workatastartup.com/jobs/102738) — New York, United States
+- **Terranox AI** (2)
+    - [Summer Intern - Applied Science MSc/PhD](https://www.workatastartup.com/jobs/94643) — San Francisco, CA, US · $8k–$16k
+    - [Senior Exploration Geologist](https://www.workatastartup.com/jobs/94134) — Saskatchewan, CA / SK, CA / Remote (SK, CA; Saskatchewan, CA) · $115k–$185k
+- **Dedalus Labs** (2)
+    - [Product Manager Summer 2027 Intern](https://www.workatastartup.com/jobs/98000) — San Francisco, CA, US · $4k–$8k
+    - [Growth Summer 2027 Intern](https://www.workatastartup.com/jobs/98002) — San Francisco, CA, US · $4k–$8k
+- **Soren** (2)
+    - [Founding Growth Engineer](https://www.workatastartup.com/jobs/101998) — San Francisco, CA, US · $100k–$250k
+    - [Growth Intern](https://www.workatastartup.com/jobs/102000) — San Francisco, CA, US · $6k–$11k
+- **Nox Metals** (2)
+    - [Plant Manager](https://www.workatastartup.com/jobs/100279) — Detroit, MI, US · $110k–$135k
+    - [Founding GTM Lead](https://www.workatastartup.com/jobs/92393) — Detroit · $75k–$175k
+- **Interfere** (2)
+    - [Opportunistic](https://www.workatastartup.com/jobs/101756) — New York City
+    - [Strategy & Ops](https://www.workatastartup.com/jobs/101757) — New York City · $110k–$150k
+- **GhostEye** (2)
+    - [Chief of Staff](https://www.workatastartup.com/jobs/102050) — New York, NY, US · $120k–$160k
+    - [Head of Marketing](https://www.workatastartup.com/jobs/103965) — New York, NY, US · $170k–$210k
+- **Prox** (2)
+    - [Videographer & Creative Producer](https://www.workatastartup.com/jobs/98423) — San Francisco, CA · $90k–$130k
+    - [Executive Assistant & Operations](https://www.workatastartup.com/jobs/98422) — San Francisco, CA · $100k–$120k
+- **Lucis** (2)
+    - [Brand & content manager](https://www.workatastartup.com/jobs/92045) — Paris, France
+    - [Founders associate](https://www.workatastartup.com/jobs/92040) — Paris, France
+- **Comena** (2)
+    - [Founding GTM Associate](https://www.workatastartup.com/jobs/92119) — Munich, BY, DE / Munich, Bavaria, DE
+    - [GTM Associate Intern](https://www.workatastartup.com/jobs/92120) — Munich, BY, DE / Munich, Bavaria, DE
+- **Naïve** (2)
+    - [Growth Engineer](https://www.workatastartup.com/jobs/94573) — San Francisco, CA, US / Remote · $75k–$125k
+    - [Growth Engineer Intern](https://www.workatastartup.com/jobs/94648) — San Francisco, CA, US / Remote (US)
+- **telli** (2)
+    - [Founding Marketing Manager](https://www.workatastartup.com/jobs/104930) — Berlin
+    - [Founding Marketing Manager](https://www.workatastartup.com/jobs/104935) — Berlin
+- **Third Chair** (2)
+    - [IP Enforcement Counsel (Copyright)](https://www.workatastartup.com/jobs/81442) — US / Remote (US) · $100k–$400k
+    - [IP Enforcement Counsel (Copyright), Worldwide](https://www.workatastartup.com/jobs/95572) — Remote · $10k–$250k
+- **Vector Legal** (2)
+    - [Senior Commercial Counsel](https://www.workatastartup.com/jobs/100902) — San Francisco, CA, US / CO, US · $150k–$230k
+    - [Senior Corporate Counsel](https://www.workatastartup.com/jobs/95803) — San Francisco, CA, US · $190k–$500k
+- **AgentPhone** (1)
+    - [Founding Engineer](https://www.workatastartup.com/jobs/98603) — New York, NY, US / San Francisco, CA, US · $140k–$250k
+- **Soria** (1)
+    - [Founding Engineer](https://www.workatastartup.com/jobs/102958) — New York, NY, US · $150k–$175k
+- **Minicor** (1)
+    - [Software Engineer](https://www.workatastartup.com/jobs/94138) — San Francisco, CA, US · $175k–$250k
+- **Lab0** (1)
+    - [Founding Engineer](https://www.workatastartup.com/jobs/102876) — Bengaluru, Karnataka, IN · $40k–$120k
+- **Superset** (1)
+    - [Founding Engineer](https://www.workatastartup.com/jobs/91489) — San Francisco, CA, US · $175k–$225k
+- **Robby** (1)
+    - [Founding Engineer](https://www.workatastartup.com/jobs/102611) — New York, NY, US · $150k–$250k
+- **Rhizome AI** (1)
+    - [Founding Full Stack AI Engineer ](https://www.workatastartup.com/jobs/95289) — BR / CO / AR / MX / PE / CL / CR / UY / Remote (BR; CO; AR; MX; PE; CL; CR; UY) · $60k–$120k
+- **Uplift AI** (1)
+    - [Founding Design Engineer](https://www.workatastartup.com/jobs/103104) — Mountain View, CA, US / Remote · $80k–$180k
+- **Trata** (1)
+    - [Founding Product Designer OR Design Engineer](https://www.workatastartup.com/jobs/83902) — New York, NY, US · $125k–$200k
+- **Conductor** (1)
+    - [Product Designer](https://www.workatastartup.com/jobs/90485) — San Francisco, CA, US · $175k–$300k
+- **Usul** (1)
+    - [Product Designer](https://www.workatastartup.com/jobs/101660) — San Francisco, CA, US · $140k–$175k
+- **Elayne** (1)
+    - [Brand & Marketing Designer](https://www.workatastartup.com/jobs/96144) — New York, NY, US · $75k–$110k
+- **Phonely** (1)
+    - [Recruiter](https://www.workatastartup.com/jobs/102291) — San Francisco, CA, US · $70k–$80k
+- **CTGT** (1)
+    - [Research Intern: Interpretability & Reliability (Summer 2027)](https://www.workatastartup.com/jobs/97530) — San Francisco, CA, US · $8k–$12k
+- **Blank Bio** (1)
+    - [Computational Biologist ](https://www.workatastartup.com/jobs/95054) — San Francisco, CA, US · $125k–$200k
+- **Novaflow** (1)
+    - [Computational Biology Intern - Summer 2026](https://www.workatastartup.com/jobs/92550) — San Francisco, CA, US / Remote (US)
+- **Parasma** (1)
+    - [Founding Scientist](https://www.workatastartup.com/jobs/98189) — San Francisco, CA, US / Remote
+- **Exonic** (1)
+    - [Founding Scientist (Synthetic Genomics)](https://www.workatastartup.com/jobs/95156) — San Francisco, CA, US · $120k–$180k
+- **Maritime Fusion** (1)
+    - [Member of Technical Staff - Plasma Physics](https://www.workatastartup.com/jobs/75505) — San Francisco, CA, US · $120k–$200k
+- **Closure** (1)
+    - [Founding Deployment Strategist](https://www.workatastartup.com/jobs/96050) — New York, NY, US / San Francisco, CA, US
+- **Splash Inc.** (1)
+    - [General Application](https://www.workatastartup.com/jobs/100699) — El Segundo, CA, US · $60k–$120k
+- **David AI** (1)
+    - [Technical Product Manager](https://www.workatastartup.com/jobs/104625) — San Francisco / New York City · $145k–$225k
+- **Conveo** (1)
+    - [Staff Product Designer](https://www.workatastartup.com/jobs/90953) — London / Antwerp
+- **Kastle** (1)
+    - [Agent Success Manager](https://www.workatastartup.com/jobs/89546) — San Francisco, CA, US · $140k–$180k
+- **DiligenceSquared** (1)
+    - [Business Lead](https://www.workatastartup.com/jobs/92333) — New York City · $160k–$200k
+- **Parametric** (1)
+    - [Robot Data Operator](https://www.workatastartup.com/jobs/86938) — San Francisco, CA, US
+- **MorphoAI** (1)
+    - [Chief of Staff](https://www.workatastartup.com/jobs/97107) — London, England, GB
+- **Callab AI** (1)
+    - [Head of SDR](https://www.workatastartup.com/jobs/102286) — Remote · $40k–$80k
+- **Ventura** (1)
+    - [Founding GTM](https://www.workatastartup.com/jobs/103442) — San Francisco, CA, US · $100k–$170k
+- **ProcIndex** (1)
+    - [Founding Sales Development Representative](https://www.workatastartup.com/jobs/92977) — San Francisco, CA, US · $80k–$180k
+- **Adaptional** (1)
+    - [Founding GTM Lead](https://www.workatastartup.com/jobs/99740) — San Francisco, CA, US · $140k–$185k
+- **Dalus** (1)
+    - [GTM Intern ](https://www.workatastartup.com/jobs/99648) — Munich, BY, DE / Munich, Bavaria, DE / San Francisco, CA, US / Melbourne, VIC, AU / Melbourne, Victoria, AU / Remote
+- **Pluto** (1)
+    - [Head of GTM](https://www.workatastartup.com/jobs/97134) — New York, NY, US · $150k–$200k
+- **SalesPatriot** (1)
+    - [Field Business Development Representative](https://www.workatastartup.com/jobs/101687) — Hybrid
+- **Gutgutgoose** (1)
+    - [Growth (founding team) — GutGutGoose · San Francisco, in person](https://www.workatastartup.com/jobs/105105) — San Francisco, CA, US
+- **Claim Health** (1)
+    - [Content Marketing Intern](https://www.workatastartup.com/jobs/94958) — New York City
+- **Weave** (1)
+    - [Founding Marketer](https://www.workatastartup.com/jobs/94021) — San Francisco, CA, US · $100k–$160k
+- **Contrario** (1)
+    - [Founding GTM](https://www.workatastartup.com/jobs/95669) — San Francisco, CA, US · $100k–$140k
+- **Freebuff** (1)
+    - [Marketing Intern/Contractor](https://www.workatastartup.com/jobs/100107) — Remote (US)
+- **Klaimee** (1)
+    - [General Counsel & Head of Insurance](https://www.workatastartup.com/jobs/103073) — San Francisco, CA, US / Remote (US)
+
+## 290 new founders indexed
+- Towaki Takikawa — [in](https://linkedin.com/in/tovacinni)
+- Phillip Huang — [in](https://linkedin.com/in/philliphuang)
+- Charlie Holtz — [in](https://www.linkedin.com/in/charlieholtz)
+- Jackson de Campos — [in](https://www.linkedin.com/in/jacksondecampos)
+- Ayush Jain — [in](https://www.linkedin.com/in/ayushaadijain)
+- Aniketh Kolla — [in](https://www.linkedin.com/in/anikethkolla)
+- Victor Laguna — [in](https://www.linkedin.com/in/vlaguna)
+- John Robison — [in](https://www.linkedin.com/in/john-robison-b891a7303)
+- Shaashwat Sharma — [in](https://www.linkedin.com/in/shaashwat-sharma-b0a516195)
+- Vrishank Saini — [in](https://www.linkedin.com/in/vrishanksaini)
+- Tiko Bdoyan — [in](https://www.linkedin.com/in/tigran-bdoyan)
+- Sneha Kumari — [in](https://linkedin.com/in/snehakumari)
+- Ayantika Dey — [in](https://www.linkedin.com/in/ayantika-dey-b8155b76)
+- Kumar Siddhartha — [in](https://linkedin.com/in/kumar-siddhartha-44847516)
+- Bۙۚۨ۫ۙۚۨ۫ۙۚۨ۫ۙۚۨ۫enjamin Sweۖۖۖۖۘۘۘۘۖۖۖۖۘۘۘۘۖۖۖۖrdlow — [in](https://www.linkedin.com/in/benswerdlow)
+- Jacob Zwang — [in](https://www.linkedin.com/in/jacobzwang)
+- Rhim Shah — [in](https://linkedin.com/in/rhim-shah)
+- Oli Wales — [in](https://linkedin.com/in/oliverfwales)
+- John Ta — [in](https://www.linkedin.com/in/johnta2000)
+- Vivek Olumbe — [in](https://www.linkedin.com/in/vivek-olumbe)
+- Wayne Crosby — [in](https://www.linkedin.com/in/wcrosby)
+- Rohan Sood — [in](https://linkedin.com/in/rohansood3107)
+- Roger Cawdette — [in](https://linkedin.com/in/rogercawdette)
+- Turja Chowdhury — [in](https://linkedin.com/in/tchowd)
+- Achyuta Iyengar — [in](https://www.linkedin.com/in/achyuta-iyengar)
+- Bharadwaj Swaminathan — [in](https://www.linkedin.com/in/bharadwajswaminathan)
+- Will Tong — [in](https://www.linkedin.com/in/will-tong-04046a162)
+- Stefan Raghavan — [in](https://www.linkedin.com/in/stefan-raghavan-957204a1)
+- Jonathan Baer — [in](https://www.linkedin.com/in/jonathan-baer-profile)
+- Casey Traina — [in](https://linkedin.com/in/caseytraina)
+- Shaun Modi — [in](https://www.linkedin.com/in/shaunmodi)
+- thomas hallaran — [in](https://www.linkedin.com/in/tomhallaran)
+- Andrew Pareles — [in](https://linkedin.com/in/andrew-pareles)
+- Mathew Pareles — [in](https://linkedin.com/in/mathew-pareles)
+- Amay Aggarwal — [in](https://www.linkedin.com/in/amayaggarwal)
+- Ray Iyer — no socials listed
+- Everett Ivy — [in](https://linkedin.com/in/everett-ivy-b686b0248)
+- Nithin Sonti — [in](https://www.linkedin.com/in/nithinsonti)
+- Nikhil Sonti — [in](https://www.linkedin.com/in/nikhilvenkatsonti)
+- Sammy Greenwall — [in](https://www.linkedin.com/in/sammy-greenwall-387b3256)
+
+## 121 funding mentions (unverified — headline match only)
+- **Conductor**: [Conductor Revenue 2023: $130.6M ARR, $525M Valuation - GetLatka](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yTkxEYWJSS1oxR3lKUVRCeFI5Um1wZ1l6NjRlWTVHcVdiU0dGSWNFYTdXSk9vVF85WmE3cEJhMDFqTjRKN3JNbXVzNzhXbVZjOUE?oc=5) (GetLatka)
+- **Conductor**: [TS Conductor raises $60 million from industry-leading investors to expand US production of high-capacity power lines - PRWeb](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbFZUbkU4NmV1X0o3S1hscVRRbmZRQ3FfOXNyRTlzMktNZUQyYVRvLWZ0dFBMTTl0VHl4eWpJOC1aMzRBM1VRN2o5RE5SYktLdG1rQUJsRGEtb2FvQ2Y0SWFiZFlTMlFqRk5CZVJRM0t6TDQ5SFR6WVBqTGFXbEt6akYyS09uU0xOaXVVcEVBSDk4d1JMZGszYV9QUjgxd0RGNWpDTk95Q05vRkZZYjZIdHlLNVl0TUEwM21lNDRfQ09IMnJjWEppTGZCdjUzMno5aDR6VVlqODMyVklfZWU1cWV6S2ZFeFNja0JwREg4d1I3aFU?oc=5) (PRWeb)
+- **Conductor**: [AI Startup Conductor AI Raises $15 Million to Cut Government Red Tape - Business Insider](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWJ6N1FBUnRwNmRFSWJTNjhQZWNObURyZmVucTlOLS1wcnZkandhNExfRDdGcTVyZDJONEJDdFZJeGZKbzY1NEpGSTZ0dkhWLTlBd0lyWVJmXy1iN2dpVDNrYlpnZUZJeXZsU3JIQUVDYXZCeFdrRzE0SHV4X1dyNW94a25aOF9xMnROUUFKeWJmRjQ?oc=5) (Business Insider)
+- **Conductor**: [Conductor Raises US$150M in Funding - FinSMEs](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uZGdKYm12bTRFdlhsNnFRT2gySTdlTEl1WExrdkkyaERmTkNEV2dVUUd5TW1TcklxVWpSdkRBTG9jX2FKb3c5b3JieFhGTlFpaXg5VzVqclcyTUtoOWJlNzBjdXByVUVmU0I0TFJLY1VTZFJOQVNWSWtxSQ?oc=5) (FinSMEs)
+- **SimCare**: [SimCare AI: $2 Million (Seed) Raised For Scaling Clinical Training - Pulse 2.0](https://news.google.com/rss/articles/CBMiigFBVV95cUxNUU1Za3J6czVrRmhKN3J1MnAtVVV0Y29fMF95ZjRhd1JNN2RtUmpwWWg2X2lSWi05OHUzWEVKXzFYZ2xLSDZ3YlhhVV84dTk0U1pwb1lqbUkycnRJSG5JVUJZUVFyWFM3Y2dYTDY1cUZJWlhNQWYwUnVzdldoc3R3RFF4MjV4TS16WXfSAY8BQVVfeXFMUDczQ29zX0x2ZUNFNUUtM01oTXRMZWRXWFQzRVpYT2FteEx6UlZkZzNrbzU2SDB1SlVENGZrNnhrZW5maTU0ZENMeG1yMWNHUDFMS0pKdGtTUTJ0dlctWnkyQ2RJUnpIbktiTnNZUW4wTTRtZVktUjNtQ0ZudFk1a0pHXy05THVxRlhOendXNEk?oc=5) (Pulse 2.0)
+- **SimCare**: [SimCare AI Raises $2M to Scale AI-Driven Medical Training | EdTech News - EdTech Innovation Hub](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjMta2FXN1FIZ2Y0TlJYSDZMejU2cWVoNktZX1dQTTRKeUhVLVJONERPN0JYdEVBRjBPWFJmajRTVS1KRDhyUlhjRHU1YU04UW9rdTFyY0NfS1Z1d2JzYVFGY0YtbjJsUmJFRUFUTUZWcHc5eTgybWYxWl9vQ083eG15a2xvckk2TXNsaXNMckJaR0UtOEhmVGRvdTI1bnRvZjZQNmFZUVZFVFMxeTVSM21GVnczOTc1ZW1rWkhJcU4?oc=5) (EdTech Innovation Hub)
+- **Merlin AI**: [MoEngage secures US$180 million in Series F funding to drive Merlin AI innovation, global growth - mi-3.com.au](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWRvTXlNeWNyN3NZRkNyWFdpakZRR2dCcU5LRmh1WW1pU05rYWZ6ZU0tQ0JGclFxOFlCV2NDcUdnOHdsLXZlQk9YR1pveTFWdjVlREN0WjhPRVAxaHkxZXFhaC1HMnJlamN4QlVMMGxNVVUxNm9yWEJmcFp2TjhNMGY3NVdoX3RUaDE0M0Rqa3BBcHZKMU5PQzlib0hXTHA0MnowWTRGeHdVN3c2SUVFODh5RW0zdjRPWWEzc1pEVQ?oc=5) (mi-3.com.au)
+- **Freestyle**: [Freestyle Closes $10M Series A Funding Led by Silas Capital - PR Newswire](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTBiSGV2ZHM4UzZvMUhnNVdzbTNSVkJkd0VET2dIeGlxR2RZN0NDU00wZk9NeEFWYThaYWU1b3NnTWVwQXBYN0hhUUpldk5WdkFLUVZsUXk5ZjVtTjZ4Q2pwcFc1WG5DbEZkZndzV0VDR0dMcHM5NE53YkRsQXZVY0puZHdORGJxbE8yMlZVQ3R0VURvaHVqY3AzNjNTWk11alBDa3dnZEpsaFdsYk4zSFZIN0s?oc=5) (PR Newswire)
+- **Freestyle**: [Freestyle: $10 Million Raised For Premium Baby Care Brand Expansion - Pulse 2.0](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkdVZWpaYUdGNUloc051N09rYVpaSU9yRkQ2VEVOSnFPaEZZdGE3UHFyMlJuVGp0d1dQeFpOU2tlNldXYW1lNVZyZFBvekNDVDQxbTlIT1lPdnhVakJET1hoU045SjVjeUxGMkxlR3RpSU5JS3ZmbjFzdy1UdXQ2RjY4RXZzWk52Vk41c2930gGTAUFVX3lxTE4xMWJDZ1hzS3lVd2lqT19kdDFwQzUwRWQ1UjItNXhCMDJ2a2lSUjhETnFwdzJOUU1XbUYtbG9TNXJBdlVPT21WUzhBTFpHa25HdVdRYWFFUEVsRWlSWjJob3B2NFJQZmprQ25hdUNVaUxVRnVJcDlkUnpIRjB6aF95M1VkZU1XRU1wZmJhcVAtMzJGWQ?oc=5) (Pulse 2.0)
+- **Freestyle**: [$12 Million Raised For 'Revolutionary' Freestyle Series Of Tournaments - Chess.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWElzZVRvMVhuZmRoSVJaMmEwLXAzZEtkYi1DQUFzMzlSZkpFQjJTOS1uNmljYXY4VUg1bWxFVzJZUlZqS05YeVRBdFRaQUJuX0xGWjcwTkFDZTZMNGpwMlBpSHNCaU1zbGM5My00UVJMZmRaY3Y4b0thSzBmV1Y1SmtyYkRzZFFWc25Dd2IzOGVrOHM0TFVSeDAySkEteWlD?oc=5) (Chess.com)
+- **Overlap**: [Global buys The Overlap as Anthropic plans $10bn funding round: Latest industry moves - Performance Marketing World](https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVJPWTVEcmpKaXpLd1JkSVRHOGJhVnRTSDlFa2QzMmhlT3AwQWctWEhCS1RyUllzMEpDa1JTZDZTWUp1WWRBRjBtVDIzSjRJN0EwLVdrMHhqTmZvVElXT0FUeXhZdlY3OXpyOFg2NXNySzhVUVBPQTJwdUlMeUZoV2ZoU3ZNcEE4aXZQaGNRTS01S2JoQVR3czdtU25wbFRENDg4ZUgwTGVTQnRYUDhES3ZVV0Q1NTNodkZ5RVhLazJqZ2xjdTdqUUkzalc0b0k?oc=5) (Performance Marketing World)
+- **Henry**: [Henry AI raises $16.5M to automate commercial real estate work — plus 7 more NYC VC deals to know - The Business Journals](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRVF5eTBfaFhCVUJnNUw0TEtzMnNOV0d2bl9pZm9mR3g3SE91SzVGeHIycTFXUklldFAzODYtYW9uVTE0c0RRenZmLUQ5eng1Ql9PRmVxWXNGMzZmMHJEZkZOMW1QZFNhZzNZbkFtTDJQTi1wR1Nhcnh5N2NPbEtwZ3FKOFNEbUh0akc4ZWxFMk1sUUc0d3hubWVJS2o3TUdXR3ZkN3h6NHI?oc=5) (The Business Journals)
+- **Henry**: [Henry AI Raises $4 Million in Seed Funding to Automate Commercial Real Estate Transactions - PR Newswire](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONWpWdTgyM0stWEpsNWxzNzNlbFktd0JWVVNjR0FPUWRsNktiTDVRTmZFR1EyVktTWlYzdVhsc3RhekNSczJPTkhNaGpWVHY5SU9FOFpwRW1WZ1pKbG9nb1IteGNKVnlTWE54Zlc4SDRYcjlpaTY1XzJiTUxpekRWQVBlUlVlbFFQMDUwUnJ3MXZZWEFhT1U4WkFaSG81SEUzSWhqak5HUUZPU01WWjcySmR1a2hwSnp5X3VPdWJ2cGNVSWdnSGRoQ0haX2ZSTTZpV0YyVU01MkJzbVRUYVE?oc=5) (PR Newswire)
+- **Henry**: [Jeff Bezos Just Raised $12 Billion. He's Betting His Newest Business Will Create the Next Elon Musk or Henry Ford - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV0plNnhjV1ZNeGhtYU5QbjNoY0VrR0hiYVFreDltMWhZUlV2VGM3VGEzazBBN1N0S0szQXJ2elpWclI2SE1yeUl2R1V0UTBJem0xZ3hrWVdGeGQ2X0ZLUE5vZm80eFZ5VFQ5ZDA2N053R1pwWHoyMEpYYnVFQnJmcVVLYzZ0eUhMX2tMMUwwZFlqSU5STzVHXzFoWkZQTE42MlU2UnZUa3Q1X1BabDczek5UVUwzcC1UeEdqV2otUnhibFBHbWhMeEFZamhLU3hRcjNyY09fLXFSMDNrcDFSY1ZlNm1OMGZXaWc?oc=5) (24/7 Wall St.)
+- **Henry**: [This ex-SpaceX engineer raised $22M to do to geothermal plants what Henry Ford did to the car - Tech Funding News](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlNMU2ZwcElpM1lTTjlNVDlqRmRxWl9wTE9KME9NLXJid2dzeW1hWW4wVmRsVXZBWjgxZlBPaVkzNGFOYWxsNHpPRWRGTC0yelVIeVV5MXAtUnkyTk9pZ1pwZnNnSnNtS2F6TFdESDRoRWVKMEg4TWEtSWdzTldTSG9lM0t4blRjNEFDRmxYUmtjQ1FMZm1iZGg2U04xd2xlajFOTmk5bUtVSVJjYWRqNEhmNWE1ZU5XLVNVQ1pR?oc=5) (Tech Funding News)
+- **Pipeshift**: [AI infrastructure startup Pipeshift raises $2.5 million from Y Combinator, others - The Economic Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYU5RT051LTdJVldvYzNjSzF0dDVFYXp2T1FGVkVfblBxWTkzY3FIRnVpMFowUDlXc21FRXZrYzdGcHU4cEtZSUR3clh3M0pfenUyR09QMXFIUS1JblRRT0hvdmN2bElpMWZKQXJNODNMUWpmam1rZGxSMTdzTHNGSzg3SXhvZ2lGUVdOTlBlRmJjX0ZwSVdMbkYyRGZkZlZyX1lFRzlDekU2V0o1Z1dBbVhhUzByb2d1dnhRZUV4NlBiLXBpXy1qTzlEM1FrNlYtZ2NiT2I3cVhzWXdVazFz0gHkAUFVX3lxTE5fZmd4QTlTdzFrZllHUlR5Yjh4Q2VzVzMyUGs2c3RyMVYzelR4YklJYlc1RTVpSDJqOWFnbEJnTGxQRlp0am9xZ3AwN0hsWnUzWjR3b0V5SlVIb0dDODZjazR2XzJ6Tjh0R2w1STZvb3o4ZHNfYTk5d0pMbXlnSkl4TEo1TWdlRFZ2MGFLb1YzcTdEX1dDNGRwRzBJSFdndmVPajN0TTAyTE1TVUhLcHdzSG85ckh5TDJfWDVyb2MwUDVGczUxWExfUmJlb0t5amJMZHBmZXR4VlRwdjc2bnBsbUFRNQ?oc=5) (The Economic Times)
+- **Pharos**: [Pharos raises $44 million in Series A to power real-world asset tokenization - CoinDesk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNk5ZZWl4elV0OVNScFl4dVFXLXN1U3o4ZXlSczFLUmJRaFhQclI5dHFtYXpwbmdVWVA2eGU1eFhUNGtzbzJ1azBZMTVBT1djd3ZBN0YyVDJXRHY4RDg1M3hCZVFnd3A4dFJaeGZVajlCZG1RREtkNGNUQTBnaXc4czg1N2k0VV9GOWdlYjVWTi01NHJPUlAxVGxJcnMyWWRvVXhGdHh5cVBOSkcyVHpuS25oV1pFZUJMS2czTzBzMW4?oc=5) (CoinDesk)
+- **Pharos**: [Pharos Raises $44M to Expand Its On-Chain Economy - Ventureburn](https://news.google.com/rss/articles/CBMifkFVX3lxTE1YQTc0V0w1aEY2WmZUOVpBZkJIS0tuZXBBZFItZkluOUtvejVjZzhSWGNId1FJNkN0QkpJV0lrY043enhWWUFtQ0x1aFVzV3dqdlM1RkhRMzN1OVRweEJjNEhCSFAyc2VkVk1vdVFlTXBlV2lsd3hUOG5nR3RIUdIBfkFVX3lxTE1YQTc0V0w1aEY2WmZUOVpBZkJIS0tuZXBBZFItZkluOUtvejVjZzhSWGNId1FJNkN0QkpJV0lrY043enhWWUFtQ0x1aFVzV3dqdlM1RkhRMzN1OVRweEJjNEhCSFAyc2VkVk1vdVFlTXBlV2lsd3hUOG5nR3RIUQ?oc=5) (Ventureburn)
+- **Pharos**: [Pharos Network Announces $44M Series A Round, Bringing Total Funding to $52M to Scale Onchain Economy - CoinDesk](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVk5kMlFTNkstbkZRWHZ1bzdoSTB0ZmlGUDd1S1U4bG5qNTVjYjcwSmVQNWtsMWNIbkNfNUFiWDAzaU00dTI4M1Z1NlloZWo3U2xOYjJFUkd1eklvd2Rpd1RhZENPNWdEa1EwT0R0am9hLUpBWVNOYU9OYmNjRFJFWU96bEVCVEpCU0kxRXByTndTUVA1SlF5OTA5VkE2d1BUX3ZEekZqc3FhRkR6UWMxV2dBaG1rYzBkcko1V0xudTJ1alZUbHNBRFJyRXRLUEYzSXhSbHdqU0J4VzFYczdjWkIxWlJFUWxXcUE?oc=5) (CoinDesk)
+- **Pharos**: [Layer 1 blockchain developer Pharos raises $8 million in seed funding - The Block](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVNlaXB0Wnh6MnkxdmxUN0JlWkxyNXo5SVZ2dTB6dFhUcXYzNXhHRDZuZFFvNm9QdlF3czdhZE1vbGlZQVlnQTlGYWVNYmdoRmhybUFFZDF0Nk1wLXpUY2NkdVFvcVZZeEZrc3dQTjJrQ2xaZ1VnNk15ekVIdVNYcy0xNDFtSmFSUDZyeWxQYUZFcS11Y2c?oc=5) (The Block)
+- **Usul**: [Exclusive: Usul Raises $3.3M to Help Companies Win Defense Contracts - Tectonic Defense](https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2NKXzNzbEE0SWRIMDNVdXNjdHJ0SE9YYzJrNGljakJQalI1a0JIa1BZLUs1TUdoUnJDOEUtbWdyUUdXZ1RqVmNKQklMMVdCMXkyOFpvaDhaZG5aRHkxSjd6a19fNVZSdkpzM3Y5cWhuYXIyMzltUkxVMGFVWVJXWVY3NFFMNmxQUzg1NlpLMHl4bzNsbFR6ZVFpOTQ3OWR1?oc=5) (Tectonic Defense)
+- **Oway**: [Exclusive: YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’ - TechCrunch](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2kzcFBNMkdKY0VKTkFHZ1Fmb3pzR2tjSkxDbXRUNGRNbXhmMXRkbm8tNlFKUTREbHZ2elFJY2NFM08wYThtZGZVVkljcUp5bGxjX2tNOVBtMGh2Z0JRMXp0Zm5PS2kzUms2RGFXNUI0cmtIYk8zYmdtZy0zcWlVZGRpUktJRU5UYUxMdmZjc1NTQVhLOUVITmdlWW1RUXZCbk5J?oc=5) (TechCrunch)
+- **Voker**: [Voker raises $2.2M to help teams understand how AI agents perform in the wild - SiliconANGLE](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE95TTNvdXNvZlhnYm5udm5YUWlDUXlmUl8wNTNyT3BuRW9sZzdlLVhmNHdLQmpBM2xILWFWeGZIZG54TEhFRk1LYjR3MXFMRnlvUmR0R0FONHhhckZnMDBpalVHaVJnMXRQT0NMVEsxUkpDY2FQYmM0UklvS25CX0pPQ2dDaFpHYlRkOEhOLVpGZ3QzemlvNUJGQklVamdH?oc=5) (SiliconANGLE)
+- **Kontigo**: [Kontigo Raises $20M Seed Round to Build the Bank of the Future - A Fast-growing Stablecoin Neobank - ACCESS Newswire](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMTJBdDltLV9DNjhIenNRZEJRTkxfcE14TFoxY3FWSTlkdDRmVEhlZXJKLUVlcmxwRjJJSWtxSkF2dmRUSmt5UXVhcWhYSUNGWFprSG5SWDRudUJ5WEQtMnBpTGEtWk52VnA0YkZWdzFxTmN0eWowTGprdndrbDJRcFpVVF9pSC1pRXVmV3ZVSlZxTmtaYUZ2Zl95SlVXQm0xbFdrZ1FDMXNzTW9qLU56bllZaXItZ2hYcll3TFpYTGNndDBrTUJDY3MwX3ZwOFR5SF8tN1hJS2NrbXRiMl9fdUhRVQ?oc=5) (ACCESS Newswire)
+- **Kontigo**: [US stablecoin-focused neobank Kontigo raises $20m in seed funding - FinTech Futures](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDloa2hGOUpyR2VRV0FrQ1RQNUdHYkNXX2dOVTlkRWNOUUdLSTJ2MTlNTXdxUTZzUjYxbHp0QTRtdUhGVlo1MkRUano2aUxhTGkzQTZjbjVLbHBuT09FNEVXblNDcXdUVmk4NGdxMFZ1QWExMENyZjFnWlAzVjc5dW95WEJ0NHdnVnpXQjlLM053cDNMQ3hPUXJpQVdVeUU?oc=5) (FinTech Futures)
+- **Entropy**: [Extropic Announces $14.1 Million Seed Round, Building 'Entropy Computer' For Generative AI - thequantuminsider.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxOa0xDX2paMTlfMjkxMDhJSFpYNmoxQlduWThXcG9Dckc5SFlxdGNISWdyRDRoSXFtTGNQaWVQNTZHNVY0QkpHeXo0NWVmQVZlZE5meUg0QU9ZdGpRS25GQnRjX3JFUkpTdl9OTFZmelBZbGZ5cUNtbW9ZcE5WaDBYeVhCUTNLRjZ2WXhTWHNLSmZzS2JpLV8zYkpVNWF5YURpZFBHODRoWDJrak1GRjQ2dGtQc2YwTF9JUnAyMnJGLUJ3Vm1YN3Fr?oc=5) (thequantuminsider.com)
+- **Starcloud**: [Starcloud Raises $170M Series A at $1.1B Valuation - Payload Space](https://news.google.com/rss/articles/CBMif0FVX3lxTE9RNTRqd1VyUFdzU29TRW5ycTVGd1RfWjhRSGY4ck1wUXhGMEcyZ1MtWXptaXpVam5QbXoyM2JZdXFkdkI2Y3R2N05uQjhIa0UtN0NsSnhGZUNWamxxUGJvU1pENUFWYjJyU0QySTR4S3dQZHBORnU4SWVwUXNZSDQ?oc=5) (Payload Space)
+- **Starcloud**: [Starcloud raises $170 million Series A to build data centers in space - TechCrunch](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjBxYWNmRDJCYUhqN1FQV1k5YXppaFgzbElWT1B6V2hjVlZyN1FObVlMdktWbVVhTzVqWndxX1VIdDhFb3A3UFEtRlFiTWUydGpuQllHWmVEYmR6WVBBSFdPLWFNVE05S0VKZHBCOFVLandYaDRRSWxiemdSTFFIZ09tNFlZQ1UyZXMxMG9qaml4eXpNUkZaZkVqaFY3Tnc5YmZ2Tg?oc=5) (TechCrunch)
+- **Starcloud**: [Redmond's Starcloud Raises $170M Series A at $1.1B Valuation in Mission for Data Centers in Space - 425business.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUjB4c0NNY1d5ZzhRX09HRHNoZ3pDTlJnUjBLOXQxbWE0MURIYlpCV2J2YThNTGRfYU5FOFZIZTA2cGlrcXN4bDEwYVh4MFAxM01oU2pqQkcxSWp3dnhTeUdCRmJBY2VDcUMxdlVMQy1TNGtSZnpHUm5ocGI2LVFSY19wRkJzdk1ycUxKU1lDUjFHSWFjZlNrUWtod041NWRWVDVXby1mYl9XdF9IU3VfVUhSUVh5cjhXRmNxQmtjTm8zWTZweUpQRVRhR2VMU3JPTXZvQW4xWjg5NW5iX0dIdG1mWmNGeTl0cEVsSWp6aXdPWHByb3B2NTFGb0w?oc=5) (425business.com)
+- **Starcloud**: [CORRECTING and REPLACING Starcloud Raises $170M Series A at $1.1bn Valuation Led by Benchmark and EQT Ventures - Business Wire](https://news.google.com/rss/articles/CBMigAJBVV95cUxNWGYwOFhOYmw4TFpiMEJIRGFaYmh6eG1Ib1BMOWtBX0NqaVVzbnhYd0VEUDM2M0c4M0twRk5iRDRaVkhTbS1EWTNIN2VMbXFidlpKb3JLU2R4Q0trQnJqdno2bXpBSDMyWC10emdwMVB4SDhUX2RJdFk1Y1pjTUNfcm9wc2hqVURoX1VVUjZib1FxcWlzbzc4cGljZzhEdng2Ym9qLWJwdGN4Q1NxXzkzX1E0QWMxcHc4LWxxd2FoUDF2anhBMXpmQUFtZjB3eTYxZDJQNVYzTVlaM2lEQWtnaFFaUU9FYlFFZGVCbU5oV3RVa3p3bGpRd1NhaVpSZkU2?oc=5) (Business Wire)
+- **Starcloud**: [Orbital AI: Seattle-area startup Starcloud hits $1.1B valuation to build space-based data centers - GeekWire](https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlNQU0VrUWhsUlFMd1VoeWJsOFdtR3JzQ0FmaUVhdk5JQk5Qb2RweHZ2VGt0eGd2NTBsTThQR09jNHBVQmx3LXRsQW01QjctRC1WYnFZMUR5MVNyVVZfODctd3JrcC03d2Fhc3NoSGR5TV9LaUxreWRoMG9hYjRxZi02YjZSSm9pWGtXNlB6NllHb2tLRzlRaXlDZE92aklGUVhPUkFCSWk1cFBLNVBhZFc2UWFoUVQ4WjdqcnpzOWRFdTFm?oc=5) (GeekWire)
+- **Dataleap**: [Dataleap Revenue 2025: $550K Est. ARR, $1.7M Valuation - GetLatka](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LYmRnTm9MTTRVTkFKUV9kQlVuRFc5Z1E3d0p0TnV6MWE0MG1NUTkycXZzVFd6bFd4THdmaHpvQU1Tc1Y5SEtTNElSODExTko2Vkh5RQ?oc=5) (GetLatka)
+- **Helium**: [Noble Helium raises $12m to fund North Rukwa drilling - Proactive financial news](https://news.google.com/rss/articles/CBMixAFBVV95cUxNVFhFc1lRaUxaeWNmY2pmWU53Sk1wZUdwV3B3NzdIX2V6c1NfS0I2cWVXUmJHdHVKRFlXcVl6ZEIzb2kwcnlhQk1uY1NrOFBta2dZVWhIck4ta2N3Ry1ERzFyMVlnUnBLTkJBOHJKLVJoa0tFa0E0UElKcExoWlV1ckxfZ2RlUHB1TWRVZ1k1d09mOGdjbXVVT3pUeHNFSFRGbzdCT2dEZzVNMXVaTU5mc2FGMjhFTkZZS3QybjFGc1h0aTU1?oc=5) (Proactive financial news)
+- **Helium**: [Prominence Energy Secures $1.56 Million for Gawler Helium and Hydrogen Project - Discovery Alert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQODl4bElwc0VnUENnR0otY295M2VnMFlCNlg2cVV5X3JseFdGRkJmSWF1dkhvYThRRUxFNDFQNU5WMjZtVnNKV2JMSmJKN29ncm5DRWZXb003c0FieHBWY0ZpVXlhWHFVc24yY1ZQX3gyOTQ0c0plel9ocmJQMDUyVzNyakRLZzhuT2hwQ3hDY1ZLQUQxSkJyXw?oc=5) (Discovery Alert)
+- **Helium**: [Crypto-Powered Wireless Network Helium Raises $200M at $1.2B Valuation: Report - CoinDesk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWR1VlRaWXRTLWRkY3dGaXRETE9qWjl1STFfVmhmSjQ1VGdQZngxZnplOUZ4YVE4c3EtcVh1dHMxMnpZeksyUUExcGswcGx3ckNkN0dJZmgxTDloZnZ2djlPYUh3Um9iZ2pQdjZWOGY4SE5aUGItWkstVk5aQUlxbmlNRjVqc3JtZnFWVlZZemZTVjgydktOcV9PUWc3eDF4bWg1bTlXUXU2QlVmbjNNbE01b3BkZHVoVUk4?oc=5) (CoinDesk)
+- **Helium**: [D2C air conditioner startup Helium raises $2 million from India Quotient - The Economic Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGZ2NU1YYUlHdVUyeElBdjdlYkRpckpud1hQT0MtbS0xdy1uYVF2cENzaFJMSHVmT3RQMUE4MjFYYm43dzZMUG4tbXVwdnR2T1VSRzVWMDU2Z2hOQzdCWWJ1eHFvUHJaMFhFV3piNFpLZU82c09kYUJOM0l6UlVxLTR2MERNZ1dISk04T1RmY1JSeGVqODNqTTMyY1FtQ016UWlRSXhtUTVneEdKdm5mRmRuaFNfa19ONktKTjdtamxrZ3lKQVVHSGVwT1JOaXNJand2RtIB2gFBVV95cUxPTkFoX1FBbEp6SzIwbVVUc2dnTUJiQXlTX04wTGxXNjBweWJtVjZKRHJRZVNJbXFDbC1hbFNjSms0SkhnTExMQVl2QTFTRV92U1ZHVUZIMExnT01iaFFsOS1CZEd5dFd2LXQzR0h3MWZzTk9ISWRQS25XMXIwV3dMRzZQNlZPLXJYWUJQc3Atb0NJSGRkSVROMWhPVGVnQm5iUThjeUFrRlZwSU1acUtyUmk2T3JROEdPZU1ZOG5UaGJYT0NOb1BSUFliRFRETWFJRUhMY1ByaFBmdw?oc=5) (The Economic Times)
+- **Helium**: [Helium rebrands to Nova Labs as it raises another $200M in funding - Stacey on IoT](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUpNLTFfX3RZbFRXUXpCcjF0MUdZR1Z3WGFuSGpQaVg0Zy1KejRqWjFiYURtLWc1T2M0bEFFVVZpeDJ2NXRlNUpxeUFNNEh5eUE0dHh6SVNTNTdMNElMNkhxSFByMVZMV3RlQlN1bWtxMVF4aC1ic2ZTNWNOV0F5c2hHQ3dZZmR6LWRaVFdWV21OcTVN0gGaAUFVX3lxTE5pRGRleGc4bzBEXzlpMEVBdEhZODZ4TWtqYWZ1RmJ3d2dVNXh3X18wb0UyUHJZaU1BdmExejBNZHNvY1hoRm1pSmRPWkZ5TlVPb2g4OFJXeTVzcXRyRlAtdkVjUVM0R2NCUTFRckxQMXhubFNxQ21PUzl2bW5iMFhWY2VSb2FqWktZYjJsVFRoWk1CTklObGdPV2c?oc=5) (Stacey on IoT)
+- **&AI**: [YC-backed &AI Raises $6.5 Million to Launch the First AI Agent for Patent Attorneys - GlobeNewswire](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLU9ZbDBPU2gxR0tiOENUbi0tTF9VTUQ3RWlqeGsyLWRnaHZUR19MX1BTU1cwakpHYzNfNE5NZGhPWXZ0THpoLXhrTkk3YUwwRGFyNEhlSm5XUmY0V0hFVmFxMXZsd0lpSEtabVJtWFNmQXU2cjJ5a21HZElQSDluQjJSOXVOdFZNcUFaSjVLaHVsbnNsUGQzYnNIOGVEQlJWVlNvN1NYTm5tWHhOMTlzMk56STFuemlkV0xHaF83aFpzRUd2R0dQWTN4aGJYNlIweEoxaFRubUxQVi1CZXljRTY5TmZxNElf?oc=5) (GlobeNewswire)
+- **Haystack**: [Integral Secures $6.9 Million Seed Round led by Haystack to Maximize Data Privacy and Quality - Business Wire](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSFM3dWx1MTF2TlVaek9KUEFaa0lXRHBXdWphZHJ1YVJCMnBsTnJFQndVTjFNXzktaHBIb3g3bU1TQW1Hd2dhZ1hkeVV3X0pqMm84QTRqbVFhenNVVU1sX3dlYmtKc3BWVTVKMXdEM1dYOGxMaWRUdmRpeFAwRExPN0t4WVJHdTNxTjBUNFZGZWNHWW4wUURVNjAtRVpxbFJxY2pMRVl1ckJUdFhIeTdkWDA5Ul9GdUN6SW16Qm51TlRVd3FBR2RxTjFNOEZpMERKTkxzT2ozWHI2UEktSjQ3UUZNWVZ0cFE?oc=5) (Business Wire)
+- **Simple AI**: [Simple AI Revenue 2025: $330K Est. ARR, $990K Valuation - GetLatka](https://news.google.com/rss/articles/CBMiVkFVX3lxTE83LUZ4MDFYYXE3UV9aWTZFekRpOE1pMmE0ZkhEMHM0UjZmWVpVQXROUGNVNHlTaEZHTFRnbUFiQkNWTWJXX1NDVzI4dkdUa2hWb0xjQ19n?oc=5) (GetLatka)
+- **Sensei**: [Sensei Revenue 2024: $14.3M ARR, $21.5M Raised - GetLatka](https://news.google.com/rss/articles/CBMiTkFVX3lxTE10S05QVmVyYnNrUlRUZXk5VFNEOEdFMFotWjF1S3AzbUN4MUhaX2xtMHFmN2VDQU5rRXE1SC1TckhZT0tmTlF1UUppa0lqZw?oc=5) (GetLatka)
+- **Intryc**: [Intryc raises $3.1M for customer service monitoring software - Tech.eu](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1F1M0piVVRSRVpIWkhueTQtdWVHYkVfLXZfVUM1RXAxUS02VUJtbjIzZmRuZlZoVEhYUmlKaEhpNUhEeDR2eDZMMGo1WW90ZEViSVdUUTdGcV9JdnpQOG5IUHhSd1dmUnRnQkptRjczVm1SMEVjUE1yUHgtTVJQVzFBcklzdnZMMHI1cjM3N1M?oc=5) (Tech.eu)
+- **Pinnacle**: [Pinnacle raises C$652K first tranche to advance Mexican gold-silver project - Dealroom](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWRMTDhITW94TGs3ejY1NFZPT2ozMnpqT1BxZmJhSFBoa2YtNXNhWHJsY3JHcHNiODlSZEI5cHhKaUxuVjRrd1BTSGMzb1dUMGRFY2c0TjZueDlYLWJRRlRhZFVJcFVGdVBMSFFhQk1kUGlNQUc5aHU5S1Vvc2Qxa0thdERURkxRRHBzTllzWVo4SG5QQXBESnRnb1RDenhRS1ZqMklUZXJjQ1R1N0E?oc=5) (Dealroom)
+- **Pinnacle**: [Pinnacle Blooms Network raises $70 mn from global healthcare fund - BusinessLine](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRUJzaEhJQmRHdTlsRjZ1UjBDRFNGS2w3Yzk5cXJYUnBiYWtlamVmZ2xSMjRyVVdXRXlac0NxT2NURGxUSlR6TDhkVjlSS2dmak1sZFY3X19KUVVEX3NTbHphZjZjcmVsWGN0SHlXbWFRRDY0OFlhMXI2NV8talJ1MFpVejRxZkxzS3lxd081a3M3N0xZTl9iRExmdzVsclp0Vl84amtjMEVaNkVZOFdPT1hxLXY4UUFJS0p2enBQSTBGWDlPS1h4RmJBWdIB0gFBVV95cUxQUzMzLUhGSWtCSWpudTVJdFFRNFZRSWRsd2xEWmI3QnBpLWRkSjgxc05tNU5oLTR6ODJLWTlxbkJ4cUt6VDhndnpYR1c1bUNUZkw5TjNGeFRqSWd6THU1dmxHX0t3YnR4dmdXZ3ZvRDN6dnpLX3huNUpUa2tqcy02ajZKUGRNWFVtRWlBYXcteXAzWWdmX1hqT3RiWUx4RXlKZWNIUWZLd3RoRVRJWGJZM2ZZNVVxMzRpeUJCTEdILURkdjhubG9GZVRUNFhIM0pTUUE?oc=5) (BusinessLine)
+- **Pinnacle**: [Pinnacle Group raises $120M in Tel Aviv bond issuance - therealdeal.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPY2VVSnlJWURnUVV4MlI2NHFQUjNkcjdSSFlpOTFtNWdPZmFQT1pNRFVaUEdtcUktZUdWa2xZOENndmE4cFc4RjVGUUMyOGFmR3d0cm1FMGtUbVNWNVdSTzFzYVg2YjhQS2tBRTRzYTRGVUJkZ3pGUzJ5Qkd1RjYwdV9xdW1LYWZsU3FVcENYMm5OT0hhWG53Z292bVhBQQ?oc=5) (therealdeal.com)
+- **Pinnacle**: [Joel Wiener’s Pinnacle raises $65M in latest Israeli bond deal - therealdeal.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmQ4dUxSQlYySF9OalQwUTY3UktpSXFQVTQ4R2FJeUY2bll0d09yUTZFWWZ2ZHdqUzZTWmlvOXFaU2xtRHhhcWpHakJkT0tfMmoyNUprX2piUk8xNy1fcW15aWZzbklkNVMzUWdldDZkX1dmRUd5T194anJaOGJiWjZPSWpKU1lhNnZFZ2N3eGVvQ2szUUtlX3FqS2NtV0pyeUdzZWJDVWk?oc=5) (therealdeal.com)
+- **Thunder Compute**: [Thunder Compute Raises $500K to Advance GPU Access for AI Developers - citybiz](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2didk5VVmpvdHg2Q1VDdTNXV0NBZlA0aWdSWmpIQTRjdVIwN1JOdnhhWXpsS1NTVVgxR3A2S0cyejN6SHVBTDI1em1QYm01LWFhZFNWdXNEVHJGckoyajhGQ2hYSjBSWlpia0lJNnRTaFRKR3BVdTJRcUYyTTRKaTBzMi01bGRRYTNEd1diWklUeXZBN3J3QWFKMVM2a1NicnZ2X1phZ0NqUQ?oc=5) (citybiz)
+- **Emergent**: [Indian AI coding startup Emergent becomes a unicorn with $130M Series C - TechCrunch](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFM3em1PUXJyR1FMMkxjcTM5MWV0Y014THEyZVNLMUNZZUdVbnd6dzh4SHlsV09tbkhwcmxyOVJqZlVBZzdJQnc5c2lwOUZwRG14aVhPcEFoVEN5Wm9nX19xNW1JMDUybWplVU8wZV9hV1FyUlJtRlBQSlN0dFVrSk82NUwyOElHOTZfUlRtTnBnbHlsazVNcWtHT0U2TVo3b0djZGlmaHVKLTE4VVhPakNxVlRYN0U?oc=5) (TechCrunch)
+- **Emergent**: [Emergent Raises Series C at $1.5B Valuation to Help Entrepreneurs and SMBs Build the Software Their Businesses Run On - Business Wire](https://news.google.com/rss/articles/CBMihwJBVV95cUxNWmlQLUE3VHlPWmRScnJWNmF5OGxZV1lSRmZhSlBsT1VDRUN3NnI0NHhNUEJQTDZUUEZ2Wm5xRW5LeDF3NEFXemZCajNDeGhSV0xmUFQtWkRMLTBBWFhlWmY0dXVhcUJpdlEwZWZoYWZWRUVBYldOUUNkZm8zcENXWS1uUzRfZFQ5S2Q1VzAwa285QXhlbDVRdFRudzdKTmhjc2w5NVN0SXRsRW1GZHktMnEwVlRldjA1SXJJMFZvS1BLU214UUNyRVFib1pEb19sbHZzdmNCTWJoRURmem9LVE42RW85cTIwbzZ2TmFEeEpIYjlTcldvbmRYcXlBOFB6RDZKbUhEcw?oc=5) (Business Wire)
+- **Emergent**: [Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch - PR Newswire](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2NCbVl6ZTBCdXFxY1RqMUM1Q3JHTTdodndRZVlmMmZ1VmNqbktrWVNacDRDUU1aVWZZdktvOF9TVjNOMWYtUEstTmtWUzNfV0V6dWotM0VaLUQxc3FqZFJQTnNrSmtHaVFfV0dHdGRIbFA5elU2RllWdWdlZGhrYzFwUVdGRjFZR1RVZnBNcDNOeG9ReXU3a2t1b3VFN2NLOHJiR0w2eTRqSjlKN004N1l5VDZaNDZSS0NVXzE0T0xsX1dyNnZ4WGZjMU51TlZ2VFZ0anFDNXQ?oc=5) (PR Newswire)
+- **Emergent**: [Emergent Raises $130 Million Series C at $1.5 Billion Valuation - citybiz](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1U0YVg3M0VtLUJrX3U3QTVsaUZKeDhSX05VMVl3RlNXZzlqY0U0TjNXMnp0TDhPcF9ScUlUaVJUY3hXMFVNaWZkU09RN2pXdGxkUm9sRnNMNFRxQXphdkZjdHZrdVQ0c29KRzI2U0hyVFJ6VElFS1NSZkVBZzBicXJ3dWxMT0N1MngxcTVPMHcwWHVoektXdy1DTTRnbjZtcWc?oc=5) (citybiz)
+- **Emergent**: [San Francisco-based AI startup Emergent has raised $70 million in Series B funding led by Khosla Ventures and SoftBank Vision Fund 2, with participation from Prosus, Lightspeed, Together, and Y Combinator. Since launching seven months ago, the compan - LinkedIn](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGdTYkJQaWtsdDlWRVlld0tYeHE5cU1WcWlHQXBaNUp3OHExbHZnS01WZnlBdlg2bGp1ek9VekcxdE1YdWxORnBwRzJzUUw5NUtKT2dnMi1YZlpKaWR1NFpkUzhKU3lrUjZKTkJjcG1IUUxaeE96UFY4S25vQkNsZGFFam1xaDJRZmFqdnhwU3cxN0xtdUhDa3lMX05MMlNkeEhaa29nZ0ttUUs2VTRsT3NSS2Y4STN2bXF3UzdHM1UwcW5HdFN1MDdNQzlIdw?oc=5) (LinkedIn)
+- **David AI**: [David AI Raises $50 Million to Bring Audio Data to AI Models - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3A1N1c3UWNabFpjSzItSGNqWVpVSDlFdHBKRFdDNUhlNHJLaVJpTnd1NHFpcEhaOTBYRzRsc0VtRDR6X05HRzNILUlXVWdGMEhiQW4zQXZMNUZxREJ0cU85OG1QTktPZlJVVHAxMEdYQzVSeHMtUkNzbWYtR29vbWljYTdnQmxVNzJudk45aGhCb1hfeVlpZDJHZEVoVkphNzhNVGRBVS00QVFCRlBN?oc=5) (Bloomberg.com)
+- **David AI**: [YC-backed David AI raises $50M to build diverse audio datasets for next-gen AI - Tech Funding News](https://news.google.com/rss/articles/CBMie0FVX3lxTE0ySHhEeW9ldXpBeEk1eW93NmJfZHJBc3V2ek5vYUpVOG45RXRjbWd4bDlZMlNJb3ZfS3FseFkydmFhOFQxYVNEdHk3WXAxVWdsLWZ5MWpWWW1INVU5SVVwdW1GLUVLUnFXWVMtRjM2eF8yZEhFTFFFbUFhRQ?oc=5) (Tech Funding News)
+- **David AI**: [David AI Raises $50M Series B to Advance Audio Data Research for Next-Generation AI Models - AI Insider](https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGp1a1Q3ODdGa1ZaeFJRU2JfM1BWbXNaeUhqNDg0alVBdlltRHpWODdRX255UzhIWTdrSjdTUFhuWVVmVXl6WDNQMTMySFB3M2h5SVAtMUN4Vi03UDJnT3lmbEZLUlF3eHBTTk9sZUM5LVlaejZuY1ZHZUdzTGFzdkxlWEY5aDMxNU9saldicmZJeW8yMHpuNVdtcENNYS1qRktpcEFJcXFFUEVCVE1KY01Vc1I0SWp5UzVrRXZtSTJnQWtaZ2c?oc=5) (AI Insider)
+- **David AI**: [How does David AI's $50M round impact speech tech? - AIM Media House](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXNJQjJWbWVJbEhKcTlqd0Nzd1ZZbTZPS0NzZzRXekNCSWhTVUw5MW5wbEhEeFFudTRXZzd2aG05Z19Hb01GcUFfRzVLeWZxT0dhbldrX0s0Q1VHa0xhVm9PRUxaeE1lRDh4NVh3ZnpldF9jOHNoNkF3UnVPT0lWakF4eGlZNUhwb2VvTGtB?oc=5) (AIM Media House)
+- **Pax**: [Pax AI Cuts Crime 27% and Raises $40M Seed Funding - Ventureburn](https://news.google.com/rss/articles/CBMifkFVX3lxTE5vNVpIMVlxanlPRVFaSFV3Q29kbjlkVEUyVGtHNThuTWN4WVJ5b2FaMG1VeWJZdlVvS0FLY0FKVXpEZUdCZ3VfaXVGcDJpa0hJZzJOR3FpREg3OEM0aEZBUGJVVktDaG5URG55SGhIU0cyWGJhTnlPaTRIZFdzQdIBfkFVX3lxTE5vNVpIMVlxanlPRVFaSFV3Q29kbjlkVEUyVGtHNThuTWN4WVJ5b2FaMG1VeWJZdlVvS0FLY0FKVXpEZUdCZ3VfaXVGcDJpa0hJZzJOR3FpREg3OEM0aEZBUGJVVktDaG5URG55SGhIU0cyWGJhTnlPaTRIZFdzQQ?oc=5) (Ventureburn)
+- **Pax**: [Pax Raises $40M in Seed Funding - FinSMEs](https://news.google.com/rss/articles/CBMidkFVX3lxTFBOeGlfSVhQc3U1dk5DVFd0SVdYNHpIR2dHajNxZXQxcEhoa1hvUjlkaUMzS0x0YWIydmpFUER3VXJVdXprR21qaWMyTEgyMk9QMjBJaVVMcDlIb0YzYnk4QlFaX2RFWTFFWWp5N3RKSDdJclRtV1E?oc=5) (FinSMEs)
+- **Pax**: [Istanbul-based Pax Animi Games raises $250,000 to expand mobile operations - Pocket Gamer.biz](https://news.google.com/rss/articles/CBMiowFBVV95cUxORDVzd01NZTVvTE4xRURSYXRHWGRJNDdCM19XaDJXUTE3ZjZtaXNwN2xYWjk2Rlc0dWpPYW5mRzdiWEl4SXVBNDBxOHRpUjFraEJnRVI3bVgzUjh3bWJXUkxqMHdYa2ZqRDBiVy1fbWNaeWVKYS1IdlBtUkZZaHpnd2xJMkdzdnBYWE1LWUh3UzJDenhrcVVTSEtEZXhfd1d0cEMw?oc=5) (Pocket Gamer.biz)
+- **Pax**: [Pax Revenue 2025: $1.4M Est. ARR, $4.3M Valuation - GetLatka](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xb05jLXpkQkQ2RHl0QTcyQkNlWk42ZkNhMUthTEJJM0w4bE05dk9jdlBlMDZfYk10QnJXSldhelNqX3dzMjJzMENWV3lNMlhZMkE?oc=5) (GetLatka)
+- **Pax**: [Confirmed: Pax Labs raises $420 million at a valuation of $1.7 billion - TechCrunch](https://news.google.com/rss/articles/CBMiekFVX3lxTFBBT3oxZldnTi1oSzBSQTItdUlyODhMNnlHSHZmUDUyX0gyRFY4VDNOeXJxOW5QcGNyUXMyWkJGTXJWclhRVThQdnU0MEVveFlhbUxfaEh3TTUxQ3VqSHJfWjl3ckN3OXdKN3I2YnpraHJjNjZFakdkQlh3?oc=5) (TechCrunch)
+- **Vibe**: [Vibe coding startup Lovable doubles valuation to $13.3B with $400M raise - SiliconANGLE](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUFdYR0FrenJ4YmFSYW9MOV91cFJ4RnFXalh0UG8zaThyVUJaU0k5UzRYMzBaN2QzUV9ZSEJsU2RoRHc5WWpQalVPWEN1NjhOcGp1SG94Ykh1Q0dDX3hJczZWUFltd2lFRmwtN3Y4RFJiRzlncTJsQjV1bXdGbFpkWUwxUGtBM1dVYnZYYWF3TFZBdGtUaGFSeFJHdGJYbDN3?oc=5) (SiliconANGLE)
+- **Vibe**: [Lovable Raises $400M Series C at $13.3B Valuation to Scale Its Vibe Coding Platform - Unite.AI](https://news.google.com/rss/articles/CBMingFBVV95cUxQVkd5NEkwYzY3MmMzdTFrZHJZWUkxLUVUNExYYlNEYm5CVjlrUVpGZXRGX3BVUkxpMHNsWU50QkNGSXZzVmhYb2tEZzRiV0NQZFZ3VkJFUi1RS20xeVpwenBPc242UnN3TEx0Mkt0WXpFZm1pT0dCQlh1VS1fdlVucmR6M0l4b2hmdElzdE5NczBNOEd2d3VNUlR6Q0phUQ?oc=5) (Unite.AI)
+- **Vibe**: [Vibe coding startup Emergent has raised $70 million, led by Khosla and SoftBank - Business Insider](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjVIYjExbWVJbkZES05YM0Q0S2VNRmp4bjd4TTR1U1VJM2dHWU95MHVfczFjamFPeEJka05tTHh5ZzdYQUh0WVhYc2JuVlFxLUZocXhTdEk3TW5DRGtMR2IwaTVrSzRGRGQxaThQWkVDcVZKQVpCSTBFcnQzc3ZicEpDQXV5NnhWUnhZ?oc=5) (Business Insider)
+- **Vibe**: [Exclusive: Supabase raises $100 million at $5 billion valuation as vibe coding soars - Fortune](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDVaUjdIN0Z6cWVlWHhSeGZxVTdhU0t1dEN2Skp5SWRGc19nSk5SWjFjRWp2MlhPVDM3SEJuaVB6Z1NRZFlIS3V4LWtJZ3EzYkdvMk8tcmxSVmlzZWJtWGdIN25XaGpkOVNNZnZ5NEIxUEt1T0txR2NpUUhZZjJJQkRCbjQ1cUswZ1JHNkpmVG1hWERiSW1EeG15aEJxTXlFVTgxVnI0Zzd5Y19TZjAwOEpOTQ?oc=5) (Fortune)
+- **Vibe**: [Supabase Raises $100 Million Series E at $5 Billion Valuation Amid Vibe Coding Boom - Ventureburn](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUWGNZUURZZ2xMTExhd0NVeUEtVHRnenMzX245SXNaOVNBMmR1eGVVeVBvUWE2eUNpUlJzVlFFZ3FXMGdvNkpna1hiOTFsSEVEZ3FKWkZoQmRxbC1uZHhoZ1RR0gFiQVVfeXFMUFRYY1lRRFlnbExMTGF3Q1V5QS1UdGd6czNfbjlJc1o5U0EyZHV4ZVV5UG9RYTZ5Q2lSUnNWUUVncVcwZ282SmdrWGI5MWxIRURncUpaRmhCZHFsLW5keGhnVFE?oc=5) (Ventureburn)
+- **Saturn**: [Social Calendar Platform Saturn Raises $44 Million From Benioff, Bezos And Von Tobel, Among Others - Forbes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbnJHOV80RFdSNHZvTEN0SXQwN0R6bWZGaGZBS2w1cmpQYmt2UENpazlrS3lXbkd0RVhWVElXX2JKaGJpUnV0bmxuTGs0S3hZeDZXeC1IelY1YjNHdzNjRWFZUm92QlNzVVNUQTBCd0VUUXAxV3JPN1NSTHVCS0NycGdHV0NDcTRCcnp1dE4xNDIwNUdOZDdJbHVreDFpTnJPRWU5M0YtNEVOQ21iUXZETU9yNWVkSnhiXzVhMVYyaXZ3Vjl5akV6Q0RaVzFEMkV4VHNkemI2SWNXX1NqdWkwTVdURm55bXF2NW1fVA?oc=5) (Forbes)
+- **Saturn**: [Saturn, the Calendar-Based Social Platform, Raises $44 Million - PR Newswire](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMi1jY0F4amlRZGw4elB6NWlsWlljTEtUQU53aUhmNFplZmVBQXpxMlcyUUFiajAzRHJTdjlYb3plNW1xMjI3T05uTHNIRklKM2FzNnpvNnVNUzd5STBWSk1GZFcyTmg0dEYwajdSMjd2OGlMR1VnX0hzMEQ2S2tRN3VJYzc5U1c2ME96OTRIbG9fd0pZNnFQeEczLWdaMlAtMElTTjJkaVBNdnhOTk9NT253RjU4dw?oc=5) (PR Newswire)
+- **Panora**: [Panora raises $5M seed to build an AI operating system for insurance brokers - Dealroom](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0V4dllsb25NenJWblJPa3IyV3dDVjU1eDk4dk1zNEhkcC1rWEtGeVo0MGV5WmJuM0QwWXJFRDJnRVBWRXNCOWxlZXd0ekZ1d1pqMWlGbW1uZl9DcE9yd0IwNHUxd0xYM1QwRVA3WER5cXdKYkRvNzdHaE9LZHBpTGhTMThsNHZrRVBvOHkwVnY4dEtzNzc4ZFAwaUVpV2pfd3hoQnR3LTJnbEZSRVE?oc=5) (Dealroom)
+- **Conveo**: [Y-Combinator backed Conveo raises $5.3M Seed to develop AI-powered research coworker - Tech.eu](https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3FGVmdUbXFTSVJia2JvNlg0R0o4MDlOOUlWLUROREFzOHVCZVdCN3F6V3ZCYkkzX3VtaF81Zk1kcmdxeVNtN1RqZGEtNU5pNVl0UkxqZHBmTXZwWEktWHZuQzB6OEFlOE1sUDJyZzdocTk2cWpDcU1tS0tUUHlvMmw1Ymo2OGU2VnFIUi1vanNsMjdQOXZYSmlhdndicEt4bjZZWHc4QTRITm1EVzc4?oc=5) (Tech.eu)
+- **Kopra Bio**: [Kopra Bio raises $9.1M seed to test virus therapy in brain cancer - Dealroom](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkNqdWwzbGdlX0o0Q0NlMUM3TXJfM3I0eVJDNGJqdEV3R0ltLWhDMF9NRGQzcEkxT1B3YXJpR2R5Yi13TjRPc0wxMkdWREFhWl85Z1FVV2p2eE5YRVctbXo3S0FDWmFzQndrMDlmYnJBei1HcWlZbUp0TVJsVUQ1bHVxMEczTDdWRS0wT1RJbmMwdDlwUGFrNEp0OUhrb1U?oc=5) (Dealroom)
+- **Benchify**: [Benchify Revenue 2025: $330K Est. ARR, $990K Valuation - GetLatka](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oY2lLcmMwVXBGOWNsWk9Obnh2QWdXdHJGR0Y3VDdoOGFEaWxFajNJNUdZS3NubWpoY3JmWEhnWnVHbmlVWWlnaFBaQV9IVXVyS0tBVGVB?oc=5) (GetLatka)
+- **Fazeshift**: [Fazeshift Raises $17M to Transform Autonomous Finance - Ventureburn](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0JKbEhtWV9NWEhPbGFpcGtxT0RMTEFFejlYdFJ3Ykc4QXdWb3RxWm8wbEE5NnFvbGxlZUVWOGpkUVYxR3FQTEkwbWVDdXBUXzItMFVyaF8tQi0wUjUzRVlzSEhSV1VERVlucF91WWVTM1NrR1R6WDJ3eUNESzBpUEJ5d9IBgwFBVV95cUxQZ0JKbEhtWV9NWEhPbGFpcGtxT0RMTEFFejlYdFJ3Ykc4QXdWb3RxWm8wbEE5NnFvbGxlZUVWOGpkUVYxR3FQTEkwbWVDdXBUXzItMFVyaF8tQi0wUjUzRVlzSEhSV1VERVlucF91WWVTM1NrR1R6WDJ3eUNESzBpUEJ5dw?oc=5) (Ventureburn)
+- **Fazeshift**: [AR start-up Fazeshift lands $17m Series A - FinTech Futures](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0dsckx4bkxseTBsb0JEVUdmRWVNdlhHMTh5R2tXRXVTbEZUSk4yLWJEbXdNRTdNRWc3dFVRUUh6cjc2MWhqQmdhNzYxVWZmQ3NFcm1mZGl4aWk5aXJ6OW9LS2E2eE1tSTI1OXUweENFSVBFVXlwRTQ1Q0YxZ2tYa25zNkFIdGcxclVZ?oc=5) (FinTech Futures)
+- **Fazeshift**: [Fazeshift Secures $4MM Seed Round Led by Gradient to Automate Accounts Receivable with AI - Business Wire](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZnNBLTFFOWJkbUROb3ZRVFhDSms5SDR2X3JMSzFKOGt4eDFLTURmRzc2ZkQxX25ncUFBb0g5VkZRTDkya2E2WV9qcGotOGFBckVmVWk3cnpPWkRwajlfSU0zcXhEYlhjamVtaGlTSkVtXzQzNi1iTk5YWndSZ3hBQV9EQ25kaUo4Mnl5cE5IUHRIdDNFNU0yWDU5LXB2N01kbVVWc2tKVEcxWmEzay0wY2hHWlFxZkREbXdsVmMwNDYzbnBWY194Q3J4TGdUUzVnMWhtQlRyY245emxsZ0h4d3J3?oc=5) (Business Wire)
+- **Fazeshift**: [Google Helps AI Agent Fazeshift Raise $4 Million in Seed Funding - PYMNTS.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWx5MFBZZmRkNnBzM3NBSjJaZHdvVWJSRkZVbmU3aklwaDE1OWZHN1BMa1I1OVY1aENoVHpoV3JaZXgyb3JIcC11eUtTdi1WempGRTFKTTFHU2RPOEpELVR0a1FTaTlBRTI2UTVSOHlTV3dQcGJxTHk3VHRIVGh0RHRtOTE2YkQzRDR3SkJsMVRIS2xvb2xtdzRQRzZKeXJsNlZ6dGpwb2FmeGVTN3M2R1h2d3d3Z0U?oc=5) (PYMNTS.com)
+- **TaxGPT**: [TaxGPT raises $4.6M to build "AI Tax Co-Pilot" for accounting & tax Firms - The Finance Story](https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFh3YnZRZWtvNXFpaFZDTFNwSVJheFhTMmtFTlUxVnlFLWdvTlZCdVJPcDdkcWgycmVZeGV0aXA0YU5HQTdEcWFjSHJhdS1BdE8tY25qV0QyTkRwZU5HNHpuRjh2T2FpeGkzT3A1RWh4YlY0aFpxa05zTXg0bllQZzl3?oc=5) (The Finance Story)
+- **Substrate**: [US startup Substrate raises $100m for development of lithography tools to challenge ASML - Data Center Dynamics](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWlptbERnd3FXb2VmSkxlc3lSbTZiZ3RBY2Y3SmNIZUszOF9WNXFpSkZjNnk5dnNJd2ZYWElQSUI0bzhYRzh5TlJ3VDMtMjd2WEExeUxBaFQ2c2EyMXFWMlpmY01uSkZGNTBBQnVsbGF2N2dDdHh1WmpuRkJ3MWNYRFpLYm1jbWNxMnllM1VYa3RMVzVuVTJHR1pJd0hxb3JyLXQta0hja0dzRzQzMmI4M3k4Qlhlb1ZoVHlJNGU1V0lFQmNLMzJWQVpucw?oc=5) (Data Center Dynamics)
+- **Modus**: [Modus Raises $85 Million Led by Lightspeed to Build AI-Native Accounting Firm - Business Wire](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZS1ZVC0yTmljVnhKYnpVN3lLS2FwM21SVG5JRDE3RGpkOS1uVlUtSmpwUTVrd0JoYng3b3NhQzNIVGFPaFBSclZ2R21GTVJHdk9Sb2xoeWR0MzJscEF3ckhtVWJBN3NaMmlSaWF0a0V1THVaN08yZTFPU1R0OFRnel9xNkladF9IZkJXa3BQYVVfRnJ3MmZVSTdkVGJmZTdJcG1WbUgwZWdGbWl3NE1JY2lwWjlST2VJc2pqdUdRTGNyVm1fUVRDTUxub0RldE5LRnc?oc=5) (Business Wire)
+- **Modus**: [Modus secures $85m to advance AI-driven audit platform - International Accounting Bulletin](https://news.google.com/rss/articles/CBMif0FVX3lxTE41QVpIbnZMOHJkUV90aHZpNFBLSHlEb2RnczdONW1KVFN0U3NhOGFET19vMmVfVl8yYXg2Ym9vRmtFZHUzZlVNcWU3T25XcXRMM05xT0RaaEJ1TmwtSWJYbUN0ZXJYN21EN0FrVEFwOVVUU1hUcjZxZ3VKejlWSXM?oc=5) (International Accounting Bulletin)
+- **LedgerUp**: [LedgerUp Revenue 2024: $1M Est. ARR, $2.3M Valuation - GetLatka](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WNUdMR1Jxc1pIR3BwajV1WVpha3FMMTRCNEVkVUxSLVFUN3hkbk5RaEFuMThxZVFhZkRsd0dTSUVFUVUxWk1NT0VyeWZTYnBxU0J4Nw?oc=5) (GetLatka)
+- **Plume**: [Plume Raises $270 Million at $1.35 Billion Valuation - PR Newswire](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUJqalVOQ2NGbnVackxPT0t0Z1FlaGU2cnFUQWRjeXB2SkRCYldZajNYR3kyc0hxUEV2emZPbmtsdUxvaWc3WjM0ZjFlTk16bnVjWElQOWdhcFM1Z3RXdEZyeWdEOV83WUpZMFVkTzNSSnM3M1JrbGlaZjRaSVVuUXJHYVdiVFhCWWNUS0UzbzR0TXhQeU4xX2tGMHQ4blBtTGJCWE4wSTAzZw?oc=5) (PR Newswire)
+- **Plume**: [Plume Hits $2.6B Valuation After $300M Raise To Make Homes Smarter - Crunchbase News](https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2FtZ2xjdzh0YlNyTmpaSzVXWkhHVEQtQ2gydVVSdmVWMFdpeWhBV3ZQM0NONWR3OVhsUE5Dcy1NUEV2Y05OTjY5cXZRS2pnXzY5aVlvMktZeU82cUFkUEcxd1JqdjdycWptQXJCOU9JemVlY0hhb2lEX0pzbkZpTGI1cWNsUQ?oc=5) (Crunchbase News)
+- **Plume**: [Plume Design Revenue 2024: $96.1M Est. ARR, $2.6B Valuation - GetLatka](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zVWJNX19GQXlXM29GMXhEd1ZCNEsxYkxfam5IVTVpNV82QXpMcWZpUGFuWnNZVlVwMjRTU0ZaRmw0ZTJRb1lsdDBWOGQyYk8wUUFDN0p3?oc=5) (GetLatka)
+- **Plume**: [RWA Layer 2 Plume Network raises $10 million seed round led by Haun Ventures - The Block](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGx6cEtzM1lEVFVzckgxdGE5N0ozYnFzNUpaVk5tbHJCRVEybDRFSXAxTm03MUwtRnhRNVdCazgwaXdaVFhUcjlQMEFpMExkODFCYVo5bWVNc3g0aGRYR1pFai1GSG43WWJDdlNSdzdiRXZzVVJIMzFEbzRDNmpPalVBRWcyclVQZDdLenZ6MjhUSkNZekE?oc=5) (The Block)
+- **Plume**: [Plume, startup improving WiFi experience, raises $300 mln mostly from SoftBank - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNk5wRlMyZk5GSkNWMlV3ZGR0LW9CZmdvLV91V1FINEVFSHI3ZGM0UkJFU0NiUlhCM2xKRmF3RTFlUWtWc212bllrYnBPM21jSDRJOXRQelFaMUVoYUFDLUFiTlI0aS1kZlZfWlpFV1JVaEJZaXpqblZNeF83aDFScUEzVU5tOEdqQ1cxZEkxWUl4OGdFUUp6M2hKTm8tWGc1Q1lSa1doVmI4QV91UnhLOGNLN0wzc29P?oc=5) (Reuters)
+- **Pulse**: [Cyera Raises $600 Million Series G At $12 Billion Valuation To Expand Enterprise AI Trust Layer - Pulse 2.0](https://news.google.com/rss/articles/CBMitgFBVV95cUxQYTJuRmNDcWNEMXdfRWYteFl2N25rQmJVNE1WQ1JyWUp0eUREUldkUVdoQlBSUHczRzYwX0FKelgwT2JlQVhaY1hIYTBpaTJYT1NVeDZFMU5wYVFiXzBDSldhMkN2Z1VLcDkxR0NyWmRKbHhtNGpSZ3dmVTNCRnREa2tjQWx4bkU4djZhSTdsT2xrRjR5T3VsMDJYU0V2YUpwRGVPU19faENPZ29vU2x4dG0zTkd5d9IBuwFBVV95cUxQLXkyZkxwWmZVeUlrY2xkWlFpcmI5QXNRZm1LV1E2X0Vkc1dVLUlhbDI4eWdtOHllcFhrbHhPX3FhcmQtSmhnRXNpUmJadmliUTJzNVY2TjY4S3djRHpUWURDUTdUZ05tX1FYTkhDLU4ybkcxTlJSQ2NBOElTOEZVa1V1eWU2TkpHTWhQUWUyQ0kwa2tPZEZaZE9DQm5zYUV0anhQeTI0cmlNWnlhMk1TRVdObkkwNFdDQXBJ?oc=5) (Pulse 2.0)
+- **Pulse**: [Snabbit Raises $30 Million in Series C Funding Led by Bertelsmann — Doubles Valuation to $172 Million - D2c Insider Pulse](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQmhKakwyNnNnOHVhNHYzcTQ0cFZHQnJRbU5nOThtTDBLSE8tcVZxTmRZck9qajhmSW12ZHlybFZ3S0lhelV2aGxTTHFZVGp1ZUVfRV82R2xER0hSNzJIQjVMRDF5LWU0UVVqNWhKTWFLNURfOW5ldXhveG0zcTJlLXlQdEYtQjRzUXNhTnM1bjViV2dKLTk1cFhvWmJ0WFYyVlpDdUZMWUpvU3VJdVM3emZZRHh5anRsYjZPamFqZlFEX0Fqd1E?oc=5) (D2c Insider Pulse)
+- **Pulse**: [Slurrp Farm, Backed by Anushka Sharma, Bags Funding at $90 Mn Valuation in India’s D2C Food Market - D2c Insider Pulse](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0RHeG5DbzdTM0lxbzhwUmFJcGxSU2hQdFAtUFFVRkpOVGpsV3JaeXA4YTYwdVRZekFIcEREUEdONk1CTDlNNXZtUnJLWndqWldRcnFfd0JqOUxfenF4cGt5LWVpWFVsd3dVY3pvdmxPa0s5NV80X0E4QU5YbnNUN3A2ZHctV0h5US1zNDRrMzVIS2NDeE8xdU9xdlVpcW5makRYbVpuVmowdUNpY0c5UDVDXzdVVVVMeUFzZ2dJazJmQQ?oc=5) (D2c Insider Pulse)
+- **Gauge**: [Gauge Closes Fund IV at $1.4 Billion - Private Equity Professional](https://news.google.com/rss/articles/CBMie0FVX3lxTFBnOFJqdGZ1anJ5c2lHbllyWEJRdVFVOFdPREJ6d19JcXBSemJHbEJiSE9WeWwybEdiWncycnlvTHgzOUxBeVBpek5nbEJTbTBPRDdYWFN0eVNqb3lQM01rb04xbDllZ1RyQURPeUFQOUg2ZTVvMEhYZUYydw?oc=5) (Private Equity Professional)
+- **Gauge**: [Sprig raises $30M to help companies gauge users’ reactions to products - TechCrunch](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWW94NHJacUpiOEJReXNqdzNwYnlmeWt6eks2UmgwSTVGR3gyVURJWkNBTTRFTkR6NXNfZGtQd01TOXBsQlUwU1pnQ0FNVVZLRlE3WUpDRm8zV3pNUi1OTDc1OG1EMWZNQmxsWEwyN2VsZEZBN3NadXMwNEUwbzRmdHNpTlIzTmRuTFBpcVRSZ3NBVTh5Vldoa1p5R2pETkJmTDNHTzhn?oc=5) (TechCrunch)
+- **Tandem**: [Tandem Technology to Raise $100 Million for Prescription Automation - PYMNTS.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWFkR0hpU1JiRU1yb1ZWX3dNaFVsVFk0X3ZZWGN5bUJ6Zm1jQ1hKWk5zRVpWYWNvMng0SzhUQ0R6aDBCU3d4VmhvVlF6ZjZ4dVk3RGRqb3Z2Tlh6OExrQTRPSjBZN2dLcmMweEpjUWNJQkZXTlFSSTdSUTJzTWFNSXVxRHB0N0k2TFdyTEtMUXZkWmtfemFHeHdQUHZrWjRtVlpTYTlwVllhNmc?oc=5) (PYMNTS.com)
+- **Tandem**: [AI-for-Prescriptions Startup Tandem Lands $1 Billion Valuation - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3oxQjI0RUlzMHpYRHotMDU0WDhmMmFjTUJaNlBPRThXQ0hpT1NFSWtNN0dqdkFIM2xaTkp6ckQxd3hPRWpDWHRsbDM4RzZ6YnNpR3o3c1JWWm52WlZZdjRXM3dld0ZaWUhzM29xUF8tbkhlM0pnbm85WEJoX0hZemlSZ3RsUUZGRUcxTF94TGVUQmFkV1oyZTFHeGVRSGxXemVUZkQ3QkJxSjFwTmRRTFF3?oc=5) (Bloomberg.com)
+- **Tandem**: [Accel to lead $100M for healthcare AI Tandem at unicorn level - Tech Funding News](https://news.google.com/rss/articles/CBMia0FVX3lxTE9DYzl4cUNQVVFHSFlldXcza2VwQUk0UWFTV3oxR3JUSWg2QlpyaXNkc0VqX0dibXRGSTh2cmFRV1puU2Q0SmVNcGtrUnVzUTAyUUxlLVkzMndvcmF6c1paN2U3YWlQcG9vUUFn?oc=5) (Tech Funding News)
+- **Tandem**: [Revoy hybrid tandem trailer rolls towards reality with $27 million raise - Electrek](https://news.google.com/rss/articles/CBMijwFBVV95cUxONHdiWDNPMGhETnpRZ1RRSzBCV1RTSHp6Ql9tTlByb2FiRTdBWC1WajZCdlMySkw5Njk1YVNmT3g5a25PVW1zY2NhRmQ0T3Zja0pHQkhFSmpLWDNKUV9sYmxRUTVZSW5FNGs3bE5TcnVtU3FQYjZDaHdtVUJCM3p1LTV2TnJXT1ZoNUYwaFY4OA?oc=5) (Electrek)
+- **Tandem**: [Exclusive: AI startup Tandem Health raises $50m for healthcare co-pilot - Sifted](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RTlhacG0zZjA3M3lJTnhhejN0bUJRaXdsWUR6TVdrVENWUFZDVjhoaGVWRUdMS2VmNXdCUGNqRmR4S0ttR2lhdWFBUzFoRFlHSUQ0OQ?oc=5) (Sifted)
+- **Lore**: [Marc Lore’s Wonder Ties $9 Billion-Valuation Fundraise to Future IPO - The Information](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWJWUkVzRGVibW5KbDNsUVEwTlVIYVNVY3pYdUZkMFRlcnJFUXNIWFZXRWdoYlJsZmVOeVVOVmUtT2lNRFJBM3pNM0lnaFNBc0ZWazFvNkRzdkFtcWRPTVZwYlFzTWRVTnFYVWY4cmNEVTE5ZGVRdE01dERsUHFOdzVJTUV4NVA4ZG5id3pFcEFHanRvRFNOazUweGRULWRVWDlWYm53?oc=5) (The Information)
+- **Lore**: [Marc Lore’s Wonder eyes IPO after $9B valuation funding: report - Seeking Alpha](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmltSDRTRng3LWtLRVc5MmpTWGI0X21aNnpEd0d1Y3VkZXpMYWM3VkFWYzBHQ3YwYmhGSjRPa2tEc0lsM3JyQllESXNXT1Baam5KWDhiVG1USktTTzdyU3Rua0Q3MmRJSUVkNmFNNkUyc1RkN0pfNFZnV0ZneDE1X3F0N3NhMm9OdEdKYjdVR2Nld1RfdDVESjdBbzNjVFE?oc=5) (Seeking Alpha)
+- **Lore**: [Marc Lore’s food delivery startup Wonder raises $350M at a $3.5B valuation - TechCrunch](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTNJVlpqeXJ1ZWdFWFFmUnJqRGdzOV9UZ0JMN2NxXzE2SklpNDhfM0hDRHNwRVQ1VmpmN0tTRzZQNk9CSmowYmZ6RFByNEoxVHdwWjdndXFrS3pWZ0M2cXNGVDRIWk5KQURDNmdibkZiX3VIVjBEMVlXWkZoSThHQUg4MjNLcmcwVHRtSmJvNnRKbElYM3MtOUVpMFpONkFpNlcw?oc=5) (TechCrunch)
+- **Lore**: [Exclusive | Marc Lore’s Food-Delivery Startup Wonder Is Valued at $3.5 Billion After Capital Raise - WSJ](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDk2TnFfTG1ObUpQNHlfMEM5X1BUcVN4S3N5d0VfMzhvVVdiZlRHeHRwTmRZam5rVWs3T1JxRHk3Y1E3X1hpUEo2LXZsNXd5NE1vX2QyV21ndGFQNVNrcFBRd2FmNkNSRlFZeGI4YU0xRTBjajNnVGdqaEE0UHBkS1lteThIVUtmTG5taGdUbnR0TkZsc2dvMjh5UF9IejRZX0xhZk95a2tkaXVPYlJTV0JlU0R0N0JaYmQ3OVB4OHk0akx4cUF0VElsOUd0WTdGX0F3?oc=5) (WSJ)
+- **Lore**: [Exclusive: Marc Lore says Wonder is gearing up for an IPO after raising $650 million at a $9 billion valuation - Fortune](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX294eWNoTE45Wk81bm1EUWpYdlYyZTJMZWhzSVVyRnVFNEh6aHk3STNjQnphemd6eEwxZnVBQmxQQXpIbzFYQWkwYUlMX1V2R1pZc3lBYmVGMEc2N2cwLThrOWZ0TlhVWFVTQURxY1FndGhVbkR2X2wwUER3WThHYi1ablFoME13SjJTblFaYy1Bd1c1QVZyTG15V0tNNW5CZVM4X0xWV2Q5OHYtbXU3RVN5Nm9rYV82d3BYemdoNFRpWVU1TDFLZ2F6ZjVFNFg0UlNlY0RnRGhfRnZ0SG93MjY2WVdVU1FZbGc?oc=5) (Fortune)
+- **Parahelp**: [Parahelp Revenue 2025: $880K Est. ARR, $2.6M Valuation - GetLatka](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvU1hKZFNGWVBFaC1oN0JFdE5sbW1JRUtLNk8zeHRHNDFwSlY4VXlvRUswT0ZrczVDc2hrVWlkT1k1V0xoMi1LNmdJcWd1cldhX0dIZm9R?oc=5) (GetLatka)
+- **Dodo**: [Startup Working to Bring Back Dodo Bird Raises $120 Million - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjBLMi1IaFp5R24wczZHYmxUN3BJMFozYVNzWXhLVWdCYzR1RE1iT0pya3RkY1RGOFhnd1VjOWIyY2J1TnBndU5iVVdpeENuNUlQOEE1d1R0a3B3X2VhVFMzTjZSRHp0emw3c2RBMGI5Z3RZaW1pOUptQk1pdXpfVFpwZ1B6elNzeFlwMGZpVFJWNDdDTEswUXNqY2dNNmFyOXdkYmxtTGRiV1dtWnc?oc=5) (Bloomberg.com)
+- **Dodo**: [Colossal Raises Another $120M, Announces Pigeon Cell Breakthrough to Help 'De‑Extinct' the Dodo - Dallas Innovates](https://news.google.com/rss/articles/CBMixwFBVV95cUxPckR6T0dNUThCb25mcXlXdzV1U2s3eGVWMTFwN3hlN1RhMkhMeTNFLWYtX2loS0lOR3dvNXRVR05JdGFDTFRLeWd4M3dvNGQxNlg0d2MyV2ZVWEFMeFRadTk3N3IzaVBMVDVQSFpRYW1kcnZQVUktRnFwSFFBd3B2cmVuN25Wd09QVGlmVFd2UDVfbzhxRUxGUTUzVXBfbXl0dFV2V0pQdWpyX3ZoWlhTSkxxbEtEem1lNHdpUzloNVk0Wi16ZThj?oc=5) (Dallas Innovates)
+- **Dodo**: [Colossal Advances Dodo De-Extinction with Significant, World’s First Breakthrough in Pigeon PGCs and Secures an Additional $120M in Funding for Species Expansion - Business Wire](https://news.google.com/rss/articles/CBMivwJBVV95cUxPRWNBZVlnUXAtMkc1QnNlaHpsWUV1aEpIQkpxQ0o2Qm5CYWJJODdmOWZXR3hZb09rWl92WnRuTTJpeXNjZjR2Vmw1VG5PeUZ3b1RSN0JhZ1VTaE1wUVk1cGgxQkhBcmhHS1RaYjgtVXpIcUF1Z1hkYmQtQmRQTXZFOTZ4SFdxZkhMN240VW1kUmRYNUYxX0tJdzJLRFZ1RjhzOWNRYXBsbF9PeUItMERnTV8wZ2hYcGZlYl95eDkzVWMzaGdZSDZEc3RhcTByend5Zzdubl9BTjdJY0xtbU9kczhyb0gtdWZMMDdIYzdEY2NaaVpDVUJqQjhtXzZrNGp3THMwaGNoSFlvbnZINjltM2J1M2pRc1RpMEd0QTV2aGVqLTVDenA4b3FwZXhGRTNnMFY5a1hLMXRISmphb3Rn?oc=5) (Business Wire)
+- **Dodo**: [Colossal Biosciences Raises $120 Million and Sets Five-to-Seven Year Timeline to Resurrect the Dodo - Colossal - colossal.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDFlTy10UXpXbmF6RU5tZHF1bkF0YVFSTzlPTzhQWGxKdnVSemxfSUdSNkZkaFh5MkhMMlM3azJYNkFTbGs3YkZBZTZ1VElnVXplamlYT1p5MlAwOC1VbjFjREtUSUFTMmhxZ3NoOS01bjQ1d3Jnejdxb00xTUFRenZIb1A0dGc?oc=5) (colossal.com)
+- **Dodo**: [Colossal Biosciences Raises $150 Million, Plans to Bring the Dodo Bird Back - D Magazine](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWdmdlJQZVVaQjFlSVNrVk5VZ2twM3Y3RnE3akttQV9xRUplTjhiSm4xVXF0SmdFR0dnbTl0T2NhWENGdFBoNlJNSDlxOGk1VGpocF9PSjUxZC1YbnBkNmFiV2RuT0V6N2c4RmFlMnY4N1RTd0JkUUxvd3hGQ0F0Mld1UDhqMHRMVElDTWtCM2tPemlZRW5pMzJqOTFTQ3NESVlENWFiTGYxelA4RV9PQk9IU1JfLXFRRlVQelUzeUExMTQ?oc=5) (D Magazine)
+- **Elevate**: [Primed for (Vertical) Growth: Elevate Farms Raises C$6,720,000 in Pre-Series B Financing to Secure Food Sovereignty in Canada - TMX Newsfile](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeXpUR2FIVlFFcFBPTTBoMk1XeWNodEt5WjRLa3cwT1dYS2lYRWF0T3VhS3hyT2NEZzEyb1l4d2U2VHY0TGpsTUh0UEhncVR2c1NzNzBSQThpZ2cyTlAxZFJLMkd5bjRDZWlvTnd5ek1QVjVZRWhvQ3BuQzVhLThENmRhVng3WTFwSWxtRmlSSm8wZXp4V1Z1SGVFYmRtUmZFTWgxTGlOaS14TmJVSWlyRHZNWkd3MGl0Q1E2U3ZtZGFORU1fOXJvd2tnQjhuLW1Wd3VpSUNUbVVGU0s2NU1PemZXOGJ6eTdGLW9ESG5XR0dWLUl3?oc=5) (TMX Newsfile)
+- **Elevate**: [UpSmith, a Dallas Startup Led by Former Elevate Leader, Raises $3.3M to 'Combat the Skilled Worker Shortage' - Dallas Innovates](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZEE2Xy0zWWVzcmxuMFNDQ3N0MEVPNkt6OVFQNlVSZnNId2ZuWmgwZko5MGNpZHRRRW5lblNtV3E2SWF5QnpBdGxYOGt5X1hXQ0VLZ1k1S0hCaXNOM0NSR3ItZk5vLXJwZHg3aDdsbHc5aTA0bHE5ZU4xSnFQUHZFbFpWejczSUF2RHkyS0JqZjVNUjloWDhKVEl3OW1ZWWdUWXRtME5nLVFUWnBlNzhnQWZTN3dXM1p5UEpjMk1lUlRqN1hDX0VQb0l2TkY?oc=5) (Dallas Innovates)
+- **Elevate**: [Apollo Neuro Raises $15M Series A to Elevate the First Wellness Wearable That Actively Improves Mental Health - Business Wire](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQWp2ejBQWWFGUzZWdFc2M25KSzlteERWb0hOU1dXb082V0FTaHRhWWxlc29rX2pZWXNJYmFOdGhCbXoxMnFxX2FzMGJwbFRTX0swell0UlhuRFUwTFl1RHNZRk1nN3R0XzdObGQ3Rk82WG5Pei1Ja0F3dUpiV2xqdlRWVW4wcXJxc3VSNkxjTjZuNW9BSlkwVi04VWgwZGs3b19TcTM0ZVlJc0UyUUU3YmVuaVdMT2lZWm1LTHZ4XzFVRnV6blZYSDdMejhmN29TbXJGSkpqcmV0THZlN0NINTRkMEJhZlZ1cnZDdExlMkRYRF9vLVItSXVXMXg?oc=5) (Business Wire)
+- **Scape**: [Swedish Scape raises $3.2 million seed to build an AI-native email inbox that works proactively for users - - ArcticStartup](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rTlhKSGp0VDJRWFJNS2NEcGJiQmJrcjZnS01hSlB4WEZzZS0tMnVDM19pQlB6eVczeEZ0aXdocGl3QlRWYXhXN3hKWVktSlBybW9XNjRPUm5FWlRZOXfSAV5BVV95cUxNa05YSkhqdFQyUVhSTUtjRHBiYkJia3I2Z0tNYUpQeFhGc2UtLTJ1QzNfaUJQenlXM3hGdGl3aHBpd0JUVmF4Vzd4SllZLUpQcm1vVzY0T1JuRVpUWTl3?oc=5) (ArcticStartup)
+- **Unbound**: [AI security startup Unbound raises $4 million in round led by Race Capital - The Economic Times](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM0VKVG4tQmpZclJxZnhTa3FNcWVRTFJ4YzNRTVB4TlhLdlZ6WG9lT3BPUjJHLUR3emJJcGRKNjlNYWw2ZUdIWFVzY3ZfendNMW15NlA2UDV6aUIyWGRTVzNEeFIycWFySnhZWHYyQ2hoaGJpdW51VVRDUWF1aG1mWHNFRnRfS2tTYUlINS10bFgxajB0NzNCNUZVMTRHa0NmbGRrR1Q2M01VbzlDRU5rYzdzSHhwV3lUb0VYUnBFTEFHc0NFM2JfX1B3ajNtUHlNZVpUdzR3QdIB3AFBVV95cUxOTEVRMzNRbndxWnQ3X2xyX21QdFFkUktMOVdXaTlHYnJtZzNOZ0MtSWhhWXFyU3YyVWZyX1Q3TGdUT3hqQ3ZDblpOMmlzaTNDV2ZPcGt6MGFadHBLbFBhLXpWYTVkZjlFNFBrM1dOcm5waXhlbUZrWTlvUzZHUVFmRXNUWEtVTlN3d201OVhGc0FhMHRZQ1cwSVhBZEROWFk4UGd3NEo3VkJHYWpYSExQNHFiUFBuZ29NU1dMUlJDM0wweEFOYXdtaUF6dlZVU1ZldXpUeUhKLWZCSERK?oc=5) (The Economic Times)
+- **Unbound**: [Unbound raises $4 million funding to help enterprises embrace AI tools on their terms - Indian Startup News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDRaa0o3cXYwbDdMdjFWeU9oSWpOZE1adWh3V0gtUHc3cTMwdnRXb25CMmpwbUdMN015VlRaMWVPd0w5UTh6eEp5ODZhdml5OExFczRFSXdIMFJsSFBteHRHQWViYkdPQTRSVzBxUVFmZWR4OTFTUUxlak1ORGViM2ZobzYzVVFLVktGa1RKbVd1OVZROWZOYm4ybTdnN2lGVVVieGpQa1AxbjF2SlZWb25yWG5sTm1lSTMydXRfNm9xRlpOVGduZThB0gHKAUFVX3lxTE1sNFprSjdxdjBsN0x2MVZ5T2hJak5kTVp1aHdXSC1QdzdxMzB2dFdvbkIyanBtR0w3TXlWVFoxZU93TDlROHp4Snk4NmF2aXk4TEVzNEVJd0gwUmxIUG14dEdBZWJiR09BNFJXMHFRUWZlZHg5MVNRTGVqTU5EZWIzZmhvNjNVUUtWS0ZrVEptV3U5VlE5Zk5ibjJtN2c3aUZVVWJ4alBrUDFuMXZKVlZvbnJYbmxObWVJMzJ1dF82b3FGWk5UZ25lOEE?oc=5) (Indian Startup News)
+- **Unbound**: [Unbound Finance Raises $5.8M led by Pantera Capital and Michael Arrington’s XRP Capital - CryptoSlate](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXVPSFJ0YWFwaE1VMEJBLVVzT2h2Z2EyUVJFYUo2T1c1Wl8zTV8tbllLMmdnZlVBTmZ5R2h4aDNmekRGdXZPYjVpdG4wUENKSVVqSXJVUXNvMzJUeVlyN0pkVHctazZuREF1aG8tdEVob0ZRRU4yY1pHdnZKMFIxOVAtWE9WMVd4LWJhWS1LOHI5VVNjcUxIY3BURU1vaUN1VnQtck9PWWlFa1NYYUdFUnExQWphQ2lZVXZGRmIyTTNsRTQ?oc=5) (CryptoSlate)
+- **Wordware**: [Wordware raises $30M to simplify AI dev - VentureBeat](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXdqUmhSTTczZ1hoOF94OVdrTGQ4eC1kd1JDVE8zaEpXMWptSFdjZC1lYjMwcWlsSEotZE52QmszVG52RG5wZFBXaWx0QjNoZUYwOFNFNF9tY1JlbXZxYWJqWE5vM3VNdmphaEhpaE9VdnZLS09WUmRFZGloRk9ySDVNSTZZU3g3N2JTY3lIMVo5LXRqRVNDODBGQ2thWTQwaDdaeVBMREZCdGY3dGVhajNUYWw5dw?oc=5) (VentureBeat)
+- **Corgi Insurance**: [Corgi Insurance Raises $108 Million, Receives Regulatory Approval to Launch the First Full-Stack Insurance Carrier for Startups - PR Newswire](https://news.google.com/rss/articles/CBMijgJBVV95cUxPRVRjUjZJNW5tZmlNQWQzQnpYY2pwY21kcUJzZjlLdlppOTJmNmswdk9DVW9QRVdpYnM5S0ZtOHBNU1liM0c3VGQyemhJRDBtUVZXcFU0WWxTNFEwbVRJSERtM0Y3SHI4RU0wTDNZSWdoaUQwc0hzZFYydXVlWmVaSFBEd1R4Slc3dS1mNjAydnV2UG40ZHZpQjlXcEF4Yi14eFVfWEpGYnpob3ljR2doTkNjQ0pwak5fYm1hX2k2Smt6TlNrSVhfTFoxel9Rd0xzRDVaTzEwTkhXMkp4T1VIV2dzZndrejNodm51c28yNVVfQkdBUjNKMmlXVWhDVW5ZVkxnWGR5UmFzbVlFSlE?oc=5) (PR Newswire)
+- **Phonely**: [Phonely: $16 Million Raised For AI-Powered Voice Agent Platform To Transform Business Phone Calls - Pulse 2.0](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZktkd0R6M1JBeHlITkpCR2QyMWJnQkdJbkNVOXZQTU9qM3dsbFE5QjNJeVNVdXNMcFdXa0l4bW5MZWJuYmRVcURVUXZ3VkJuVjA3YUZvbFdlNkd4VTEzX0ZVcXAxdm1TdWduVnFMcDVZU2pBdEhPN3B5eEYweXRUVGlfdWJlZzJ3SW10U080STdmSDlUekVqLXlOS3NfYllMNld5cUM2QXpDUDhzVHVEdjI5U1A2QdIBuwFBVV95cUxQbnBxQzhIM0VPNUQwOU1xQ3VYX3lnWGtDNm03VkdzTE8zTENtV3ZBZEE5RFBsYndfNmMxSVB3ckFOcGxkOWR3UEhoaUVEbHFndEFKd0kwSm0wUE9DT0p3MzlKeUduWXVZUGQ3RGx2ODIxQ0UtOUFFNHlKUlRYSU81UEhHUERIeGhpaG1JNFczTnJHVWRadTVJVlNEYXUyb3F0cGtwTWkwU19HVFRnWmxKLVpQN1k1ZUdCanZZ?oc=5) (Pulse 2.0)
+- **Phonely**: [Y Combinator Doubles Down on Phonely as AI Receptionist Startup Raises $22 Million Series A - ascendants.in](https://news.google.com/rss/articles/CBMipgFBVV95cUxOazdWWTh0QUNVNGl4b1pLMUJQM3dpQ1E2c0JuR2doZE9QMXUxa3NobmlQT0dhWGZUbHNCNnZ3ZFVtc3dEUU9FcEFZaXhfdG5jalJBdUJEWC1UalJRQlNZMUFFNEhZdHBCSUZJdmJtbjhXQ3JPMkhqQ1ozalZCX1I0WWRUeXlLMDFIdm1wQnBLaDhOc21mc3dVZEtvWjNkc08tcEhLV0dn?oc=5) (ascendants.in)
+- **Sage Care**: [Sage Care Emerges From Stealth with $20M in Funding for an AI-Powered Care Navigation System - PR Newswire](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOai1vN1dyejUxT2MtdVJWMElWemNGM19oN2xUNnBId25IVFRoV1NIekVLNEZCV3E3UV8xMS1BRXQzdFNyMmlhYm9EMnpGR3FzZXl1RU9iZUZiZ2NWS2NvRXpYNUE3T05HLW1PZnJuQ3h6d1N1bUZaV2lXNG5weE16VHRCY0Y2ZFJhMnYzaW1mcHEyakNGeGVvS19KWlh5RkM4TzZVc1JJb0cwMjFacDU2MTQ4N1FLSi01ZFQ1QXI3Ym1JdW1TYThSMnJUaEttUnhLVDVYRzV3Nm1HTlVIbjJSbg?oc=5) (PR Newswire)
+- **Sage Care**: [roclub Raises $11.7 Million | Sage Care Raises $20M in Funding | Fourier Health Announces $8.4M Funding Round - healthcareittoday.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcEdVRFhRa0M4M3lxdTBrRy1yYkw0NnpTUTRnMlY3ZW11dDdHZy1BWjhULVVWOWR4Tnd3LV90VWdMZ1Q1N1hjVFl5Y3VzanhTQVh6YWN4aWd2Tnc2VDUxYWNIbDFNcGJxWFFOUGdCa2JhREVDbzJ1cE1ZekpuNHpkemQ5OWV4M2RBV3RnZ0hVQXFxQVdOT2d1N09UMWViU2h0MzlyRjE0NzcybUM0bm9YMEx0b2MtT0RvMU9BeWpIMGFXYU41X2lveGN3N0pQeTEzWmwzbUVWYXNxeUFUQ3ZGR013?oc=5) (healthcareittoday.com)
+- **Codes Health**: [Codes Health Revenue 2025: $330K Est. ARR, $1.4M Valuation - GetLatka](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WSDdNOEFTYTZkTzdoQXNFSGR0YWMxc0NYeDhaWTZaQ0FBZGF4UGdHY3ZjNHlMUFhQbGR2WTBobnpfZFgxNXMwQ2xISkM5Z01Ia1hIa1ZwZkd4b2lVZFE?oc=5) (GetLatka)
+
+---
+*Batches watched: Summer 2024, Fall 2024, Winter 2025, Spring 2025, Summer 2025, Fall 2025, Winter 2026, Spring 2026, Summer 2026*
